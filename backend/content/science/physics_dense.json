@@ -1,0 +1,1860 @@
+{
+ "chapter": "sci-phy-light",
+ "kind": "fact",
+ "source_ref": "CBSE/NCERT Class 10 Science (2025-26) syllabus facts and one-line definitions, restated in original wording. Questions are composed from these facts by the generators; no textbook passage is reproduced.",
+ "generator_note": "Mixed fact and definition clusters. Facts are grouped by shared attribute so the reverse and negative-recall forms unlock; definitions carry their own term and meaning.",
+ "items": [
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "The centre point of the reflecting surface of a spherical mirror",
+   "attribute": "term for",
+   "value": "Pole",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "The centre of the sphere of which a spherical mirror forms a part",
+   "attribute": "term for",
+   "value": "Centre of curvature",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "The straight line joining the pole to the centre of curvature",
+   "attribute": "term for",
+   "value": "Principal axis",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "The point where rays parallel to the principal axis meet, or appear to come from, after reflection",
+   "attribute": "term for",
+   "value": "Principal focus",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "The diameter of the reflecting surface of a spherical mirror",
+   "attribute": "term for",
+   "value": "Aperture",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "The distance between the pole and the principal focus",
+   "attribute": "term for",
+   "value": "Focal length",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A convex mirror",
+   "attribute": "forms",
+   "value": "An image that is always virtual, erect and diminished",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A plane mirror",
+   "attribute": "forms",
+   "value": "An image that is always virtual, erect and of the same size",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A concave mirror with the object between the pole and the focus",
+   "attribute": "forms",
+   "value": "An image that is virtual, erect and magnified",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A concave mirror with the object beyond the focus",
+   "attribute": "forms",
+   "value": "An image that is real and inverted",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A concave mirror with the object at the centre of curvature",
+   "attribute": "forms",
+   "value": "An image at the centre of curvature, the same size as the object",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A concave mirror",
+   "attribute": "classified as",
+   "value": "A converging mirror",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A convex mirror",
+   "attribute": "classified as",
+   "value": "A diverging mirror",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "An image that can be obtained on a screen",
+   "attribute": "classified as",
+   "value": "A real image",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "An image that cannot be obtained on a screen",
+   "attribute": "classified as",
+   "value": "A virtual image",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A concave mirror in a torch or vehicle headlight",
+   "attribute": "used for",
+   "value": "Producing a powerful parallel beam of light",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A convex mirror in a vehicle",
+   "attribute": "used for",
+   "value": "Serving as a rear-view mirror, because it always gives an erect image and a wide field of view",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A concave mirror used for shaving or make-up",
+   "attribute": "used for",
+   "value": "Producing a magnified erect image of the face",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A concave mirror used by a dentist",
+   "attribute": "used for",
+   "value": "Producing a magnified image of a tooth",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A large concave mirror in a solar furnace",
+   "attribute": "used for",
+   "value": "Concentrating sunlight at one point to produce heat",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "subject": "A plane mirror",
+   "attribute": "used for",
+   "value": "Producing an image the same size as the object, for everyday viewing",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.formulas",
+   "subject": "The mirror formula",
+   "attribute": "expressed as",
+   "value": "1/v + 1/u = 1/f",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.formulas",
+   "subject": "Magnification produced by a spherical mirror",
+   "attribute": "expressed as",
+   "value": "m = -v/u, which also equals h'/h",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.formulas",
+   "subject": "The relation between the radius of curvature and the focal length of a spherical mirror",
+   "attribute": "expressed as",
+   "value": "R = 2f",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.formulas",
+   "subject": "The lens formula",
+   "attribute": "expressed as",
+   "value": "1/v - 1/u = 1/f",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.formulas",
+   "subject": "Magnification produced by a lens",
+   "attribute": "expressed as",
+   "value": "m = h'/h = v/u",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.formulas",
+   "subject": "The power of a lens",
+   "attribute": "expressed as",
+   "value": "P = 1/f, with the focal length expressed in metres",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "Light passing obliquely from air into glass",
+   "attribute": "results in",
+   "value": "Bending towards the normal",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "Light passing obliquely from glass into air",
+   "attribute": "results in",
+   "value": "Bending away from the normal",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "A ray passing through the optical centre of a lens",
+   "attribute": "results in",
+   "value": "Emerging without any deviation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "A ray passing obliquely through a rectangular glass slab",
+   "attribute": "results in",
+   "value": "An emergent ray parallel to the incident ray but shifted sideways",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "Light entering a denser medium",
+   "attribute": "results in",
+   "value": "Its speed decreasing",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "Light entering a rarer medium",
+   "attribute": "results in",
+   "value": "Its speed increasing",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "Air",
+   "attribute": "refractive index of",
+   "value": "About 1.0003",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "Water",
+   "attribute": "refractive index of",
+   "value": "About 1.33",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "Kerosene",
+   "attribute": "refractive index of",
+   "value": "About 1.44",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "Turpentine",
+   "attribute": "refractive index of",
+   "value": "About 1.47",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "Crown glass",
+   "attribute": "refractive index of",
+   "value": "About 1.52",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "Diamond",
+   "attribute": "refractive index of",
+   "value": "About 2.42",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "A convex lens held close to an object",
+   "attribute": "used for",
+   "value": "Acting as a magnifying glass",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "A concave lens in spectacles",
+   "attribute": "used for",
+   "value": "Correcting myopia",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "A convex lens in spectacles",
+   "attribute": "used for",
+   "value": "Correcting hypermetropia",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "A combination of lenses in a camera",
+   "attribute": "used for",
+   "value": "Focusing a real image onto the film or sensor",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "A rectangular glass slab",
+   "attribute": "used for",
+   "value": "Demonstrating the lateral shift of a light ray",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "subject": "A glass prism",
+   "attribute": "used for",
+   "value": "Dispersing white light into its component colours",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.images",
+   "subject": "A concave mirror with the object at infinity",
+   "attribute": "forms",
+   "value": "An image at the focus, highly diminished, real and inverted",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.images",
+   "subject": "A concave mirror with the object beyond the centre of curvature",
+   "attribute": "forms",
+   "value": "An image between the focus and the centre, diminished, real and inverted",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.images",
+   "subject": "A concave mirror with the object between the focus and the centre of curvature",
+   "attribute": "forms",
+   "value": "An image beyond the centre, magnified, real and inverted",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.images",
+   "subject": "A concave mirror with the object at the focus",
+   "attribute": "forms",
+   "value": "An image at infinity, highly magnified, real and inverted",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.images",
+   "subject": "A convex mirror with the object at any position in front of it",
+   "attribute": "forms",
+   "value": "An image between the pole and the focus, diminished, virtual and erect",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.images",
+   "subject": "A plane mirror with the object at any position in front of it",
+   "attribute": "forms",
+   "value": "An image behind the mirror at the same distance, erect and the same size",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.images",
+   "subject": "Lateral inversion",
+   "attribute": "example of",
+   "value": "The letters on an ambulance appearing reversed in a driver's rear-view mirror",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.images",
+   "subject": "A real image",
+   "attribute": "example of",
+   "value": "The image of a candle flame obtained on a screen with a concave mirror",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.images",
+   "subject": "A virtual image",
+   "attribute": "example of",
+   "value": "The image of one's own face seen in a plane mirror",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.images",
+   "subject": "A diminished image",
+   "attribute": "example of",
+   "value": "The view of the traffic behind a car seen in its convex rear-view mirror",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "The cornea",
+   "attribute": "function of",
+   "value": "Providing most of the refraction of the light entering the eye",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "The iris",
+   "attribute": "function of",
+   "value": "Controlling the size of the pupil",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "The pupil",
+   "attribute": "function of",
+   "value": "Regulating the amount of light that enters the eye",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "The ciliary muscles",
+   "attribute": "function of",
+   "value": "Changing the focal length of the eye lens",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "The eye lens",
+   "attribute": "function of",
+   "value": "Focusing a real, inverted image onto the retina",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "The retina",
+   "attribute": "function of",
+   "value": "Acting as the screen on which the image is formed",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "The optic nerve",
+   "attribute": "function of",
+   "value": "Carrying the electrical signal from the retina to the brain",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "Rod cells in the retina",
+   "attribute": "function of",
+   "value": "Responding to the intensity of light",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "Cone cells in the retina",
+   "attribute": "function of",
+   "value": "Responding to colour",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "The least distance of distinct vision for a normal adult eye",
+   "attribute": "value of",
+   "value": "25 cm",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "The far point of a normal eye",
+   "attribute": "value of",
+   "value": "Infinity",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "The range of vision of a normal eye",
+   "attribute": "value of",
+   "value": "From 25 cm to infinity",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "The time for which an image persists on the retina",
+   "attribute": "value of",
+   "value": "About one sixteenth of a second",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "subject": "Myopia",
+   "attribute": "caused by",
+   "value": "The eyeball becoming too long, or the lens becoming too curved",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "subject": "Hypermetropia",
+   "attribute": "caused by",
+   "value": "The eyeball becoming too short, or the focal length of the lens becoming too long",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "subject": "Presbyopia",
+   "attribute": "caused by",
+   "value": "The gradual weakening of the ciliary muscles and the loss of flexibility of the lens with age",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "subject": "A myopic person being unable to see distant objects clearly",
+   "attribute": "caused by",
+   "value": "The image of a distant object forming in front of the retina",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "subject": "A hypermetropic person being unable to see near objects clearly",
+   "attribute": "caused by",
+   "value": "The image of a near object forming behind the retina",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.phenomena",
+   "subject": "The twinkling of stars",
+   "attribute": "explained by",
+   "value": "Atmospheric refraction, as the optical density of air keeps changing",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.phenomena",
+   "subject": "Planets not twinkling",
+   "attribute": "explained by",
+   "value": "Being much closer, so they act as extended sources whose fluctuations cancel out",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.phenomena",
+   "subject": "The blue colour of the sky",
+   "attribute": "explained by",
+   "value": "Scattering of the shorter wavelengths of light by air molecules",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.phenomena",
+   "subject": "The reddish appearance of the sun at sunrise and sunset",
+   "attribute": "explained by",
+   "value": "Light travelling a longer path through the atmosphere, so most of the blue is scattered away",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.phenomena",
+   "subject": "Stars appearing slightly higher in the sky than they really are",
+   "attribute": "explained by",
+   "value": "Refraction of starlight as it enters the atmosphere from space",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.phenomena",
+   "subject": "The sun becoming visible about two minutes before actual sunrise",
+   "attribute": "explained by",
+   "value": "Atmospheric refraction bending sunlight around the horizon",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.phenomena",
+   "subject": "Danger signals being red",
+   "attribute": "explained by",
+   "value": "Red light being scattered the least, so it travels the farthest through smoke and fog",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.phenomena",
+   "subject": "A beam of light becoming visible in a dusty or smoky room",
+   "attribute": "explained by",
+   "value": "Scattering of light by the fine particles in its path",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "Dispersion of white light by a prism",
+   "attribute": "produced by",
+   "value": "Different colours travelling at different speeds in glass and so bending by different amounts",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "Violet light bending the most on passing through a prism",
+   "attribute": "produced by",
+   "value": "Its having the shortest wavelength in the visible spectrum",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "Red light bending the least on passing through a prism",
+   "attribute": "produced by",
+   "value": "Its having the longest wavelength in the visible spectrum",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "The formation of a rainbow",
+   "attribute": "produced by",
+   "value": "Refraction, dispersion and internal reflection of sunlight in suspended water droplets",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "A rainbow always being seen with the sun behind the observer",
+   "attribute": "produced by",
+   "value": "Needing sunlight from behind and water droplets in front",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "The band of coloured components of a beam of light",
+   "attribute": "term for",
+   "value": "Spectrum",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "The splitting of white light into its component colours",
+   "attribute": "term for",
+   "value": "Dispersion",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "The bending of light as it passes from one transparent medium into another",
+   "attribute": "term for",
+   "value": "Refraction",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "The scattering of a beam of light by colloidal particles in its path",
+   "attribute": "term for",
+   "value": "The Tyndall effect",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "The ability of the eye lens to adjust its focal length",
+   "attribute": "term for",
+   "value": "Power of accommodation",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "subject": "Resistors connected in series",
+   "attribute": "property of",
+   "value": "The same current flowing through each of them",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "subject": "Resistors connected in parallel",
+   "attribute": "property of",
+   "value": "The same potential difference appearing across each of them",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "subject": "The equivalent resistance of a series combination",
+   "attribute": "property of",
+   "value": "Being greater than the largest individual resistance in it",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "subject": "The equivalent resistance of a parallel combination",
+   "attribute": "property of",
+   "value": "Being less than the smallest individual resistance in it",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "subject": "Series wiring being avoided in household circuits",
+   "attribute": "property of",
+   "value": "One appliance failing would stop the current in all the others",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "subject": "Parallel wiring being used in household circuits",
+   "attribute": "property of",
+   "value": "Each appliance getting the full supply voltage and its own switch",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "subject": "The equivalent resistance of resistors connected in series",
+   "attribute": "expressed as",
+   "value": "R = R1 + R2 + R3",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "subject": "The equivalent resistance of resistors connected in parallel",
+   "attribute": "expressed as",
+   "value": "1/R = 1/R1 + 1/R2 + 1/R3",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "subject": "The total potential difference across a series combination",
+   "attribute": "expressed as",
+   "value": "V = V1 + V2 + V3",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "subject": "The total current entering a parallel combination",
+   "attribute": "expressed as",
+   "value": "I = I1 + I2 + I3",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.ohms-law",
+   "subject": "The resistance of a conductor",
+   "attribute": "depends on",
+   "value": "Its length, its cross-sectional area, its material and its temperature",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.ohms-law",
+   "subject": "The resistance of a wire becoming larger",
+   "attribute": "depends on",
+   "value": "Its length being increased",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.ohms-law",
+   "subject": "The resistance of a wire becoming smaller",
+   "attribute": "depends on",
+   "value": "Its cross-sectional area being increased",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.ohms-law",
+   "subject": "The resistivity of a substance",
+   "attribute": "depends on",
+   "value": "The material itself, and not on the dimensions of the sample",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.ohms-law",
+   "subject": "The current through a resistor kept at a constant temperature",
+   "attribute": "depends on",
+   "value": "The potential difference applied across its ends",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.ohms-law",
+   "subject": "The filament of an electric bulb",
+   "attribute": "made of",
+   "value": "Tungsten",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.ohms-law",
+   "subject": "The heating element of an electric heater or iron",
+   "attribute": "made of",
+   "value": "Nichrome",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.ohms-law",
+   "subject": "A fuse wire",
+   "attribute": "made of",
+   "value": "An alloy of lead and tin, which has a low melting point",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.ohms-law",
+   "subject": "The core placed inside a solenoid to make an electromagnet",
+   "attribute": "made of",
+   "value": "Soft iron",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.ohms-law",
+   "subject": "The insulating covering of an electric wire",
+   "attribute": "made of",
+   "value": "Rubber or plastic",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.current",
+   "subject": "The electric current flowing in a circuit",
+   "attribute": "measured by",
+   "value": "An ammeter, connected in series with the circuit",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.current",
+   "subject": "The potential difference across a component",
+   "attribute": "measured by",
+   "value": "A voltmeter, connected in parallel with the component",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.current",
+   "subject": "The charge that has flowed through a circuit",
+   "attribute": "measured by",
+   "value": "Multiplying the current by the time for which it flowed",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.current",
+   "subject": "The resistance of a component already carrying current",
+   "attribute": "measured by",
+   "value": "Dividing the measured potential difference by the measured current",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.power",
+   "subject": "Electric power",
+   "attribute": "given by",
+   "value": "P = VI",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.power",
+   "subject": "Power in terms of current and resistance",
+   "attribute": "given by",
+   "value": "P = I²R",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.power",
+   "subject": "Power in terms of potential difference and resistance",
+   "attribute": "given by",
+   "value": "P = V²/R",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.power",
+   "subject": "Electrical energy consumed",
+   "attribute": "given by",
+   "value": "E = P × t",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.power",
+   "subject": "One kilowatt hour expressed in joules",
+   "attribute": "given by",
+   "value": "3.6 × 10⁶ J",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.power",
+   "subject": "The heating effect of an electric current",
+   "attribute": "used for",
+   "value": "Working of an electric heater, an iron and a toaster",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.power",
+   "subject": "A tungsten filament inside a bulb",
+   "attribute": "used for",
+   "value": "Glowing at a very high temperature without melting",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.power",
+   "subject": "A fuse in a domestic circuit",
+   "attribute": "used for",
+   "value": "Protecting appliances by breaking the circuit when the current becomes excessive",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.power",
+   "subject": "Filling an electric bulb with argon or nitrogen",
+   "attribute": "used for",
+   "value": "Preventing the hot filament from oxidising and burning away",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "Magnetic field lines",
+   "attribute": "property of",
+   "value": "Forming closed and continuous curves",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "Magnetic field lines in the space outside a bar magnet",
+   "attribute": "property of",
+   "value": "Running from the north pole to the south pole",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "Magnetic field lines inside a bar magnet",
+   "attribute": "property of",
+   "value": "Running from the south pole to the north pole",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "Field lines being crowded close together in a region",
+   "attribute": "property of",
+   "value": "The magnetic field being stronger in that region",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "Any two magnetic field lines",
+   "attribute": "property of",
+   "value": "Never intersecting one another",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "The field produced around a straight current-carrying conductor",
+   "attribute": "property of",
+   "value": "Forming concentric circles centred on the wire",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "The strength of the magnetic field around a straight wire",
+   "attribute": "increased by",
+   "value": "Increasing the current through the wire",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "The strength of the field at the centre of a circular loop",
+   "attribute": "increased by",
+   "value": "Increasing the number of turns in the coil",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "The strength of the field inside a solenoid",
+   "attribute": "increased by",
+   "value": "Inserting a soft iron core into it",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "The strength of the field near a current-carrying coil",
+   "attribute": "increased by",
+   "value": "Moving closer to the conductor",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "The rule giving the direction of the magnetic field around a straight current-carrying conductor",
+   "attribute": "named after",
+   "value": "The right-hand thumb rule",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "The rule giving the direction of the force on a current-carrying conductor placed in a magnetic field",
+   "attribute": "named after",
+   "value": "Fleming's left-hand rule",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "The rule giving the direction of the current induced in a moving conductor",
+   "attribute": "named after",
+   "value": "Fleming's right-hand rule",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "The experiment first showing that an electric current produces a magnetic field",
+   "attribute": "named after",
+   "value": "Oersted's experiment",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "Fleming's left-hand rule",
+   "attribute": "used for",
+   "value": "Finding the direction of the force on a current-carrying conductor in a magnetic field",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "Fleming's right-hand rule",
+   "attribute": "used for",
+   "value": "Finding the direction of the current induced in a conductor moving in a magnetic field",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "The right-hand thumb rule",
+   "attribute": "used for",
+   "value": "Finding the direction of the magnetic field around a straight current-carrying conductor",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "A compass needle held near a current-carrying wire",
+   "attribute": "used for",
+   "value": "Detecting the presence and direction of the magnetic field",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "The thumb in Fleming's left-hand rule",
+   "attribute": "function of",
+   "value": "Giving the direction of the force on the conductor",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "The forefinger in Fleming's left-hand rule",
+   "attribute": "function of",
+   "value": "Giving the direction of the magnetic field",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "The centre finger in Fleming's left-hand rule",
+   "attribute": "function of",
+   "value": "Giving the direction of the current",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "The thumb in Fleming's right-hand rule",
+   "attribute": "function of",
+   "value": "Giving the direction of motion of the conductor",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "The centre finger in Fleming's right-hand rule",
+   "attribute": "function of",
+   "value": "Giving the direction of the induced current",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "subject": "The split ring in an electric motor",
+   "attribute": "function of",
+   "value": "Reversing the direction of the current in the coil every half rotation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "An electric motor",
+   "attribute": "converts",
+   "value": "Electrical energy into mechanical energy",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "An electric generator",
+   "attribute": "converts",
+   "value": "Mechanical energy into electrical energy",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "An electric cell",
+   "attribute": "converts",
+   "value": "Chemical energy into electrical energy",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "A loudspeaker",
+   "attribute": "converts",
+   "value": "Electrical energy into sound energy",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "A microphone",
+   "attribute": "converts",
+   "value": "Sound energy into electrical energy",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "An electric bulb",
+   "attribute": "converts",
+   "value": "Electrical energy into light and heat energy",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "An electric motor",
+   "attribute": "based on",
+   "value": "The force experienced by a current-carrying conductor placed in a magnetic field",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "An electric generator",
+   "attribute": "based on",
+   "value": "Electromagnetic induction",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "An electromagnet",
+   "attribute": "based on",
+   "value": "The magnetic field produced by a current in a solenoid wound on a soft iron core",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "A galvanometer",
+   "attribute": "based on",
+   "value": "Detecting and measuring a small current flowing in a circuit",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "The live wire in a domestic circuit",
+   "attribute": "function of",
+   "value": "Carrying current from the supply at a potential of 220 V",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "The neutral wire in a domestic circuit",
+   "attribute": "function of",
+   "value": "Completing the circuit at zero potential",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "The earth wire in a domestic circuit",
+   "attribute": "function of",
+   "value": "Carrying any leakage of current safely into the ground",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "A fuse connected in the live wire",
+   "attribute": "function of",
+   "value": "Melting and breaking the circuit when the current exceeds its rating",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "Connecting the metallic body of an appliance to the earth wire",
+   "attribute": "function of",
+   "value": "Preventing a person touching the appliance from receiving a severe shock",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "Wiring the appliances of a house in parallel",
+   "attribute": "function of",
+   "value": "Allowing each appliance to be switched on and off separately at full voltage",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "The potential difference between the live and the neutral wire in India",
+   "attribute": "value of",
+   "value": "220 V",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "The frequency of the alternating current supplied in India",
+   "attribute": "value of",
+   "value": "50 Hz",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "A common fuse rating for a circuit carrying lights and fans",
+   "attribute": "value of",
+   "value": "5 A",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "A common fuse rating for a circuit carrying high-power appliances",
+   "attribute": "value of",
+   "value": "15 A",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "Overloading of a domestic circuit",
+   "attribute": "caused by",
+   "value": "Too many appliances being connected to a single socket",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "A short circuit",
+   "attribute": "caused by",
+   "value": "The live wire coming into direct contact with the neutral wire",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "A very large current flowing suddenly through a circuit",
+   "attribute": "caused by",
+   "value": "The resistance of the circuit becoming almost zero",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "A fuse wire melting and breaking the circuit",
+   "attribute": "caused by",
+   "value": "The current exceeding the rating for which the fuse was designed",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "term": "Real image",
+   "definition": "An image formed where light rays actually meet, and which can be obtained on a screen.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "term": "Virtual image",
+   "definition": "An image formed where light rays only appear to meet, and which cannot be obtained on a screen.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "term": "Lateral inversion",
+   "definition": "The apparent left-right reversal of an object seen in a plane mirror.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "term": "Centre of curvature",
+   "definition": "The centre of the sphere of which a spherical mirror forms a part.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "term": "Principal focus of a spherical mirror",
+   "definition": "The point on the principal axis where rays parallel to it meet, or appear to come from, after reflection.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "term": "Aperture",
+   "definition": "The diameter of the reflecting surface of a spherical mirror.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.mirrors",
+   "term": "Focal length",
+   "definition": "The distance between the pole and the principal focus of a spherical mirror or a lens.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "term": "Refractive index",
+   "definition": "The ratio of the speed of light in vacuum to its speed in the medium.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "term": "Optical centre",
+   "definition": "The central point of a lens through which a ray of light passes without any deviation.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "term": "Dioptre",
+   "definition": "The unit of the power of a lens, equal to the power of a lens whose focal length is one metre.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "term": "Lateral displacement",
+   "definition": "The perpendicular shift between the incident and the emergent ray passing through a glass slab.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "term": "Converging lens",
+   "definition": "A lens that bends parallel rays of light so that they meet at a point.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-light",
+   "topic": "sci-phy-light.refraction",
+   "term": "Diverging lens",
+   "definition": "A lens that bends parallel rays of light so that they appear to spread out from a point.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "term": "Far point of the eye",
+   "definition": "The farthest point up to which the eye can see objects clearly; for a normal eye it is at infinity.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "term": "Optic nerve",
+   "definition": "The nerve that carries the electrical signal produced on the retina to the brain.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "term": "Bifocal lens",
+   "definition": "A lens having both a concave and a convex part, used to correct presbyopia.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "term": "Spectrum",
+   "definition": "The band of coloured components obtained when a beam of white light is dispersed.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "term": "Tyndall effect",
+   "definition": "The scattering of a beam of light by colloidal or suspended particles in its path.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "term": "Scattering of light",
+   "definition": "The phenomenon by which light is deflected in many directions by the particles it strikes.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "term": "Atmospheric refraction",
+   "definition": "The refraction of light caused by the gradual change in the optical density of the atmosphere.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.current",
+   "term": "Ampere",
+   "definition": "The SI unit of electric current, equal to one coulomb of charge flowing per second.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.current",
+   "term": "Volt",
+   "definition": "The SI unit of potential difference, equal to one joule of work per coulomb of charge.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.current",
+   "term": "Coulomb",
+   "definition": "The SI unit of electric charge.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.ohms-law",
+   "term": "Variable resistance",
+   "definition": "A component used to regulate the current in a circuit without changing the voltage source.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.ohms-law",
+   "term": "Rheostat",
+   "definition": "A device used to vary the resistance, and therefore the current, in a circuit.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "term": "Series combination of resistors",
+   "definition": "An arrangement in which resistors are joined end to end so that the same current flows through each.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "term": "Parallel combination of resistors",
+   "definition": "An arrangement in which resistors are joined between the same two points so that each has the same potential difference.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.combinations",
+   "term": "Equivalent resistance",
+   "definition": "The single resistance that can replace a combination without changing the current drawn from the source.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.power",
+   "term": "Watt",
+   "definition": "The SI unit of electric power, equal to one joule per second.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.power",
+   "term": "Kilowatt hour",
+   "definition": "The commercial unit of electrical energy, equal to the energy used by a 1 kW device in one hour.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-electricity",
+   "topic": "sci-phy-electricity.power",
+   "term": "Heating effect of electric current",
+   "definition": "The production of heat in a conductor when a current flows through it, given by H = I²Rt.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "term": "Commutator",
+   "definition": "A split ring in a motor that reverses the direction of the current in the coil every half rotation.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "term": "Brushes",
+   "definition": "The conducting contacts in a motor or generator that carry current between the rotating coil and the external circuit.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "term": "Direct current",
+   "definition": "A current that flows in one direction only, as from a cell or a battery.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "term": "Alternating current",
+   "definition": "A current that reverses its direction periodically.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "term": "Domestic electric circuit",
+   "definition": "The wiring of a house that supplies power at 220 V through a live, a neutral and an earth wire.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "term": "Fuse",
+   "definition": "A safety device connected in series with the live wire that melts and breaks the circuit when the current exceeds its rating.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "term": "Earthing",
+   "definition": "Connecting the metallic body of an electrical appliance to the earth through the earth wire.",
+   "difficulty": "medium"
+  }
+ ]
+}

@@ -1,0 +1,3172 @@
+{
+ "chapter": "sci-chem-ch1",
+ "kind": "fact",
+ "source_ref": "CBSE/NCERT Class 10 Science (2025-26) syllabus facts and one-line definitions, restated in original wording. Questions are composed from these facts by the generators; no textbook passage is reproduced.",
+ "generator_note": "Mixed fact and definition clusters. Facts are grouped by shared attribute so the reverse and negative-recall forms unlock; definitions carry their own term and meaning.",
+ "items": [
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.reaction-types",
+   "subject": "Burning of magnesium ribbon in air",
+   "attribute": "classified as",
+   "value": "A combination reaction",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.reaction-types",
+   "subject": "Heating of limestone, CaCO3, to give quicklime",
+   "attribute": "classified as",
+   "value": "A thermal decomposition reaction",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.reaction-types",
+   "subject": "Zinc granules added to dilute sulphuric acid",
+   "attribute": "classified as",
+   "value": "A displacement reaction",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.reaction-types",
+   "subject": "Mixing silver nitrate solution with sodium chloride solution",
+   "attribute": "classified as",
+   "value": "A double displacement reaction, and also a precipitation reaction",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.reaction-types",
+   "subject": "Passing electricity through water",
+   "attribute": "classified as",
+   "value": "An electrolytic decomposition reaction",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.reaction-types",
+   "subject": "Exposing silver chloride to bright sunlight",
+   "attribute": "classified as",
+   "value": "A photochemical decomposition reaction",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.reaction-types",
+   "subject": "Rusting of iron left in damp air",
+   "attribute": "classified as",
+   "value": "A slow oxidation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.reaction-types",
+   "subject": "Burning of natural gas in a kitchen stove",
+   "attribute": "classified as",
+   "value": "An exothermic reaction",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.reaction-types",
+   "subject": "Barium hydroxide mixed with ammonium chloride",
+   "attribute": "classified as",
+   "value": "An endothermic reaction that makes the vessel feel cold",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.reaction-types",
+   "subject": "Copper oxide heated with hydrogen",
+   "attribute": "classified as",
+   "value": "A redox reaction in which copper oxide is reduced",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.effects",
+   "subject": "Respiration inside living cells",
+   "attribute": "energy change in",
+   "value": "Exothermic, because glucose is oxidised and heat is released",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.effects",
+   "subject": "Decomposition of vegetable matter into compost",
+   "attribute": "energy change in",
+   "value": "Exothermic, and the compost heap warms up",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.effects",
+   "subject": "Digestion of food in the body",
+   "attribute": "energy change in",
+   "value": "Exothermic overall, since large molecules are broken down",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.effects",
+   "subject": "Photosynthesis in a green leaf",
+   "attribute": "energy change in",
+   "value": "Endothermic, because sunlight is absorbed to build glucose",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.effects",
+   "subject": "Thermal decomposition of calcium carbonate",
+   "attribute": "energy change in",
+   "value": "Endothermic, because heat must be supplied continuously",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.effects",
+   "subject": "Dissolving quicklime in water",
+   "attribute": "energy change in",
+   "value": "Exothermic, with hissing and the formation of slaked lime",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.effects",
+   "subject": "Decomposition of ferrous sulphate crystals on heating",
+   "attribute": "energy change in",
+   "value": "Endothermic, giving ferric oxide along with sulphur dioxide and sulphur trioxide",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.observations",
+   "subject": "Burning magnesium ribbon in air",
+   "attribute": "observation of",
+   "value": "A dazzling white flame, and a white powder left behind",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.observations",
+   "subject": "Mixing lead nitrate solution with potassium iodide solution",
+   "attribute": "observation of",
+   "value": "A yellow precipitate of lead iodide",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.observations",
+   "subject": "Mixing barium chloride solution with sodium sulphate solution",
+   "attribute": "observation of",
+   "value": "A white precipitate of barium sulphate",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.observations",
+   "subject": "Adding zinc granules to dilute hydrochloric acid",
+   "attribute": "observation of",
+   "value": "Bubbles of a colourless gas, with the tube becoming warm",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.observations",
+   "subject": "Silver chloride left in bright sunlight",
+   "attribute": "observation of",
+   "value": "The white solid turning grey",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.observations",
+   "subject": "Electrolysis of water, with the gases collected separately",
+   "attribute": "observation of",
+   "value": "Twice as much gas at one electrode as at the other",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.observations",
+   "subject": "The gas from zinc and dilute acid, tested with a burning splinter",
+   "attribute": "observation of",
+   "value": "A pop, which shows that the gas is hydrogen",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.observations",
+   "subject": "Carbon dioxide passed through lime water",
+   "attribute": "observation of",
+   "value": "The lime water turning milky",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.observations",
+   "subject": "Ferric chloride solution mixed with ammonium hydroxide",
+   "attribute": "observation of",
+   "value": "A reddish-brown precipitate",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.redox",
+   "subject": "A substance that gains oxygen or loses hydrogen",
+   "attribute": "role in a redox reaction",
+   "value": "The substance that is oxidised",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.redox",
+   "subject": "A substance that loses oxygen or gains hydrogen",
+   "attribute": "role in a redox reaction",
+   "value": "The substance that is reduced",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.redox",
+   "subject": "Oxygen added to another substance during a reaction",
+   "attribute": "role in a redox reaction",
+   "value": "The oxidising agent",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.redox",
+   "subject": "Hydrogen added to an unsaturated compound over nickel",
+   "attribute": "role in a redox reaction",
+   "value": "The reducing agent",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.redox",
+   "subject": "Copper oxide in its reaction with hydrogen",
+   "attribute": "role in a redox reaction",
+   "value": "The substance that is reduced, because it loses oxygen",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.redox",
+   "subject": "Hydrogen in its reaction with copper oxide",
+   "attribute": "role in a redox reaction",
+   "value": "The substance that is oxidised, because it gains oxygen",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.redox",
+   "subject": "Chlorine added to a solution of a bromide",
+   "attribute": "role in a redox reaction",
+   "value": "The oxidising agent, because it takes electrons away",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "subject": "A skeletal chemical equation",
+   "attribute": "information in",
+   "value": "The reactants and products by formula, but not the correct number of each",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "subject": "A balanced chemical equation",
+   "attribute": "information in",
+   "value": "The formulas of every reactant and product together with the ratio in which they react",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "subject": "The state symbols s, l, g and aq",
+   "attribute": "information in",
+   "value": "Whether each substance is a solid, a liquid, a gas or dissolved in water",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "subject": "A condition written above the arrow",
+   "attribute": "information in",
+   "value": "The temperature, pressure, catalyst or light the reaction needs",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "subject": "The coefficient placed before a formula",
+   "attribute": "information in",
+   "value": "How many molecules or formula units of that substance take part",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "subject": "A downward arrow after a formula",
+   "attribute": "information in",
+   "value": "That the substance is formed as an insoluble precipitate",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "subject": "An upward arrow after a formula",
+   "attribute": "information in",
+   "value": "That the substance escapes as a gas",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.ph",
+   "subject": "Clean rain water",
+   "attribute": "pH of",
+   "value": "Slightly below 7, because dissolved carbon dioxide makes it weakly acidic",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.ph",
+   "subject": "Acid rain",
+   "attribute": "pH of",
+   "value": "Below 5.6, which is the level at which rain counts as acidic",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.ph",
+   "subject": "Most soils in which crops grow well",
+   "attribute": "pH of",
+   "value": "Between 6.5 and 7.5",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.ph",
+   "subject": "Vinegar",
+   "attribute": "pH of",
+   "value": "About 2.4",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.ph",
+   "subject": "Milk of magnesia, used as an antacid",
+   "attribute": "pH of",
+   "value": "About 10",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.ph",
+   "subject": "A solution of washing soda",
+   "attribute": "pH of",
+   "value": "About 11, since it is a basic salt",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.ph",
+   "subject": "The inside of a person's mouth soon after a meal",
+   "attribute": "pH of",
+   "value": "Falls below 5.5 as bacteria turn sugar into acid",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.ph",
+   "subject": "A solution of sodium chloride in water",
+   "attribute": "pH of",
+   "value": "About 7, because it is a salt of a strong acid and a strong base",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.ph",
+   "subject": "A solution of ammonium chloride in water",
+   "attribute": "pH of",
+   "value": "Below 7, because it is a salt of a strong acid and a weak base",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.indicators",
+   "subject": "Turmeric",
+   "attribute": "behaviour as an indicator",
+   "value": "Stays yellow in acid and turns reddish-brown in base",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.indicators",
+   "subject": "Red cabbage extract",
+   "attribute": "behaviour as an indicator",
+   "value": "Purple when neutral, red in acid and green in base",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.indicators",
+   "subject": "China rose solution",
+   "attribute": "behaviour as an indicator",
+   "value": "Turns dark pink in acid and green in base",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.indicators",
+   "subject": "Onion paste",
+   "attribute": "behaviour as an indicator",
+   "value": "Keeps its smell in acid but loses it in base, so it is an olfactory indicator",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.indicators",
+   "subject": "Clove oil",
+   "attribute": "behaviour as an indicator",
+   "value": "Smells in acid but not in base, which makes it useful where litmus cannot be used",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.indicators",
+   "subject": "Vanilla essence",
+   "attribute": "behaviour as an indicator",
+   "value": "Retains its smell in acid and loses it in base",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.indicators",
+   "subject": "Blue litmus paper",
+   "attribute": "behaviour as an indicator",
+   "value": "Changes to red only in acid and stays blue in base",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.indicators",
+   "subject": "Red litmus paper",
+   "attribute": "behaviour as an indicator",
+   "value": "Changes to blue only in base and stays red in acid",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Sodium hydroxide",
+   "attribute": "produced by",
+   "value": "The chlor-alkali process, in which brine is electrolysed",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Chlorine gas at the anode during the chlor-alkali process",
+   "attribute": "produced by",
+   "value": "Electrolysis of brine, along with hydrogen at the cathode",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Bleaching powder",
+   "attribute": "produced by",
+   "value": "Passing chlorine gas through dry slaked lime",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Baking soda",
+   "attribute": "produced by",
+   "value": "Reacting a cold concentrated salt solution with ammonia and carbon dioxide",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Plaster of Paris",
+   "attribute": "produced by",
+   "value": "Heating gypsum to 373 K so that it loses part of its water of crystallisation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Washing soda",
+   "attribute": "produced by",
+   "value": "Recrystallising sodium carbonate from its solution",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Slaked lime",
+   "attribute": "produced by",
+   "value": "Adding water to quicklime in a strongly exothermic reaction",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Baking soda",
+   "attribute": "chemical name of",
+   "value": "Sodium hydrogen carbonate",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Washing soda",
+   "attribute": "chemical name of",
+   "value": "Sodium carbonate decahydrate",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Bleaching powder",
+   "attribute": "chemical name of",
+   "value": "Calcium oxychloride",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Plaster of Paris",
+   "attribute": "chemical name of",
+   "value": "Calcium sulphate hemihydrate",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Common salt",
+   "attribute": "chemical name of",
+   "value": "Sodium chloride",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Quicklime",
+   "attribute": "chemical name of",
+   "value": "Calcium oxide",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Slaked lime",
+   "attribute": "chemical name of",
+   "value": "Calcium hydroxide",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Gypsum",
+   "attribute": "chemical name of",
+   "value": "Calcium sulphate dihydrate",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Marble and limestone",
+   "attribute": "chemical name of",
+   "value": "Calcium carbonate",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Citric acid",
+   "attribute": "found in",
+   "value": "Oranges, lemons and other citrus fruit",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Acetic acid",
+   "attribute": "found in",
+   "value": "Vinegar",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Tartaric acid",
+   "attribute": "found in",
+   "value": "Tamarind, grapes and unripe mango",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Oxalic acid",
+   "attribute": "found in",
+   "value": "Tomato and spinach",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Lactic acid",
+   "attribute": "found in",
+   "value": "Curd and sour milk",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Formic acid",
+   "attribute": "found in",
+   "value": "The sting of an ant and of a nettle leaf",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Hydrochloric acid",
+   "attribute": "found in",
+   "value": "The gastric juice secreted in the stomach",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Ascorbic acid",
+   "attribute": "found in",
+   "value": "Amla and citrus fruit, where it acts as vitamin C",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Sulphuric acid",
+   "attribute": "use of",
+   "value": "Car batteries, and as the starting material for many other chemicals",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Hydrochloric acid",
+   "attribute": "use of",
+   "value": "Cleaning metal surfaces and in the stomach to help digestion",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Nitric acid",
+   "attribute": "use of",
+   "value": "Making fertilisers and explosives",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Acetic acid",
+   "attribute": "use of",
+   "value": "Preserving food as vinegar",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Citric acid",
+   "attribute": "use of",
+   "value": "Flavouring food and as a mild cleaning agent",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "subject": "Tartaric acid",
+   "attribute": "use of",
+   "value": "Making baking powder, together with sodium hydrogen carbonate",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.bases",
+   "subject": "Sodium hydroxide",
+   "attribute": "use of",
+   "value": "Making soap, paper and rayon, and clearing blocked drains",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.bases",
+   "subject": "Calcium hydroxide",
+   "attribute": "use of",
+   "value": "Whitewashing walls, and neutralising acidic soil",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.bases",
+   "subject": "Magnesium hydroxide",
+   "attribute": "use of",
+   "value": "An antacid that neutralises excess stomach acid",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.bases",
+   "subject": "Ammonium hydroxide",
+   "attribute": "use of",
+   "value": "Cleaning glass and as a laboratory reagent",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.bases",
+   "subject": "Slaked lime in farming",
+   "attribute": "use of",
+   "value": "Treating soil that has become too acidic",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.neutralisation",
+   "subject": "Hydrochloric acid and sodium hydroxide",
+   "attribute": "salt from",
+   "value": "Sodium chloride, a neutral salt",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.neutralisation",
+   "subject": "Sulphuric acid and sodium hydroxide",
+   "attribute": "salt from",
+   "value": "Sodium sulphate",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.neutralisation",
+   "subject": "Nitric acid and potassium hydroxide",
+   "attribute": "salt from",
+   "value": "Potassium nitrate",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.neutralisation",
+   "subject": "Acetic acid and sodium hydroxide",
+   "attribute": "salt from",
+   "value": "Sodium ethanoate",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.neutralisation",
+   "subject": "Hydrochloric acid and ammonia",
+   "attribute": "salt from",
+   "value": "Ammonium chloride",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.neutralisation",
+   "subject": "Carbonic acid and sodium hydroxide",
+   "attribute": "salt from",
+   "value": "Sodium carbonate or sodium hydrogen carbonate, depending on the amounts used",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.neutralisation",
+   "subject": "Nitric acid and sodium hydroxide",
+   "attribute": "salt from",
+   "value": "Sodium nitrate",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "An acid on blue litmus paper",
+   "attribute": "effect of",
+   "value": "Turning it red",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "A base on red litmus paper",
+   "attribute": "effect of",
+   "value": "Turning it blue",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "An acid on a reactive metal such as zinc",
+   "attribute": "effect of",
+   "value": "Producing a salt and hydrogen gas",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "An acid on a metal carbonate",
+   "attribute": "effect of",
+   "value": "Producing a salt, water and carbon dioxide",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "A base on an ammonium salt",
+   "attribute": "effect of",
+   "value": "Releasing ammonia gas, which has a sharp smell",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "subject": "Excess carbon dioxide on lime water that has already turned milky",
+   "attribute": "effect of",
+   "value": "Clearing it again, as soluble calcium hydrogen carbonate forms",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "A metal that can be beaten into thin sheets",
+   "attribute": "categorised as",
+   "value": "Malleable",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "A metal that can be drawn out into thin wires",
+   "attribute": "categorised as",
+   "value": "Ductile",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "A metal that gives a ringing sound when struck hard",
+   "attribute": "categorised as",
+   "value": "Sonorous",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "An oxide that reacts with both acids and bases to give salt and water",
+   "attribute": "categorised as",
+   "value": "Amphoteric",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "A non-metal that is a very good conductor of electricity",
+   "attribute": "categorised as",
+   "value": "An exception to the usual behaviour of non-metals",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Sodium, potassium and lithium",
+   "attribute": "categorised as",
+   "value": "Soft metals that can be cut with a knife",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Diamond",
+   "attribute": "categorised as",
+   "value": "The hardest known natural substance, with a very high melting point",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Iodine",
+   "attribute": "categorised as",
+   "value": "A non-metal that still shows a metallic shine",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Sodium with cold water",
+   "attribute": "reaction of",
+   "value": "Violent, giving sodium hydroxide and hydrogen, and the metal moves about on the surface",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Potassium with cold water",
+   "attribute": "reaction of",
+   "value": "Even more violent, and the hydrogen produced catches fire at once",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Calcium with cold water",
+   "attribute": "reaction of",
+   "value": "Steady but gentle, with bubbles of hydrogen sticking to the metal and lifting it",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Magnesium with hot water",
+   "attribute": "reaction of",
+   "value": "Slow, forming magnesium hydroxide and hydrogen",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Aluminium with steam",
+   "attribute": "reaction of",
+   "value": "Forms aluminium oxide and hydrogen",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Iron with steam",
+   "attribute": "reaction of",
+   "value": "Forms Fe3O4 and hydrogen, but only when the iron is red hot",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Copper and silver with water or steam",
+   "attribute": "reaction of",
+   "value": "No reaction at all, however hot the water",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Magnesium with dilute hydrochloric acid",
+   "attribute": "reaction of",
+   "value": "Very fast, with much hydrogen evolved and the tube becoming hot",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Zinc with dilute hydrochloric acid",
+   "attribute": "reaction of",
+   "value": "Steady bubbling, giving zinc chloride and hydrogen",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Iron with dilute hydrochloric acid",
+   "attribute": "reaction of",
+   "value": "Slow, giving iron(II) chloride and hydrogen",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Copper with dilute hydrochloric acid",
+   "attribute": "reaction of",
+   "value": "No visible change, because copper lies below hydrogen in the reactivity series",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Gold with any dilute acid",
+   "attribute": "reaction of",
+   "value": "No reaction, which is why gold keeps its shine",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Aluminium in air at ordinary temperature",
+   "attribute": "reaction of",
+   "value": "Forms a thin, tightly held layer of aluminium oxide that protects the metal beneath",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "subject": "Potassium",
+   "attribute": "reactivity of",
+   "value": "The highest of all the metals in the series",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "subject": "Sodium",
+   "attribute": "reactivity of",
+   "value": "Second highest, just below potassium",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "subject": "Calcium",
+   "attribute": "reactivity of",
+   "value": "High, but clearly below sodium",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "subject": "Magnesium",
+   "attribute": "reactivity of",
+   "value": "Above aluminium and well above zinc",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "subject": "Aluminium",
+   "attribute": "reactivity of",
+   "value": "Between magnesium and zinc",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "subject": "Zinc",
+   "attribute": "reactivity of",
+   "value": "Above iron but below aluminium",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "subject": "Iron",
+   "attribute": "reactivity of",
+   "value": "Above lead and below zinc",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "subject": "Hydrogen",
+   "attribute": "reactivity of",
+   "value": "Placed between lead and copper as a reference point, though it is not a metal",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "subject": "Copper",
+   "attribute": "reactivity of",
+   "value": "Below hydrogen, so it cannot push hydrogen out of a dilute acid",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "subject": "Mercury",
+   "attribute": "reactivity of",
+   "value": "Below copper and above silver",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "subject": "Silver",
+   "attribute": "reactivity of",
+   "value": "Very low, reacting only with substances such as sulphur in the air",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "subject": "Gold",
+   "attribute": "reactivity of",
+   "value": "The lowest in the series, and unaffected by air, water or ordinary acids",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.displacement",
+   "subject": "An iron nail left in copper sulphate solution",
+   "attribute": "observation for",
+   "value": "The blue colour fades and a reddish-brown coating of copper forms on the nail",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.displacement",
+   "subject": "A copper wire dipped in silver nitrate solution",
+   "attribute": "observation for",
+   "value": "The solution slowly turns blue and shining silver crystals grow on the wire",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.displacement",
+   "subject": "Zinc granules added to copper sulphate solution",
+   "attribute": "observation for",
+   "value": "The blue colour disappears and copper is deposited as a reddish-brown solid",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.displacement",
+   "subject": "Copper added to zinc sulphate solution",
+   "attribute": "observation for",
+   "value": "No change, because copper is less reactive than zinc and cannot displace it",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.displacement",
+   "subject": "Iron added to zinc sulphate solution",
+   "attribute": "observation for",
+   "value": "No change, because iron is less reactive than zinc",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.displacement",
+   "subject": "Zinc added to iron sulphate solution",
+   "attribute": "observation for",
+   "value": "The pale green colour fades, since zinc displaces iron",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.displacement",
+   "subject": "Silver added to copper sulphate solution",
+   "attribute": "observation for",
+   "value": "No change, because silver is less reactive than copper",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Crushing and then grinding the mined ore",
+   "attribute": "purpose of",
+   "value": "Reducing it to a fine powder so that the unwanted material can be separated",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Concentrating the ore before heating",
+   "attribute": "purpose of",
+   "value": "Removing as much of the gangue as possible so that later steps use less energy",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Roasting a concentrated sulphide ore",
+   "attribute": "purpose of",
+   "value": "Heating it strongly in the presence of air to convert the sulphide into an oxide",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Calcining a concentrated carbonate ore",
+   "attribute": "purpose of",
+   "value": "Heating it strongly in the absence of air to drive off carbon dioxide and leave the oxide",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Reducing the metal oxide with carbon or a more reactive metal",
+   "attribute": "purpose of",
+   "value": "Obtaining the free metal from its oxide",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Electrolytic reduction of a molten chloride",
+   "attribute": "purpose of",
+   "value": "Extracting a metal too reactive to be reduced by carbon",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Electrolytic refining",
+   "attribute": "purpose of",
+   "value": "Purifying an impure metal until it is almost completely free of other elements",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Adding a flux during smelting",
+   "attribute": "purpose of",
+   "value": "Combining with the gangue to form a slag that can be removed",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "A thick block of the impure metal",
+   "attribute": "role in electrolytic refining",
+   "value": "Anode",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "A thin strip of the pure metal",
+   "attribute": "role in electrolytic refining",
+   "value": "Cathode",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "A solution of a salt of the metal, slightly acidified",
+   "attribute": "role in electrolytic refining",
+   "value": "Electrolyte",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "The impurities that do not dissolve and settle below the anode",
+   "attribute": "role in electrolytic refining",
+   "value": "Anode mud",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "The pure metal that deposits during the process",
+   "attribute": "role in electrolytic refining",
+   "value": "A coating on the cathode",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Zinc, iron, tin and lead",
+   "attribute": "extraction method for",
+   "value": "Reduction of their oxides with carbon or carbon monoxide",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Copper from its sulphide ore",
+   "attribute": "extraction method for",
+   "value": "Roasting followed by reduction, and then electrolytic refining",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Mercury from cinnabar, HgS",
+   "attribute": "extraction method for",
+   "value": "Roasting in air, since its oxide breaks down on heating to give the metal",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Gold and platinum",
+   "attribute": "extraction method for",
+   "value": "No chemical extraction at all, because they occur in the free state",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "subject": "Iron in a blast furnace",
+   "attribute": "extraction method for",
+   "value": "Reducing iron oxide with carbon monoxide made from coke",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "An ionic compound at room temperature",
+   "attribute": "property of",
+   "value": "Solid, hard and usually crystalline",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "The melting and boiling points of an ionic compound",
+   "attribute": "property of",
+   "value": "High, because a great deal of energy is needed to break the attraction between ions",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "An ionic compound placed in water",
+   "attribute": "property of",
+   "value": "Usually dissolves",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "An ionic compound placed in kerosene or petrol",
+   "attribute": "property of",
+   "value": "Usually does not dissolve",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "An ionic compound in the solid state with a battery connected",
+   "attribute": "property of",
+   "value": "Does not conduct, because the ions are held in fixed positions",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "An ionic compound when molten or dissolved in water",
+   "attribute": "property of",
+   "value": "Conducts well, because the ions are free to move",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "An ionic compound when struck with a hammer",
+   "attribute": "property of",
+   "value": "Tends to break rather than bend, since a shifted layer puts like charges together",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "Sodium chloride",
+   "attribute": "formed by",
+   "value": "Sodium losing one electron and chlorine gaining it",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "Magnesium chloride",
+   "attribute": "formed by",
+   "value": "Magnesium losing two electrons, one to each of two chlorine atoms",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "Sodium oxide",
+   "attribute": "formed by",
+   "value": "Two sodium atoms each losing one electron to a single oxygen atom",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "Magnesium oxide",
+   "attribute": "formed by",
+   "value": "Magnesium losing two electrons to oxygen",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "Aluminium oxide",
+   "attribute": "formed by",
+   "value": "Two aluminium atoms losing six electrons in total to three oxygen atoms",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "subject": "Calcium chloride",
+   "attribute": "formed by",
+   "value": "Calcium losing two electrons, one to each of two chlorine atoms",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "Brass",
+   "attribute": "use of",
+   "value": "Fittings, taps, door handles and decorative articles",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "Bronze",
+   "attribute": "use of",
+   "value": "Statues, medals and bearings",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "Solder",
+   "attribute": "use of",
+   "value": "Joining electrical wires and components on a circuit board",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "Stainless steel",
+   "attribute": "use of",
+   "value": "Cutlery, sinks and surgical instruments",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "Duralumin",
+   "attribute": "use of",
+   "value": "Aircraft bodies, because it is light yet strong",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "An amalgam of a metal",
+   "attribute": "use of",
+   "value": "Dental fillings",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "Steel with a low carbon content",
+   "attribute": "use of",
+   "value": "Structures and vehicle bodies, where strength and formability are both needed",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "Galvanised iron",
+   "attribute": "use of",
+   "value": "Roofing sheets, buckets and water pipes",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "Duralumin",
+   "attribute": "composition of",
+   "value": "Aluminium with copper, magnesium and manganese",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "Steel",
+   "attribute": "composition of",
+   "value": "Iron with a small, controlled amount of carbon",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "German silver",
+   "attribute": "composition of",
+   "value": "Copper, zinc and nickel, and despite the name it contains no silver",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "Gunmetal",
+   "attribute": "composition of",
+   "value": "Copper, tin and zinc",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "subject": "Cast iron",
+   "attribute": "composition of",
+   "value": "Iron with about two to four percent carbon, which makes it brittle",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "A coat of paint",
+   "attribute": "protection offered by",
+   "value": "Keeping air and moisture away from the surface of the metal",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "A layer of grease or oil",
+   "attribute": "protection offered by",
+   "value": "Shielding moving parts from moisture, so that rust cannot form",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "A layer of zinc applied by galvanisation",
+   "attribute": "protection offered by",
+   "value": "Corroding in place of the iron, since zinc is the more reactive of the two",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Chromium plating",
+   "attribute": "protection offered by",
+   "value": "Providing a hard, shiny surface that does not corrode easily",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Anodising aluminium",
+   "attribute": "protection offered by",
+   "value": "Building a thick oxide layer that resists further attack",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Mixing a metal with others to form an alloy",
+   "attribute": "protection offered by",
+   "value": "Changing the composition so that the material no longer corrodes readily",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Keeping iron dry and covered",
+   "attribute": "protection offered by",
+   "value": "Removing the moisture that rusting needs",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Rusting of iron",
+   "attribute": "necessary condition for",
+   "value": "Both air and moisture acting together over time",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Tarnishing of silver",
+   "attribute": "necessary condition for",
+   "value": "Contact with sulphur compounds in the air",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Corrosion of copper in damp air",
+   "attribute": "necessary condition for",
+   "value": "Reaction with moisture, carbon dioxide and oxygen to give a green basic carbonate",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Rancidity of food containing fats and oils",
+   "attribute": "necessary condition for",
+   "value": "Exposure to air, which slowly oxidises the fats",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "subject": "Preventing rancidity in a packet of chips",
+   "attribute": "necessary condition for",
+   "value": "Flushing the packet with nitrogen and sealing it",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "A molecule of hydrogen, H2",
+   "attribute": "type of bond in",
+   "value": "One single covalent bond",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "A molecule of oxygen, O2",
+   "attribute": "type of bond in",
+   "value": "One double covalent bond",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "A molecule of nitrogen, N2",
+   "attribute": "type of bond in",
+   "value": "One triple covalent bond",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "A molecule of methane, CH4",
+   "attribute": "type of bond in",
+   "value": "Four single covalent bonds",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "A molecule of ethane, C2H6",
+   "attribute": "type of bond in",
+   "value": "Seven single covalent bonds, one of them joining the two carbon atoms",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "A molecule of ethene, C2H4",
+   "attribute": "type of bond in",
+   "value": "One double bond between the carbon atoms and four single bonds to hydrogen",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "A molecule of ethyne, C2H2",
+   "attribute": "type of bond in",
+   "value": "One triple bond between the carbon atoms and two single bonds to hydrogen",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "A crystal of sodium chloride",
+   "attribute": "type of bond in",
+   "value": "Ionic bonds, formed by the transfer rather than the sharing of electrons",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Covalent compounds on heating",
+   "attribute": "typical behaviour of",
+   "value": "Melting and boiling at fairly low temperatures, because the forces between molecules are weak",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Covalent compounds in water",
+   "attribute": "typical behaviour of",
+   "value": "Generally not dissolving, since they carry no charge",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Covalent compounds in an electric circuit",
+   "attribute": "typical behaviour of",
+   "value": "Not conducting, because there are no ions to carry the current",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Carbon when it combines with other elements",
+   "attribute": "typical behaviour of",
+   "value": "Sharing its four valence electrons rather than losing or gaining them",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Carbon with itself",
+   "attribute": "typical behaviour of",
+   "value": "Linking into long chains, branched chains and rings, which is called catenation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "An ionic compound in water",
+   "attribute": "typical behaviour of",
+   "value": "Dissolving and then conducting the current",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "The very large number of carbon compounds",
+   "attribute": "explanation for",
+   "value": "Catenation together with tetravalency",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "The stability of long carbon chains",
+   "attribute": "explanation for",
+   "value": "The carbon-carbon bond being strong enough to hold them together",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "The absence of ions in most carbon compounds",
+   "attribute": "explanation for",
+   "value": "Carbon sharing its four valence electrons rather than losing or gaining them",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Diamond and graphite behaving so differently",
+   "attribute": "explanation for",
+   "value": "The different ways in which their carbon atoms are bonded together",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Diamond",
+   "attribute": "use of",
+   "value": "Cutting tools, drill bits, and jewellery",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Graphite",
+   "attribute": "use of",
+   "value": "Pencil leads, electrodes and a dry lubricant",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Coke",
+   "attribute": "use of",
+   "value": "A reducing agent in extracting metals, and a fuel",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Charcoal",
+   "attribute": "use of",
+   "value": "Adsorbing gases and colouring matter, and burning as a smokeless fuel",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Activated charcoal",
+   "attribute": "use of",
+   "value": "Filtering water and trapping gases in a mask",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Lamp black",
+   "attribute": "use of",
+   "value": "A black pigment in ink and paint",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "subject": "Fullerene",
+   "attribute": "use of",
+   "value": "Research, because its molecules form closed cages of carbon atoms",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "subject": "An alkane",
+   "attribute": "suffix in the name of",
+   "value": "-ane",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "subject": "An alkene",
+   "attribute": "suffix in the name of",
+   "value": "-ene",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "subject": "An alkyne",
+   "attribute": "suffix in the name of",
+   "value": "-yne",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "subject": "An alcohol",
+   "attribute": "suffix in the name of",
+   "value": "-ol",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "subject": "An aldehyde",
+   "attribute": "suffix in the name of",
+   "value": "-al",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "subject": "A ketone",
+   "attribute": "suffix in the name of",
+   "value": "-one",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "subject": "A carboxylic acid",
+   "attribute": "suffix in the name of",
+   "value": "-oic acid",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "A carbon chain of one atom",
+   "attribute": "root word for",
+   "value": "meth-",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "A carbon chain of two atoms",
+   "attribute": "root word for",
+   "value": "eth-",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "A carbon chain of three atoms",
+   "attribute": "root word for",
+   "value": "prop-",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "A carbon chain of four atoms",
+   "attribute": "root word for",
+   "value": "but-",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "A carbon chain of five atoms",
+   "attribute": "root word for",
+   "value": "pent-",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "A carbon chain of six atoms",
+   "attribute": "root word for",
+   "value": "hex-",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "A carbon chain of seven atoms",
+   "attribute": "root word for",
+   "value": "hept-",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "A carbon chain of eight atoms",
+   "attribute": "root word for",
+   "value": "oct-",
+   "difficulty": "easy",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Chlorine taking the place of a hydrogen in the chain",
+   "attribute": "prefix for",
+   "value": "chloro-",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Bromine taking the place of a hydrogen in the chain",
+   "attribute": "prefix for",
+   "value": "bromo-",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "An iodine atom taking the place of a hydrogen in the chain",
+   "attribute": "prefix for",
+   "value": "iodo-",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Propane",
+   "attribute": "molecular formula of",
+   "value": "C3H8",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Butane",
+   "attribute": "molecular formula of",
+   "value": "C4H10",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Pentane",
+   "attribute": "molecular formula of",
+   "value": "C5H12",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Hexane",
+   "attribute": "molecular formula of",
+   "value": "C6H14",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Propene",
+   "attribute": "molecular formula of",
+   "value": "C3H6",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Butene",
+   "attribute": "molecular formula of",
+   "value": "C4H8",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Propyne",
+   "attribute": "molecular formula of",
+   "value": "C3H4",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Butyne",
+   "attribute": "molecular formula of",
+   "value": "C4H6",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Methanol",
+   "attribute": "molecular formula of",
+   "value": "CH3OH",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Propanol",
+   "attribute": "molecular formula of",
+   "value": "C3H7OH",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Ethanal",
+   "attribute": "molecular formula of",
+   "value": "CH3CHO",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Propanone",
+   "attribute": "molecular formula of",
+   "value": "CH3COCH3",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Methanoic acid",
+   "attribute": "molecular formula of",
+   "value": "HCOOH",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Propanoic acid",
+   "attribute": "molecular formula of",
+   "value": "C2H5COOH",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Benzene",
+   "attribute": "molecular formula of",
+   "value": "C6H6",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "subject": "Cyclohexane",
+   "attribute": "molecular formula of",
+   "value": "C6H12",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.homologous",
+   "subject": "A homologous series in molecular formula",
+   "attribute": "difference between consecutive members of",
+   "value": "CH2",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.homologous",
+   "subject": "A homologous series in molecular mass",
+   "attribute": "difference between consecutive members of",
+   "value": "14 u",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.homologous",
+   "subject": "A homologous series in the number of carbon atoms",
+   "attribute": "difference between consecutive members of",
+   "value": "One",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.homologous",
+   "subject": "A homologous series in chemical properties",
+   "attribute": "difference between consecutive members of",
+   "value": "Hardly any, because the same functional group is present throughout",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.homologous",
+   "subject": "A homologous series in physical properties",
+   "attribute": "difference between consecutive members of",
+   "value": "A regular gradation as the molecular mass increases",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.homologous",
+   "subject": "The alkane series",
+   "attribute": "second member of",
+   "value": "Ethane, C2H6",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.homologous",
+   "subject": "The alkene series",
+   "attribute": "second member of",
+   "value": "Propene, C3H6",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.homologous",
+   "subject": "The alkyne series",
+   "attribute": "second member of",
+   "value": "Propyne, C3H4",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.homologous",
+   "subject": "The alcohol series",
+   "attribute": "second member of",
+   "value": "Ethanol, C2H5OH",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.homologous",
+   "subject": "The carboxylic acid series",
+   "attribute": "second member of",
+   "value": "Ethanoic acid, CH3COOH",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.homologous",
+   "subject": "The aldehyde series",
+   "attribute": "second member of",
+   "value": "Ethanal, CH3CHO",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "Methane burnt in plenty of air",
+   "attribute": "reaction of",
+   "value": "Complete combustion, giving a clean blue flame, carbon dioxide and water",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "An unsaturated hydrocarbon heated with hydrogen over nickel",
+   "attribute": "reaction of",
+   "value": "An addition reaction, in which the double or triple bond is saturated",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "Ethene added to bromine water",
+   "attribute": "reaction of",
+   "value": "Decolourising it, which is the standard test for unsaturation",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "A saturated hydrocarbon left with chlorine in sunlight",
+   "attribute": "reaction of",
+   "value": "A substitution reaction, in which chlorine replaces hydrogen atom by atom",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "Ethanol warmed with ethanoic acid in the presence of concentrated sulphuric acid",
+   "attribute": "reaction of",
+   "value": "Esterification, giving a sweet-smelling ester",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "Ethanol heated with concentrated sulphuric acid at 443 K",
+   "attribute": "reaction of",
+   "value": "Dehydration, giving ethene",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "Ethanol dropped onto sodium metal",
+   "attribute": "reaction of",
+   "value": "Giving sodium ethoxide and hydrogen, which burns with a pop",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "Ethanoic acid added to sodium hydrogen carbonate",
+   "attribute": "reaction of",
+   "value": "Giving sodium ethanoate, water and carbon dioxide, which turns lime water milky",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "Ethanoic acid added to sodium hydroxide",
+   "attribute": "reaction of",
+   "value": "A neutralisation, giving sodium ethanoate and water",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "An ester boiled with sodium hydroxide",
+   "attribute": "reaction of",
+   "value": "Saponification, giving back the alcohol and the sodium salt of the acid",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "Ethanoic acid cooled below 290 K",
+   "attribute": "reaction of",
+   "value": "Freezing into an ice-like solid, which is why the pure acid is called glacial acetic acid",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "A saturated hydrocarbon such as methane burnt in plenty of air",
+   "attribute": "flame of",
+   "value": "Clean and blue, because combustion is complete",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "An unsaturated hydrocarbon burnt in air",
+   "attribute": "flame of",
+   "value": "Sooty and yellow, because combustion is incomplete",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "Camphor burnt in air",
+   "attribute": "flame of",
+   "value": "Very sooty, since it has a high proportion of carbon",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "Benzene burnt in air",
+   "attribute": "flame of",
+   "value": "Smoky, with much unburnt carbon escaping",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "subject": "Ethanol burnt in air",
+   "attribute": "flame of",
+   "value": "Blue and without soot, giving carbon dioxide and water",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "subject": "The long hydrocarbon tail of a soap molecule",
+   "attribute": "behaviour in water of",
+   "value": "Repelling water and attaching itself to oil and grease, so it is called hydrophobic",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "subject": "The ionic end of a soap molecule",
+   "attribute": "behaviour in water of",
+   "value": "Dissolving in water and pointing outward, so it is called hydrophilic",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "subject": "Soap molecules surrounding a drop of oil",
+   "attribute": "behaviour in water of",
+   "value": "Arranging into a spherical cluster called a micelle, with the tails inside and the heads outside",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "subject": "A micelle carrying trapped oil",
+   "attribute": "behaviour in water of",
+   "value": "Staying suspended in water, since its outer surface is charged and the micelles repel one another",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "subject": "Soap in water that contains calcium and magnesium ions",
+   "attribute": "behaviour in water of",
+   "value": "Reacting with them to form an insoluble scum instead of a lather",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "subject": "A detergent in water that contains calcium and magnesium ions",
+   "attribute": "behaviour in water of",
+   "value": "Still lathering and cleansing, because its calcium and magnesium salts remain soluble",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "subject": "Calcium and magnesium ions in hard water",
+   "attribute": "effect of",
+   "value": "Formation of an insoluble scum with soap, which wastes the soap",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "subject": "Using a detergent instead of soap in hard water",
+   "attribute": "effect of",
+   "value": "Normal lathering and cleansing, with no scum",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "subject": "Adding common salt during soap making",
+   "attribute": "effect of",
+   "value": "Separating the soap out of the solution, so that it floats and can be collected",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "subject": "Agitating cloth with soap and water",
+   "attribute": "effect of",
+   "value": "Lifting oily dirt into micelles so that it rinses away",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "subject": "Using very soft water for washing",
+   "attribute": "effect of",
+   "value": "Soap lathering freely, with none wasted on forming scum",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "term": "Skeletal chemical equation",
+   "definition": "An unbalanced equation that gives the formulas of the reactants and products but not the correct number of each.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "term": "Word equation",
+   "definition": "An equation written with the names of the reactants and products instead of their chemical formulas.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "term": "Precipitate",
+   "definition": "An insoluble solid that separates out of a solution during a chemical reaction.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "term": "Thermal decomposition",
+   "definition": "The breaking up of a compound into simpler substances when it is heated.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "term": "Electrolytic decomposition",
+   "definition": "The breaking up of a compound into simpler substances by passing an electric current through it.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch1",
+   "topic": "sci-chem-ch1.equations",
+   "term": "Photochemical decomposition",
+   "definition": "The breaking up of a compound into simpler substances when it is exposed to light.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "term": "Mineral acid",
+   "definition": "An acid obtained from minerals of the earth rather than from living things, such as hydrochloric, sulphuric or nitric acid.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "term": "Organic acid",
+   "definition": "An acid produced by plants or animals, such as citric acid, acetic acid or lactic acid.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.acids",
+   "term": "Dilution of an acid",
+   "definition": "Adding water to concentrated acid slowly and with stirring, while the mixture warms because the process is exothermic.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.bases",
+   "term": "Basic oxide",
+   "definition": "An oxide, usually of a metal, that reacts with an acid to give a salt and water.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.bases",
+   "term": "Acidic oxide",
+   "definition": "An oxide, usually of a non-metal, that reacts with a base to give a salt and water.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.bases",
+   "term": "Antacid",
+   "definition": "A mild base taken to neutralise the excess acid in the stomach and relieve indigestion.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "term": "Chlor-alkali process",
+   "definition": "The electrolysis of brine, in which sodium chloride solution gives sodium hydroxide along with chlorine at the anode and hydrogen at the cathode.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "term": "Neutral salt",
+   "definition": "A salt formed by a strong acid and a strong base, whose solution in water has a pH close to seven.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch2",
+   "topic": "sci-chem-ch2.compounds",
+   "term": "Acidic salt",
+   "definition": "A salt whose solution in water turns blue litmus red, formed when a strong acid is only partly neutralised.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "term": "Lustre",
+   "definition": "The shine on the freshly cut surface of a metal, caused by the way it reflects light.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "term": "Brittleness",
+   "definition": "The tendency of a substance to break into pieces rather than bend when it is struck, which is typical of non-metals.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.properties",
+   "term": "Anodising",
+   "definition": "A process in which a clean aluminium article is made the anode and electrolysed so that a thicker protective oxide layer forms on it.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "term": "Metallurgy",
+   "definition": "The set of operations by which a metal is obtained from its ore and then purified.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "term": "Concentration of ore",
+   "definition": "The removal of as much of the gangue as possible from the mined ore before it is heated.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "term": "Flux",
+   "definition": "A substance added during smelting that combines with the gangue to form a fusible slag which can be removed.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "term": "Slag",
+   "definition": "The fusible mass formed when the flux reacts with the gangue, which floats on the molten metal and is drawn off.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "term": "Electrolytic refining",
+   "definition": "The purification of a metal in which the impure metal is the anode, a thin strip of the pure metal is the cathode, and a salt of the metal is the electrolyte.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "term": "Anode mud",
+   "definition": "The insoluble impurities that settle below the anode during the electrolytic refining of a metal.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.extraction",
+   "term": "Smelting",
+   "definition": "The reduction of a metal oxide to the free metal by heating it strongly with a reducing agent such as coke.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "term": "Ionic compound",
+   "definition": "A compound made up of ions held together by strong electrostatic forces, formed by the complete transfer of electrons from a metal to a non-metal.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "term": "Electrovalent bond",
+   "definition": "Another name for an ionic bond, emphasising that it is formed by the transfer of valence electrons.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "term": "Cation",
+   "definition": "A positively charged ion formed when an atom loses one or more electrons.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.ionic",
+   "term": "Anion",
+   "definition": "A negatively charged ion formed when an atom gains one or more electrons.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.reactivity",
+   "term": "Displacement of a metal",
+   "definition": "The replacement of a less reactive metal in its salt solution by a more reactive metal, which is how the reactivity series is confirmed.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "term": "Duralumin",
+   "definition": "An alloy of aluminium with copper, magnesium and manganese, which is light and strong and is used in aircraft bodies.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "term": "Stainless steel",
+   "definition": "An alloy of iron with chromium, nickel and a little carbon, which resists corrosion and is used for cutlery and surgical instruments.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch3",
+   "topic": "sci-chem-ch3.alloys",
+   "term": "Solder",
+   "definition": "An alloy of lead and tin with a low melting point, used for joining electrical wires.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "term": "Covalent compound",
+   "definition": "A compound whose atoms are joined by shared pairs of electrons, and which therefore has no ions to conduct a current.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "term": "Electron dot structure",
+   "definition": "A representation of a molecule in which only the valence electrons of each atom are shown as dots around its symbol.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.bonding",
+   "term": "Allotrope",
+   "definition": "One of two or more different physical forms of the same element, such as diamond, graphite and fullerene for carbon.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "term": "Heteroatom",
+   "definition": "An atom other than carbon or hydrogen in the chain of an organic compound, which along with the functional group gives the compound its properties.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "term": "Alcohol",
+   "definition": "An organic compound containing a hydroxyl group attached to a carbon chain, named with the suffix -ol.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "term": "Aldehyde",
+   "definition": "An organic compound containing a -CHO group at the end of a carbon chain, named with the suffix -al.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "term": "Ketone",
+   "definition": "An organic compound in which a carbonyl group is attached to two carbon atoms, named with the suffix -one.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "term": "Carboxylic acid",
+   "definition": "An organic compound containing a -COOH group, named with the suffix -oic acid and weakly acidic in water.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "term": "Alkane",
+   "definition": "A saturated hydrocarbon in which every carbon-carbon bond is single, following the general formula CnH2n+2.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "term": "Alkene",
+   "definition": "An unsaturated hydrocarbon containing one carbon-carbon double bond, following the general formula CnH2n.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.functional-groups",
+   "term": "Alkyne",
+   "definition": "An unsaturated hydrocarbon containing one carbon-carbon triple bond, following the general formula CnH2n-2.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "term": "IUPAC name",
+   "definition": "The systematic name of a compound, built from a root word for the length of the carbon chain, a prefix for any substituent and a suffix for the functional group.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.nomenclature",
+   "term": "Structural formula",
+   "definition": "A way of writing a compound that shows how its atoms are bonded to one another, rather than only how many of each there are.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.homologous",
+   "term": "Homolog",
+   "definition": "Any one member of a homologous series, differing from the next by a CH2 unit and by fourteen units of molecular mass.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "term": "Addition reaction",
+   "definition": "A reaction in which atoms are added to an unsaturated compound across its double or triple bond, converting it into a saturated one.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "term": "Substitution reaction",
+   "definition": "A reaction in which one atom or group in a saturated compound is replaced by another, such as hydrogen being replaced by chlorine in sunlight.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "term": "Combustion",
+   "definition": "The burning of a substance in air or oxygen with the release of heat and light.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.properties",
+   "term": "Complete combustion",
+   "definition": "The burning of a carbon compound in enough air to give only carbon dioxide and water, with a clean blue flame.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "term": "Soap",
+   "definition": "A sodium or potassium salt of a long-chain fatty acid, whose molecule has a water-repelling hydrocarbon tail and a water-attracting ionic head.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "term": "Hydrophobic end",
+   "definition": "The long hydrocarbon tail of a soap molecule, which repels water and attaches to oil and grease.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "term": "Hydrophilic end",
+   "definition": "The ionic end of a soap molecule, which dissolves in water and faces outward in a micelle.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "term": "Scum",
+   "definition": "The insoluble calcium or magnesium salt that soap forms in hard water, which settles as a sticky deposit and wastes the soap.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-chem-ch4",
+   "topic": "sci-chem-ch4.soaps",
+   "term": "Hard water",
+   "definition": "Water that contains salts of calcium and magnesium, so that soap does not lather in it until those salts are removed.",
+   "difficulty": "medium"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+# Render Blueprint — deploy the whole app as ONE service.
+#
+#   Render -> New + -> Blueprint -> pick this repo -> Apply
+#
+# FastAPI serves both the API and the built React bundle, so the frontend's
+# relative '/api' calls work with no CORS config and no second service.
+#
+# ── Storage ────────────────────────────────────────────────────────────────
+# Set DATABASE_URL to a Neon (or any hosted Postgres) connection string and
+# student progress, streaks, accounts and friendships are durable even on
+# Render's free plan. The filesystem here is ephemeral, but nothing important
+# lives on it any more.
+#
+# Leave DATABASE_URL unset and the app falls back to a SQLite file under
+# /data. On the free plan that file is discarded on every deploy and restart,
+# so all progress is lost — fine for a throwaway demo, not for real use.
+# This is why the blueprint no longer declares a disk: a persistent disk needs
+# a paid Render plan, and Postgres is the better answer anyway.
+#
+# ── Free plan behaviour ────────────────────────────────────────────────────
+# The service spins down after ~15 minutes idle. The next request pays a cold
+# start of roughly 30-60 seconds, which includes migrations and a content
+# check against the question bank. That is a Render free-tier trait, not
+# a bug in the app; the first student of the day waits, the rest do not.
+services:
+  - type: web
+    name: revisex
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: APP_ENV
+        value: production
+      # Neon connection string. `sync: false` means Render prompts for it
+      # instead of storing a value in this file — never commit a real one.
+      # Use the POOLED url if Neon offers one: the free plan allows few direct
+      # connections and each cold start opens several.
+      - key: DATABASE_URL
+        sync: false
+      # Kept for the SQLite fallback path only; harmless when using Postgres.
+      - key: DATA_DIR
+        value: /data
+      - key: ALLOW_OFF_SYLLABUS
+        value: "false"
+      # Keep false: AI-generated items go to a review queue, never straight to students.
+      - key: AUTO_APPROVE_AI_ITEMS
+        value: "false"
+      - key: AI_PROVIDER
+        value: local          # local | ollama | none  (Ollama needs a sidecar; see docs)
+      # Comma-separated frontend origins. Only needed for a SPLIT deploy
+      # (e.g. UI on Netlify). Harmless for single-origin, where it is unused.
+      - key: CORS_ORIGINS
+        sync: false
+
+      # ── Google sign-in ──────────────────────────────────────────────────
+      # Create these in Google Cloud Console -> APIs & Services -> Credentials
+      # -> Create Credentials -> OAuth client ID -> Web application.
+      # Without them the app still works; the Google button simply does not
+      # appear, because /auth/google/status reports enabled=false.
+      - key: GOOGLE_CLIENT_ID
+        sync: false
+      - key: GOOGLE_CLIENT_SECRET
+        sync: false
+      # Your public Render URL with NO trailing slash. Used to derive the OAuth
+      # redirect URI, which must match Google's allow-list exactly:
+      #   <PUBLIC_BASE_URL>/api/auth/google/callback
+      - key: PUBLIC_BASE_URL
+        sync: false
+
+      # ── Account-free profiles ───────────────────────────────────────────
+      # false on a public server: every anonymous visitor would otherwise write
+      # an ownerless row into the one shared database, and anyone who learned an
+      # id could claim that progress at signup. Existing local profiles can
+      # still be claimed; this only stops new ones. Flip to "true" for a
+      # single-family install.
+      - key: ALLOW_LOCAL_PROFILES
+        value: "false"
+      - key: MAX_LOCAL_PROFILES
+        value: "12"
+
+      # ── Admin ───────────────────────────────────────────────────────────
+      # Comma-separated usernames that become administrators. Checked at signup
+      # AND at every boot, so you can add yourself after the fact by setting
+      # this and redeploying. There is no other way to create the first admin.
+      - key: ADMIN_USERNAMES
+        sync: false

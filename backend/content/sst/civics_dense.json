@@ -1,0 +1,2250 @@
+{
+ "chapter": "ss-civ-power-sharing",
+ "kind": "fact",
+ "generator": "fact_attribute",
+ "source_ref": "CBSE/NCERT Class 10 Social Science (2025-26) syllabus facts, restated in original wording. Questions are composed from these facts by the fact-attribute generator; no text is reproduced from any textbook.",
+ "generator_note": "Dense attribute clusters. Each item carries its own chapter and topic, so one file can span a whole branch. Clusters of four or more items sharing an attribute unlock the reverse and negative-recall question forms, which is what makes these worth three questions each rather than one.",
+ "items": [
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "Dutch speakers in Belgium as a whole",
+   "attribute": "share of population in",
+   "value": "59 per cent",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "French speakers in Belgium as a whole",
+   "attribute": "share of population in",
+   "value": "40 per cent",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "German speakers in Belgium",
+   "attribute": "share of population in",
+   "value": "About 1 per cent",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "French speakers in Brussels",
+   "attribute": "share of population in",
+   "value": "80 per cent",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "Dutch speakers in Brussels",
+   "attribute": "share of population in",
+   "value": "20 per cent",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "Sinhala speakers in Sri Lanka",
+   "attribute": "share of population in",
+   "value": "74 per cent",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "Tamil speakers in Sri Lanka",
+   "attribute": "share of population in",
+   "value": "18 per cent",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "The Act recognising Sinhala as the only official language",
+   "attribute": "year of",
+   "value": "1956",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "The constitutional amendment giving a separate government to Brussels",
+   "attribute": "year of",
+   "value": "1970-1993, four amendments",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "The start of the Sri Lankan civil war",
+   "attribute": "year of",
+   "value": "1983",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "The end of the Sri Lankan civil war",
+   "attribute": "year of",
+   "value": "2009",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "Belgium's first major constitutional reform",
+   "attribute": "year of",
+   "value": "1970",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "Majoritarian measures in Sri Lanka",
+   "attribute": "resulted in",
+   "value": "Growing alienation among Sri Lankan Tamils",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "The demand for Tamil Eelam",
+   "attribute": "resulted in",
+   "value": "An armed conflict and a long civil war",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "Accommodation in Belgium",
+   "attribute": "resulted in",
+   "value": "Peaceful coexistence between the two language communities",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "Brussels' separate government",
+   "attribute": "resulted in",
+   "value": "Equal representation for French and Dutch speakers",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "The Community government in Belgium",
+   "attribute": "resulted in",
+   "value": "Elected by language groups regardless of where they live",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.belgium-srilanka",
+   "subject": "Refusing to share power in Sri Lanka",
+   "attribute": "resulted in",
+   "value": "Internal conflict that damaged national unity",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.forms",
+   "subject": "Horizontal distribution of power",
+   "attribute": "meaning of",
+   "value": "Sharing among the legislature, executive and judiciary",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.forms",
+   "subject": "Vertical division of power",
+   "attribute": "meaning of",
+   "value": "Sharing among the union, state and local governments",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.forms",
+   "subject": "Community government",
+   "attribute": "meaning of",
+   "value": "Sharing among social groups, such as language communities in Belgium",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.forms",
+   "subject": "Coalition government",
+   "attribute": "meaning of",
+   "value": "Sharing among political parties that form an alliance",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.forms",
+   "subject": "Checks and balances",
+   "attribute": "meaning of",
+   "value": "Each organ of government restraining the others",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.forms",
+   "subject": "Reserved constituencies",
+   "attribute": "meaning of",
+   "value": "Sharing of political power with weaker sections",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "Power sharing being good in itself",
+   "attribute": "reason for",
+   "value": "It is the very spirit of democracy",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "Reducing the possibility of conflict between social groups",
+   "attribute": "reason for",
+   "value": "A prudential reason: sharing prevents conflict",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "Ensuring the stability of political order",
+   "attribute": "reason for",
+   "value": "A prudential reason: sharing avoids majority tyranny",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "People having a right to be consulted on how they are governed",
+   "attribute": "reason for",
+   "value": "A moral reason for power sharing",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "Legitimacy of government",
+   "attribute": "reason for",
+   "value": "A government of the people requires sharing power with them",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "Accommodating diversity",
+   "attribute": "reason for",
+   "value": "Preventing the tyranny of the majority",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "The prudential approach",
+   "attribute": "illustrated by",
+   "value": "Belgium's accommodation of its two language communities",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "The failure to share power",
+   "attribute": "illustrated by",
+   "value": "Sri Lanka's majoritarianism and civil war",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "A moral justification",
+   "attribute": "illustrated by",
+   "value": "The claim that people have a right to be consulted",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "Horizontal power sharing",
+   "attribute": "illustrated by",
+   "value": "India's system of checks and balances",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "Vertical power sharing",
+   "attribute": "illustrated by",
+   "value": "India's three levels of government",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "Community power sharing",
+   "attribute": "illustrated by",
+   "value": "Belgium's Community government",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "Two or more levels of government",
+   "attribute": "requirement of",
+   "value": "Each governing the same citizens",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "Jurisdiction of each level",
+   "attribute": "requirement of",
+   "value": "Specified in the constitution",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "Constitutional guarantee of authority",
+   "attribute": "requirement of",
+   "value": "Each level's existence and powers protected",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "Changing basic constitutional provisions",
+   "attribute": "requirement of",
+   "value": "Consent of both the central and the state governments",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "Financial autonomy of each level",
+   "attribute": "requirement of",
+   "value": "Separately specified sources of revenue",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "Interpreting the constitution",
+   "attribute": "requirement of",
+   "value": "Courts acting as an umpire between levels",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "Specified objectives of the federation",
+   "attribute": "requirement of",
+   "value": "Safeguarding unity while accommodating diversity",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "A coming-together federation",
+   "attribute": "distinguished by",
+   "value": "Independent states uniting voluntarily, as in the USA",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "A holding-together federation",
+   "attribute": "distinguished by",
+   "value": "A large country dividing power between centre and units, as in India",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "A unitary system",
+   "attribute": "distinguished by",
+   "value": "Only one level of government, or sub-units subordinate to the centre",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "India's federal structure",
+   "attribute": "distinguished by",
+   "value": "A holding-together federation with a strong centre",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "Defence, banking, communications and currency",
+   "attribute": "listed in",
+   "value": "The Union List",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "Police, trade, commerce, agriculture and irrigation",
+   "attribute": "listed in",
+   "value": "The State List",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "Education, forest, trade unions, marriage, adoption and succession",
+   "attribute": "listed in",
+   "value": "The Concurrent List",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "Subjects not mentioned in any of the three lists",
+   "attribute": "listed in",
+   "value": "Residuary subjects, which go to the Union",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "Areas too small to be separate states but not mergeable",
+   "attribute": "listed in",
+   "value": "Union Territories, run by the central government",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "Number of subjects in the Union List",
+   "attribute": "listed in",
+   "value": "About 97",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "Number of subjects in the State List",
+   "attribute": "listed in",
+   "value": "About 66",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "Number of subjects in the Concurrent List",
+   "attribute": "listed in",
+   "value": "About 47",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "Number of Scheduled Languages in India",
+   "attribute": "measured by",
+   "value": "22",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "Share of Indians speaking Hindi",
+   "attribute": "measured by",
+   "value": "About 40 per cent",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "India's official language",
+   "attribute": "measured by",
+   "value": "Hindi, which is not declared the national language",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "States in the Indian Union",
+   "attribute": "measured by",
+   "value": "28 states and 8 Union Territories",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "The basis of state formation in 1950s India",
+   "attribute": "measured by",
+   "value": "Language",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.india",
+   "subject": "A successful experiment in federalism",
+   "attribute": "measured by",
+   "value": "Linguistic states and flexible centre-state relations",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "Regular elections to local government bodies",
+   "attribute": "provided for",
+   "value": "Made constitutionally mandatory in 1992",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "Reservation for SC, ST and OBC in local bodies",
+   "attribute": "provided for",
+   "value": "Made mandatory by the 1992 amendment",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "Reservation of at least one-third of positions for women",
+   "attribute": "provided for",
+   "value": "Introduced by the 1992 amendment",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "An independent State Election Commission",
+   "attribute": "provided for",
+   "value": "Created to conduct panchayat and municipal elections",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "Sharing of power and revenue with local bodies",
+   "attribute": "provided for",
+   "value": "Required of state governments",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "Panchayati Raj",
+   "attribute": "provided for",
+   "value": "Village, block and district level rural local government",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "Municipalities and municipal corporations",
+   "attribute": "provided for",
+   "value": "Urban local government",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "Gram Sabha",
+   "attribute": "provided for",
+   "value": "A meeting of all adults in a village on the panchayat's voter list",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "The village level",
+   "attribute": "structured as",
+   "value": "The Gram Panchayat, headed by the Sarpanch",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "The block level",
+   "attribute": "structured as",
+   "value": "The Panchayat Samiti or Block",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "The district level",
+   "attribute": "structured as",
+   "value": "The Zila Parishad",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "A small town",
+   "attribute": "structured as",
+   "value": "A municipality",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.decentralisation",
+   "subject": "A big city",
+   "attribute": "structured as",
+   "value": "A municipal corporation, headed by the Mayor",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "Lower female literacy",
+   "attribute": "reflected in",
+   "value": "Girls dropping out to support the family",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "Unequal wages for equal work",
+   "attribute": "reflected in",
+   "value": "Women paid less than men for the same labour",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "A declining child sex ratio",
+   "attribute": "reflected in",
+   "value": "Preference for sons and sex-selective abortion",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "Unpaid domestic labour",
+   "attribute": "reflected in",
+   "value": "Women cooking, cleaning and caring for children",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "Low political representation",
+   "attribute": "reflected in",
+   "value": "Women holding a small share of seats in legislatures",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "Reservation proposed for women in local bodies",
+   "attribute": "reflected in",
+   "value": "At least one-third of positions",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "Women's reservation Bill",
+   "attribute": "reflected in",
+   "value": "One-third of seats in Lok Sabha and state assemblies",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "Social divisions based on sexual division of labour",
+   "attribute": "term for",
+   "value": "Gender",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "Politics that stresses the interests of one religious group",
+   "attribute": "term for",
+   "value": "Communalism",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "A society where men and women get equal opportunities",
+   "attribute": "term for",
+   "value": "An egalitarian society",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "Public expression of religion in politics",
+   "attribute": "term for",
+   "value": "Communal politics",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "A state that does not favour any religion",
+   "attribute": "term for",
+   "value": "A secular state",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.gender",
+   "subject": "A hierarchy of social groups based on descent",
+   "attribute": "term for",
+   "value": "Caste",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.religion",
+   "subject": "India's secularism",
+   "attribute": "guaranteed by",
+   "value": "No official religion is given constitutional status",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.religion",
+   "subject": "Freedom to profess and practise any religion",
+   "attribute": "guaranteed by",
+   "value": "The Constitution's Fundamental Rights",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.religion",
+   "subject": "The right to reform religion",
+   "attribute": "guaranteed by",
+   "value": "Freedom of conscience",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.religion",
+   "subject": "State intervention in religious matters",
+   "attribute": "guaranteed by",
+   "value": "Allowed to ensure equality within religious communities",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.religion",
+   "subject": "A ban on religion-based discrimination",
+   "attribute": "guaranteed by",
+   "value": "Fundamental Rights",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.religion",
+   "subject": "Reservation and protective measures",
+   "attribute": "guaranteed by",
+   "value": "Permitted for socially backward groups",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.religion",
+   "subject": "Religious prejudice and stereotypes",
+   "attribute": "expressed as",
+   "value": "Everyday communalism",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.religion",
+   "subject": "A quest for political dominance of one community",
+   "attribute": "expressed as",
+   "value": "Communal politics",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.religion",
+   "subject": "Religious symbols and rituals in elections",
+   "attribute": "expressed as",
+   "value": "Communal mobilisation",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.religion",
+   "subject": "Demands for a separate political unit",
+   "attribute": "expressed as",
+   "value": "Communalism in its most extreme form",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.religion",
+   "subject": "State support to a religious community",
+   "attribute": "expressed as",
+   "value": "A violation of secularism",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Caste in politics",
+   "attribute": "operates through",
+   "value": "Parties selecting candidates who can win the local caste arithmetic",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Politics in caste",
+   "attribute": "operates through",
+   "value": "Caste identities being reshaped by political competition",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Caste-based reservation",
+   "attribute": "operates through",
+   "value": "Constitutional provisions for SC, ST and OBC",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Appeals to caste sentiment in elections",
+   "attribute": "operates through",
+   "value": "Vote-bank politics",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Caste and economic status",
+   "attribute": "operates through",
+   "value": "Overlapping but not identical inequalities",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Caste in public life",
+   "attribute": "operates through",
+   "value": "Declining influence in cities but persistent in rural areas",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Economic development and urbanisation",
+   "attribute": "weakened by",
+   "value": "Occupational mobility across caste lines",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Education and literacy",
+   "attribute": "weakened by",
+   "value": "Reduced acceptance of caste hierarchy",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Constitutional provisions and laws",
+   "attribute": "weakened by",
+   "value": "Abolition of untouchability and caste discrimination",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Political mobilisation of lower castes",
+   "attribute": "weakened by",
+   "value": "Assertion of political rights",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Inter-caste marriage and migration",
+   "attribute": "weakened by",
+   "value": "Blurring of rigid boundaries",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Land reforms",
+   "attribute": "weakened by",
+   "value": "Reduced landlord power based on caste",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Contesting elections",
+   "attribute": "carried out by",
+   "value": "Political parties, by fielding candidates",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Putting forward policies and programmes",
+   "attribute": "carried out by",
+   "value": "Political parties, through their manifestos",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Making laws in the legislature",
+   "attribute": "carried out by",
+   "value": "Political parties, through their members in the legislature",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Forming and running the government",
+   "attribute": "carried out by",
+   "value": "The ruling party or coalition",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Playing the role of the opposition",
+   "attribute": "carried out by",
+   "value": "Parties that lose elections",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Shaping public opinion",
+   "attribute": "carried out by",
+   "value": "Political parties and pressure groups",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Providing access to government machinery and welfare schemes",
+   "attribute": "carried out by",
+   "value": "Political parties",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.types",
+   "subject": "A one-party system",
+   "attribute": "consists of",
+   "value": "Only one party allowed to rule, as in China",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.types",
+   "subject": "A two-party system",
+   "attribute": "consists of",
+   "value": "Power usually shifts between two main parties, as in the USA and UK",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.types",
+   "subject": "A multi-party system",
+   "attribute": "consists of",
+   "value": "Several parties compete, as in India",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.types",
+   "subject": "A coalition government",
+   "attribute": "consists of",
+   "value": "Two or more parties joining to form a government",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.types",
+   "subject": "A recognised party",
+   "attribute": "consists of",
+   "value": "One given facilities by the Election Commission on set criteria",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.types",
+   "subject": "A registered but unrecognised party",
+   "attribute": "consists of",
+   "value": "One that has not met the recognition criteria",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.types",
+   "subject": "A national party",
+   "attribute": "requirement for recognition of",
+   "value": "At least six per cent of votes in Lok Sabha or in four state assemblies, plus four Lok Sabha seats",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.types",
+   "subject": "A state party",
+   "attribute": "requirement for recognition of",
+   "value": "At least six per cent of votes in a state assembly election plus two seats",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.types",
+   "subject": "A recognised national party",
+   "attribute": "requirement for recognition of",
+   "value": "An election symbol reserved for exclusive use",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.types",
+   "subject": "A registered party",
+   "attribute": "requirement for recognition of",
+   "value": "Registration with the Election Commission",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Bharatiya Janata Party",
+   "attribute": "founded in",
+   "value": "1980",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Indian National Congress",
+   "attribute": "founded in",
+   "value": "1885",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Communist Party of India (Marxist)",
+   "attribute": "founded in",
+   "value": "1964",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Bahujan Samaj Party",
+   "attribute": "founded in",
+   "value": "1984",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Nationalist Congress Party",
+   "attribute": "founded in",
+   "value": "1999",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Trinamool Congress",
+   "attribute": "founded in",
+   "value": "1998",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Aam Aadmi Party",
+   "attribute": "founded in",
+   "value": "2012",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Communist Party of India",
+   "attribute": "founded in",
+   "value": "1925",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Bharatiya Janata Party",
+   "attribute": "symbol of",
+   "value": "Lotus",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Indian National Congress",
+   "attribute": "symbol of",
+   "value": "Hand",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Communist Party of India (Marxist)",
+   "attribute": "symbol of",
+   "value": "Hammer, sickle and star",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Bahujan Samaj Party",
+   "attribute": "symbol of",
+   "value": "Elephant",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Nationalist Congress Party",
+   "attribute": "symbol of",
+   "value": "Clock",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Aam Aadmi Party",
+   "attribute": "symbol of",
+   "value": "Broom",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "The Trinamool Congress",
+   "attribute": "symbol of",
+   "value": "Grass and flowers",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "A state party of Punjab",
+   "attribute": "example of",
+   "value": "The Shiromani Akali Dal",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "A state party of Tamil Nadu",
+   "attribute": "example of",
+   "value": "The Dravida Munnetra Kazhagam",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "A state party of Andhra Pradesh",
+   "attribute": "example of",
+   "value": "The Telugu Desam Party",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "A state party of Odisha",
+   "attribute": "example of",
+   "value": "The Biju Janata Dal",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "A state party of Assam",
+   "attribute": "example of",
+   "value": "The Asom Gana Parishad",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.national",
+   "subject": "A state party of West Bengal",
+   "attribute": "example of",
+   "value": "The Trinamool Congress before national recognition",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Lack of internal democracy",
+   "attribute": "challenged by",
+   "value": "Power concentrated in a few top leaders",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Dynastic succession",
+   "attribute": "challenged by",
+   "value": "Family members inheriting leadership",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Growing use of money and muscle power",
+   "attribute": "challenged by",
+   "value": "Parties backing candidates who can win by any means",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Absence of a real choice for voters",
+   "attribute": "challenged by",
+   "value": "Parties differing little in ideology and practice",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Criminalisation of politics",
+   "attribute": "challenged by",
+   "value": "Candidates with criminal cases contesting elections",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Weak organisational structure",
+   "attribute": "challenged by",
+   "value": "No regular membership or internal elections",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "The anti-defection law",
+   "attribute": "reformed by",
+   "value": "A constitutional amendment preventing MPs and MLAs from switching parties",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Affidavits of property and criminal cases",
+   "attribute": "reformed by",
+   "value": "Making candidates disclose assets and pending cases",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "A law regulating internal affairs",
+   "attribute": "reformed by",
+   "value": "Mandating organisational elections and membership registers",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "State funding of elections",
+   "attribute": "reformed by",
+   "value": "Reducing dependence on private money",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Pressure from citizens and the media",
+   "attribute": "reformed by",
+   "value": "Forcing parties to be more open",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Public participation",
+   "attribute": "reformed by",
+   "value": "Joining parties and making them accountable",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "An accountable government",
+   "attribute": "expected of",
+   "value": "Following rules and procedures, and being answerable to citizens",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "A responsive government",
+   "attribute": "expected of",
+   "value": "Attending to the needs and expectations of the people",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "A legitimate government",
+   "attribute": "expected of",
+   "value": "Being elected by the people through free and fair elections",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "Transparency in democracy",
+   "attribute": "expected of",
+   "value": "Citizens being able to examine how decisions were taken",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "Norms and procedures in a democracy",
+   "attribute": "expected of",
+   "value": "Slower decisions, but ones that are more acceptable",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Economic growth under democracy",
+   "attribute": "assessed by",
+   "value": "Compared with non-democratic regimes over 1950 to 2000",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Growth rates of dictatorships between 1950 and 2000",
+   "attribute": "assessed by",
+   "value": "Slightly higher than those of democracies",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Democracy's advantage",
+   "attribute": "assessed by",
+   "value": "Being more acceptable because growth is shared and legitimate",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Inequality in democracies",
+   "attribute": "assessed by",
+   "value": "High and often rising, despite formal equality",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Poverty reduction",
+   "attribute": "assessed by",
+   "value": "Slower than expected in many democracies, including India",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "The top of society's share of income",
+   "attribute": "assessed by",
+   "value": "Growing faster than the bottom's",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Accommodation of social diversity",
+   "attribute": "promoted by",
+   "value": "Respect for differences and mechanisms to negotiate conflict",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Dignity and freedom of citizens",
+   "attribute": "promoted by",
+   "value": "Legal recognition of equality, including for women",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Claims of disadvantaged groups",
+   "attribute": "promoted by",
+   "value": "Recognition of their rights by democratic politics",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Democratic government",
+   "attribute": "promoted by",
+   "value": "Improving the dignity of all citizens",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Public support for democracy",
+   "attribute": "promoted by",
+   "value": "Sustained even when people criticise its performance",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Whether democracy delivers",
+   "attribute": "judged by",
+   "value": "Accountable, responsive and legitimate government",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Economic outcomes",
+   "attribute": "judged by",
+   "value": "Growth, development and reduction of inequality",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Social outcomes",
+   "attribute": "judged by",
+   "value": "Accommodation of diversity and dignity of citizens",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Political outcomes",
+   "attribute": "judged by",
+   "value": "Freedom, choice and participation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Democracy's greatest strength",
+   "attribute": "judged by",
+   "value": "Its ability to generate its own support among the people",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "A dictatorship",
+   "attribute": "distinguished from",
+   "value": "No elected government and no citizen control over decisions",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "A non-democratic regime's economic record",
+   "attribute": "distinguished from",
+   "value": "Growth without legitimacy or equality",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Democracy's procedures",
+   "attribute": "distinguished from",
+   "value": "Slower than authoritarian rule but more acceptable",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Corruption in democracies",
+   "attribute": "distinguished from",
+   "value": "Present, but exposed and contested in public",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "Citizens being able to examine how a decision was taken",
+   "attribute": "guaranteed by",
+   "value": "Published norms and recorded procedures",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "Rulers being replaceable without violence",
+   "attribute": "guaranteed by",
+   "value": "Elections held at regular, fixed intervals",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "The executive being questioned between elections",
+   "attribute": "guaranteed by",
+   "value": "A legislature with the right to demand answers",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "Official conduct being visible to the public",
+   "attribute": "guaranteed by",
+   "value": "A free press that reports on government decisions",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "A citizen's right to ask for official information",
+   "attribute": "guaranteed by",
+   "value": "Statutory right to information",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "Decisions taking longer in a democracy",
+   "attribute": "consequence of",
+   "value": "Deliberation, negotiation and open procedure",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "A decision being accepted even by those who lost the argument",
+   "attribute": "consequence of",
+   "value": "Those affected having taken part in making it",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "A government being answerable for its performance",
+   "attribute": "consequence of",
+   "value": "The possibility of removing it at the next election",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "A wrong decision eventually being corrected",
+   "attribute": "consequence of",
+   "value": "Public debate and the chance of a change of government",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "Grievances being voiced rather than suppressed",
+   "attribute": "consequence of",
+   "value": "Freedom of expression and a permitted opposition",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "A government that follows its own stated norms and procedures",
+   "attribute": "term for",
+   "value": "Accountable government",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "A government that attends to what people need and expect",
+   "attribute": "term for",
+   "value": "Responsive government",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "A government that people accept because they chose it",
+   "attribute": "term for",
+   "value": "Legitimate government",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "A citizen's ability to find out how a decision was reached",
+   "attribute": "term for",
+   "value": "Transparency",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.accountable",
+   "subject": "The comparison between what democracy promises and what it delivers",
+   "attribute": "term for",
+   "value": "Assessment of democratic outcomes",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Democracies being unable to end economic inequality on their own",
+   "attribute": "reason for",
+   "value": "Inequality depending on who holds resources, not on the form of government",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Growth rates of democracies and dictatorships being close between 1950 and 2000",
+   "attribute": "reason for",
+   "value": "Both systems containing fast-growing and stagnant countries",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Democratic growth being considered preferable despite similar rates",
+   "attribute": "reason for",
+   "value": "Its gains being shared and its government chosen by the people",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Poverty falling more slowly than citizens hoped in several democracies",
+   "attribute": "reason for",
+   "value": "Growth being unevenly distributed between groups and regions",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Public dissatisfaction persisting in functioning democracies",
+   "attribute": "reason for",
+   "value": "Citizens holding their rulers to a standard the rulers rarely meet fully",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Formal equality coexisting with real inequality",
+   "attribute": "illustrated by",
+   "value": "Equal voting rights alongside widening income gaps",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Democracy improving the dignity of citizens",
+   "attribute": "illustrated by",
+   "value": "Disadvantaged groups pressing claims that are then recognised",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Democracy improving the dignity of women",
+   "attribute": "illustrated by",
+   "value": "Legal recognition of equality and the ability to protest unfair treatment",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Caste-based claims being addressed in a democracy",
+   "attribute": "illustrated by",
+   "value": "Recognition of the claims of historically disadvantaged groups",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.equality",
+   "subject": "Freedom and dignity being democracy's clearest advantage",
+   "attribute": "illustrated by",
+   "value": "Its record on these compared with its record on growth",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "A political outcome of democracy",
+   "attribute": "example of",
+   "value": "Citizens choosing who governs and being free to change that choice",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "An economic outcome of democracy",
+   "attribute": "example of",
+   "value": "Growth being pursued alongside attempts to reduce inequality",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "A social outcome of democracy",
+   "attribute": "example of",
+   "value": "Differences between communities being accommodated rather than suppressed",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "A sign that democracy is functioning rather than failing",
+   "attribute": "example of",
+   "value": "Citizens complaining about how their rulers behave",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "A limitation of democracy rather than of its rulers",
+   "attribute": "example of",
+   "value": "Slow decisions caused by consultation and procedure",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Treating complaints as integral to democracy",
+   "attribute": "significance of",
+   "value": "Showing that citizens expect their rulers to answer to them",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Comparing democracies with one another rather than with an ideal",
+   "attribute": "significance of",
+   "value": "Judging each against what democracy can realistically deliver",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Assessing outcomes rather than only institutions",
+   "attribute": "significance of",
+   "value": "Revealing whether elections and legislatures actually improve lives",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Public support surviving criticism of performance",
+   "attribute": "significance of",
+   "value": "Indicating that people value the system more than any one government",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Democracy generating its own support among the people",
+   "attribute": "significance of",
+   "value": "Being the reason it outlasts regimes that rule by force alone",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Popular support for democracy",
+   "attribute": "sustained by",
+   "value": "Citizens valuing being able to choose and question their rulers",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "The legitimacy of a democratic government",
+   "attribute": "sustained by",
+   "value": "Free and fair elections that the losers accept",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "The accommodation of social diversity",
+   "attribute": "sustained by",
+   "value": "Respect for difference and agreed ways of negotiating conflict",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Continued improvement in dignity and freedom",
+   "attribute": "sustained by",
+   "value": "Citizens pressing claims and institutions recognising them",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-outcomes",
+   "topic": "ss-civ-outcomes.assessment",
+   "subject": "Trust between citizens and rulers over time",
+   "attribute": "sustained by",
+   "value": "Rulers following procedure and citizens being able to verify it",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "The prudential case for power sharing",
+   "attribute": "illustrated by",
+   "value": "Sharing reducing the chance of conflict between social groups",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "The moral case for power sharing",
+   "attribute": "illustrated by",
+   "value": "Power belonging to the people who are governed by it",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "Vertical division of power in practice",
+   "attribute": "illustrated by",
+   "value": "Different levels of government each holding their own authority",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "Horizontal division of power in practice",
+   "attribute": "illustrated by",
+   "value": "Legislature, executive and judiciary checking one another",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "Community government as a form of power sharing",
+   "attribute": "illustrated by",
+   "value": "Different social groups being given a share in decisions about themselves",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-power-sharing",
+   "topic": "ss-civ-power-sharing.why",
+   "subject": "Coalition government as power sharing",
+   "attribute": "illustrated by",
+   "value": "Several parties sharing executive authority after an election",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "The distribution of powers between levels of government",
+   "attribute": "guaranteed by",
+   "value": "A written constitution that both levels must respect",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "The authority of each level over its own subjects",
+   "attribute": "guaranteed by",
+   "value": "Constitutional protection of its own area of power",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "Changes to the basic arrangement of powers",
+   "attribute": "guaranteed by",
+   "value": "Agreement of both the centre and the constituent units",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "Disputes between levels of government",
+   "attribute": "guaranteed by",
+   "value": "A judiciary empowered to interpret the constitution",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "Revenue for each level of government",
+   "attribute": "guaranteed by",
+   "value": "Constitutionally specified sources of its own income",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-federalism",
+   "topic": "ss-civ-federalism.features",
+   "subject": "The existence of more than one level of government",
+   "attribute": "guaranteed by",
+   "value": "The same citizens being governed by each of them",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Caste inequality in everyday life",
+   "attribute": "reflected in",
+   "value": "Denial of dignity and unequal treatment between groups",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Caste entering politics",
+   "attribute": "reflected in",
+   "value": "Parties choosing candidates expected to attract a caste bloc",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Caste shaping electoral outcomes",
+   "attribute": "reflected in",
+   "value": "Voters favouring candidates from their own community",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Political mobilisation on caste lines",
+   "attribute": "reflected in",
+   "value": "Appeals to caste feeling in campaigns and slogans",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Caste combining with other identities",
+   "attribute": "reflected in",
+   "value": "Class, region and community acting together in voting",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-gender",
+   "topic": "ss-civ-gender.caste",
+   "subject": "Caste not deciding every election",
+   "attribute": "reflected in",
+   "value": "No constituency being entirely one caste, and coalitions being needed",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Internal democracy within parties",
+   "attribute": "challenged by",
+   "value": "Power concentrated in a small group at the top",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Transparent functioning of parties",
+   "attribute": "challenged by",
+   "value": "Decisions and accounts not being open to members or voters",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Fair competition between parties",
+   "attribute": "challenged by",
+   "value": "Money and muscle power being used to win elections",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Voters being offered a real choice",
+   "attribute": "challenged by",
+   "value": "Parties differing little in what they actually propose",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Parties being held to account by citizens",
+   "attribute": "challenged by",
+   "value": "Distrust of politicians spreading to the parties themselves",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-civ-parties",
+   "topic": "ss-civ-parties.functions",
+   "subject": "Nominating candidates who can win",
+   "attribute": "challenged by",
+   "value": "Pressure to field those with money or influence over merit",
+   "difficulty": "medium"
+  }
+ ]
+}

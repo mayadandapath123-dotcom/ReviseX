@@ -1,0 +1,2439 @@
+{
+ "chapter": "ss-hist-nationalism-europe",
+ "kind": "fact",
+ "generator": "fact_attribute",
+ "source_ref": "CBSE/NCERT Class 10 Social Science (2025-26) syllabus facts, restated in original wording. Questions are composed from these facts by the fact-attribute generator; no text is reproduced from any textbook.",
+ "generator_note": "Dense attribute clusters. Each item carries its own chapter and topic, so one file can span a whole branch. Clusters of four or more items sharing an attribute unlock the reverse and negative-recall question forms, which is what makes these worth three questions each rather than one.",
+ "items": [
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The Act of Union between England and Scotland",
+   "attribute": "year of",
+   "value": "1707",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The French Revolution",
+   "attribute": "year of",
+   "value": "1789",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "Ireland's incorporation into the United Kingdom",
+   "attribute": "year of",
+   "value": "1801",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "Napoleon's Civil Code",
+   "attribute": "year of",
+   "value": "1804",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The Treaty of Vienna",
+   "attribute": "year of",
+   "value": "1815",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The Greek War of Independence",
+   "attribute": "year of",
+   "value": "1821",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The Treaty of Constantinople recognising Greece",
+   "attribute": "year of",
+   "value": "1832",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The Zollverein customs union",
+   "attribute": "year of",
+   "value": "1834",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "Philipp Veit's painting of Germania",
+   "attribute": "year of",
+   "value": "1848",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The proclamation of a united Italy",
+   "attribute": "year of",
+   "value": "1861",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The proclamation of the German Empire",
+   "attribute": "year of",
+   "value": "1871",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "German unification",
+   "attribute": "associated with",
+   "value": "Otto von Bismarck",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "Italian diplomatic leadership",
+   "attribute": "associated with",
+   "value": "Count Cavour",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The Young Italy society",
+   "attribute": "associated with",
+   "value": "Giuseppe Mazzini",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The Red Shirts expedition to Sicily",
+   "attribute": "associated with",
+   "value": "Giuseppe Garibaldi",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The Congress of Vienna",
+   "attribute": "associated with",
+   "value": "Duke Metternich",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "Support for the Greek cause among European poets",
+   "attribute": "associated with",
+   "value": "Lord Byron",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The allegorical painting of Germania",
+   "attribute": "associated with",
+   "value": "Philipp Veit",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The French allegory of the Republic",
+   "attribute": "associated with",
+   "value": "Marianne",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "Napoleon's administrative reforms",
+   "attribute": "associated with",
+   "value": "The Civil Code of 1804",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.events",
+   "subject": "The restoration of the Bourbon dynasty",
+   "attribute": "associated with",
+   "value": "The Treaty of Vienna",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.liberalism",
+   "subject": "The word 'liberal'",
+   "attribute": "meant",
+   "value": "Freedom for the individual and equality before the law",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.liberalism",
+   "subject": "Political liberalism in the 1840s",
+   "attribute": "meant",
+   "value": "Government by consent and an end to autocracy",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.liberalism",
+   "subject": "Economic liberalism",
+   "attribute": "meant",
+   "value": "Freedom of markets and the removal of state restrictions",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.liberalism",
+   "subject": "The Zollverein",
+   "attribute": "meant",
+   "value": "Abolition of tariff barriers and a common currency system",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.liberalism",
+   "subject": "Liberal nationalism for the middle class",
+   "attribute": "meant",
+   "value": "Freedom of markets and movement of goods",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.liberalism",
+   "subject": "Suffrage under Napoleonic rule",
+   "attribute": "meant",
+   "value": "A right limited to property-owning men",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.liberalism",
+   "subject": "The Napoleonic Code",
+   "attribute": "meant",
+   "value": "Abolition of privileges based on birth",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.liberalism",
+   "subject": "Liberalism's Latin root 'liber'",
+   "attribute": "meant",
+   "value": "Free",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "German unification",
+   "attribute": "occurred through",
+   "value": "Three wars over seven years led by Prussia",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "Italian unification",
+   "attribute": "occurred through",
+   "value": "War, diplomacy and a popular expedition",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "The capture of Rome",
+   "attribute": "occurred through",
+   "value": "Annexation of the Papal States in 1870",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "British nation-state formation",
+   "attribute": "occurred through",
+   "value": "A long-drawn-out process, not a revolution",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "The Act of Union of 1707",
+   "attribute": "occurred through",
+   "value": "The creation of the United Kingdom of Great Britain",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "Prussia's victory over France",
+   "attribute": "occurred through",
+   "value": "Proclamation of Kaiser William I at Versailles",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "The unification of Italy's south",
+   "attribute": "occurred through",
+   "value": "Garibaldi's march into the Kingdom of the Two Sicilies",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "England's domination of the British Isles",
+   "attribute": "occurred through",
+   "value": "Suppression of Irish Catholic identity",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.romanticism",
+   "subject": "Folk songs and dances",
+   "attribute": "used for",
+   "value": "To carry nationalist feeling to a largely illiterate audience",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.romanticism",
+   "subject": "The Grimm brothers' collections",
+   "attribute": "used for",
+   "value": "To recover a German national identity through folk tales",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.romanticism",
+   "subject": "Karol Kurpinski's operas",
+   "attribute": "used for",
+   "value": "To express the Polish nationalist struggle",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.romanticism",
+   "subject": "The Polish language under Russian rule",
+   "attribute": "used for",
+   "value": "As a marker of national resistance",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.romanticism",
+   "subject": "Allegorical female figures",
+   "attribute": "used for",
+   "value": "To give an abstract nation a concrete form",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.romanticism",
+   "subject": "The oak leaves in Germania's crown",
+   "attribute": "used for",
+   "value": "As a symbol of German heroism",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.romanticism",
+   "subject": "The broken chain in Marianne's imagery",
+   "attribute": "used for",
+   "value": "As a symbol of freedom from oppression",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.romanticism",
+   "subject": "Vernacular opera and folk music",
+   "attribute": "used for",
+   "value": "To build a shared cultural identity",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The Rowlatt Act",
+   "attribute": "year of",
+   "value": "1919, passed in March",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The Jallianwala Bagh massacre",
+   "attribute": "year of",
+   "value": "13 April 1919",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The formation of the Khilafat Committee in Bombay",
+   "attribute": "year of",
+   "value": "1919",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "Gandhi's book Hind Swaraj",
+   "attribute": "year of",
+   "value": "1909",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The Non-Cooperation Movement approved at the Nagpur session",
+   "attribute": "year of",
+   "value": "1920",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The Chauri Chaura incident",
+   "attribute": "year of",
+   "value": "1922",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The formation of the Swaraj Party",
+   "attribute": "year of",
+   "value": "1923",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The arrival of the Simon Commission in India",
+   "attribute": "year of",
+   "value": "1928",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The Non-Cooperation Movement in towns",
+   "attribute": "called for",
+   "value": "Surrender of titles and boycott of civil services",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "Boycott of foreign cloth",
+   "attribute": "called for",
+   "value": "A reduction of imports and the revival of Indian handloom",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The picketing of liquor shops",
+   "attribute": "called for",
+   "value": "As part of the boycott programme",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "Students",
+   "attribute": "called for",
+   "value": "To leave government-controlled schools and colleges",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The Khilafat issue",
+   "attribute": "called for",
+   "value": "A joint Hindu-Muslim platform against the British",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "Gandhi at the Nagpur session",
+   "attribute": "called for",
+   "value": "Full launch of Non-Cooperation in December 1920",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The withdrawal after Chauri Chaura",
+   "attribute": "called for",
+   "value": "An immediate end to the movement in 1922",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "C.R. Das and Motilal Nehru",
+   "attribute": "called for",
+   "value": "Council entry to obstruct government from within",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "The launch of the Civil Disobedience Movement",
+   "attribute": "year of",
+   "value": "1930",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "The signing of the Gandhi-Irwin Pact",
+   "attribute": "year of",
+   "value": "5 March 1931",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "The Second Round Table Conference in London",
+   "attribute": "year of",
+   "value": "1931",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "The signing of the Poona Pact",
+   "attribute": "year of",
+   "value": "September 1932",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "The relaunch of Civil Disobedience after the pact failed",
+   "attribute": "year of",
+   "value": "1932",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "The Quit India Movement",
+   "attribute": "year of",
+   "value": "1942",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "Indian Independence",
+   "attribute": "year of",
+   "value": "1947",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "Civil Disobedience, unlike Non-Cooperation",
+   "attribute": "distinguished by",
+   "value": "Refusal to obey unjust laws as well as boycott",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "The movement's participation",
+   "attribute": "distinguished by",
+   "value": "Inclusion of women, peasants and business classes",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "Industrialists' support",
+   "attribute": "distinguished by",
+   "value": "Protection against foreign imports and a favourable rupee ratio",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "Peasants' demand",
+   "attribute": "distinguished by",
+   "value": "Reduction of revenue and abolition of begar",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "Rich peasants' grievance",
+   "attribute": "distinguished by",
+   "value": "The trade depression and falling prices",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "Poor peasants' grievance",
+   "attribute": "distinguished by",
+   "value": "The inability to pay rent to landlords",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "The movement's limitation",
+   "attribute": "distinguished by",
+   "value": "Ambiguity towards untouchability and the Dalit demand",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "Dr B.R. Ambedkar's position",
+   "attribute": "distinguished by",
+   "value": "Separate electorates for Dalits",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "subject": "The distance covered by the Dandi March",
+   "attribute": "recorded as",
+   "value": "240 miles",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "subject": "The number of volunteers who set out with Gandhi",
+   "attribute": "recorded as",
+   "value": "78",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "subject": "The starting point of the march",
+   "attribute": "recorded as",
+   "value": "Sabarmati ashram",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "subject": "The destination of the march",
+   "attribute": "recorded as",
+   "value": "The coastal village of Dandi",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "subject": "The act that broke the law",
+   "attribute": "recorded as",
+   "value": "Boiling sea water to make salt",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "subject": "The recipient of Gandhi's ultimatum letter",
+   "attribute": "recorded as",
+   "value": "Lord Irwin",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "subject": "The reason salt was chosen",
+   "attribute": "recorded as",
+   "value": "It was consumed alike by the rich and the poorest",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "subject": "The date Gandhi reached Dandi",
+   "attribute": "recorded as",
+   "value": "6 April 1930",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "subject": "The date the march began",
+   "attribute": "recorded as",
+   "value": "12 March 1930",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "subject": "The number of demands in Gandhi's letter",
+   "attribute": "recorded as",
+   "value": "Eleven",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.participants",
+   "subject": "The Awadh peasant movement",
+   "attribute": "led by",
+   "value": "Baba Ramchandra",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.participants",
+   "subject": "The Gudem Hills tribal movement in Andhra Pradesh",
+   "attribute": "led by",
+   "value": "Alluri Sitaram Raju",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.participants",
+   "subject": "The Swaraj Party",
+   "attribute": "led by",
+   "value": "Motilal Nehru and C.R. Das",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.participants",
+   "subject": "The Simon Commission boycott",
+   "attribute": "led by",
+   "value": "The slogan 'Go back Simon'",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.participants",
+   "subject": "The Lahore Congress session of 1929",
+   "attribute": "led by",
+   "value": "Jawaharlal Nehru as president",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.participants",
+   "subject": "The demand for separate electorates for Muslims",
+   "attribute": "led by",
+   "value": "Muhammad Ali Jinnah",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.participants",
+   "subject": "The Dalit demand for political empowerment",
+   "attribute": "led by",
+   "value": "Dr B.R. Ambedkar",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.participants",
+   "subject": "The Lahore resolution of 1940",
+   "attribute": "led by",
+   "value": "Muhammad Ali Jinnah and the Muslim League",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Gandhi-Irwin Pact",
+   "attribute": "agreed between",
+   "value": "Mahatma Gandhi and Lord Irwin",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Poona Pact",
+   "attribute": "agreed between",
+   "value": "Mahatma Gandhi and Dr B.R. Ambedkar",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Lucknow Pact of 1916",
+   "attribute": "agreed between",
+   "value": "The Congress and the Muslim League",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Round Table Conferences",
+   "attribute": "agreed between",
+   "value": "The British government and Indian delegates",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Communal Award",
+   "attribute": "agreed between",
+   "value": "Separate electorates granted by Ramsay MacDonald",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Poona Pact's outcome",
+   "attribute": "agreed between",
+   "value": "Reserved seats for Depressed Classes within joint electorates",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Rowlatt Act",
+   "attribute": "resulted in",
+   "value": "Detention without trial",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Jallianwala Bagh massacre",
+   "attribute": "resulted in",
+   "value": "General Dyer firing on a peaceful gathering",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Simon Commission",
+   "attribute": "resulted in",
+   "value": "The boycott slogan 'Go back Simon'",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Chauri Chaura incident",
+   "attribute": "resulted in",
+   "value": "The withdrawal of the Non-Cooperation Movement",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Poona Pact",
+   "attribute": "resulted in",
+   "value": "Reservation of seats for the Depressed Classes",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Gandhi-Irwin Pact",
+   "attribute": "resulted in",
+   "value": "Gandhi's attendance at the London conference",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Vernacular Press Act",
+   "attribute": "resulted in",
+   "value": "Curbs on Indian-language newspapers",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Quit India Movement",
+   "attribute": "resulted in",
+   "value": "Mass arrests and the call to 'Do or Die'",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "Columbus's voyage to the Americas",
+   "attribute": "year of",
+   "value": "1492",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "Vasco da Gama's arrival in India",
+   "attribute": "year of",
+   "value": "1498",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "The Irish Potato Famine",
+   "attribute": "year of",
+   "value": "1845",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "Abolition of the Corn Laws in Britain",
+   "attribute": "year of",
+   "value": "1846",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "The Wall Street Crash",
+   "attribute": "year of",
+   "value": "October 1929",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "The beginning of the Great Depression",
+   "attribute": "year of",
+   "value": "1929",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "The Bretton Woods Conference",
+   "attribute": "year of",
+   "value": "1944",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "Establishment of the IMF and the World Bank",
+   "attribute": "year of",
+   "value": "1945",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "Signing of GATT",
+   "attribute": "year of",
+   "value": "1947",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "The Rinderpest cattle plague in Africa",
+   "attribute": "year of",
+   "value": "1890s",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "The International Monetary Fund",
+   "attribute": "purpose of",
+   "value": "Dealing with external surpluses and deficits of members",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "The World Bank",
+   "attribute": "purpose of",
+   "value": "Financing post-war reconstruction and development",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "GATT",
+   "attribute": "purpose of",
+   "value": "Reducing tariffs and other barriers to trade",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "The Bretton Woods exchange-rate system",
+   "attribute": "purpose of",
+   "value": "Fixed rates anchored to the US dollar",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "The anchor of the fixed-rate system",
+   "attribute": "purpose of",
+   "value": "The US dollar, itself convertible into gold",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "The two Bretton Woods institutions",
+   "attribute": "purpose of",
+   "value": "The IMF and the World Bank",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "Post-war employment policy",
+   "attribute": "purpose of",
+   "value": "Full employment in the industrial West",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "The system's collapse",
+   "attribute": "purpose of",
+   "value": "US withdrawal from fixed convertibility in 1971",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "Abolition of the Corn Laws",
+   "attribute": "consequence of",
+   "value": "Cheaper grain imports and abandoned British farmland",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "Cheap imported grain",
+   "attribute": "consequence of",
+   "value": "Migration from the English countryside to cities and abroad",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "Refrigerated ships",
+   "attribute": "consequence of",
+   "value": "Cheaper meat reaching European tables",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "Rinderpest in Africa",
+   "attribute": "consequence of",
+   "value": "Loss of livelihoods and forced entry into wage labour",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "Indentured migration from India",
+   "attribute": "consequence of",
+   "value": "Labour for plantations in the Caribbean, Mauritius and Fiji",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "Colonial conquest of Africa",
+   "attribute": "consequence of",
+   "value": "European control of land and resources",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "The shift of trade to Bombay",
+   "attribute": "consequence of",
+   "value": "Decline of older ports such as Surat and Hooghly",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "European investment abroad",
+   "attribute": "consequence of",
+   "value": "Growing interdependence of national economies",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.silk-route",
+   "subject": "The Silk Route",
+   "attribute": "connected",
+   "value": "China with Europe and North Africa",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.silk-route",
+   "subject": "Indian Ocean trade",
+   "attribute": "connected",
+   "value": "India with Arabia and the east coast of Africa",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.silk-route",
+   "subject": "Pre-modern Buddhist missionaries",
+   "attribute": "connected",
+   "value": "China, Korea and Japan",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.silk-route",
+   "subject": "Marco Polo's travels",
+   "attribute": "connected",
+   "value": "Europe with the court of China",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.silk-route",
+   "subject": "Chinese silk exports",
+   "attribute": "connected",
+   "value": "Rome and West Asia through Central Asia",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.silk-route",
+   "subject": "The Indian subcontinent's trade",
+   "attribute": "connected",
+   "value": "Spices, textiles and precious metals",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.silk-route",
+   "subject": "Arab merchants' networks",
+   "attribute": "connected",
+   "value": "The Red Sea, the Persian Gulf and the Indian coast",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.silk-route",
+   "subject": "European demand for Asian goods",
+   "attribute": "connected",
+   "value": "The search for a sea route to India",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "Agricultural overproduction",
+   "attribute": "caused",
+   "value": "A collapse of farm prices worldwide",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "The withdrawal of US overseas loans",
+   "attribute": "caused",
+   "value": "Bank failures across Europe",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "The US doubling of import duties",
+   "attribute": "caused",
+   "value": "A severe contraction of world trade",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "Falling prices and rising debt",
+   "attribute": "caused",
+   "value": "Ruined peasant households in India",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "Unemployment in the industrial world",
+   "attribute": "caused",
+   "value": "Mass migration and protest movements",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "The Depression in India",
+   "attribute": "caused",
+   "value": "A fall in export and import volumes by half",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "Jute growers in Bengal",
+   "attribute": "caused",
+   "value": "Collapse of gunny bag exports",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "The return of Indian overseas migrants",
+   "attribute": "caused",
+   "value": "Reduced remittance income",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "The spinning jenny",
+   "attribute": "invented by",
+   "value": "James Hargreaves",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "The improved steam engine, patented in 1781",
+   "attribute": "invented by",
+   "value": "James Watt",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "The flying shuttle loom",
+   "attribute": "invented by",
+   "value": "John Kay",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "The cotton mill as an integrated system",
+   "attribute": "invented by",
+   "value": "Richard Arkwright",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "The first practical locomotive engine",
+   "attribute": "invented by",
+   "value": "Richard Trevithick",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "Proto-industrialisation",
+   "attribute": "described as",
+   "value": "Large-scale production for the market outside factories",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "The putting-out system",
+   "attribute": "described as",
+   "value": "Merchants supplying money to peasants and artisans",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "Guilds",
+   "attribute": "described as",
+   "value": "Associations that controlled production and prices",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "Cottage industry",
+   "attribute": "described as",
+   "value": "Household production of textiles before mechanisation",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "The merchant's role",
+   "attribute": "described as",
+   "value": "Organising production without owning a factory",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "Rural labour in winter",
+   "attribute": "described as",
+   "value": "Seasonal work for proto-industrial merchants",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "Watt's steam engine patent",
+   "attribute": "year of",
+   "value": "1781",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "The first cotton mill in Bombay",
+   "attribute": "year of",
+   "value": "1854",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "The first jute mill in Bengal",
+   "attribute": "year of",
+   "value": "1855",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "Tata's Central India Spinning and Weaving Company at Nagpur",
+   "attribute": "year of",
+   "value": "1877",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "The Swadeshi movement's boost to Indian industry",
+   "attribute": "year of",
+   "value": "1905",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "The boom in Indian cotton exports during the First World War",
+   "attribute": "year of",
+   "value": "1914",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "The gomastha",
+   "attribute": "role of",
+   "value": "A Company agent who supervised weavers and supplied advances",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "The jobber",
+   "attribute": "role of",
+   "value": "A trusted old worker who recruited from his own village",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "The fly-shuttle loom",
+   "attribute": "role of",
+   "value": "Producing wider cloth without extra hands",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "Steam power in the mill",
+   "attribute": "role of",
+   "value": "Driving spinning and weaving machinery",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "The typical early factory worker",
+   "attribute": "role of",
+   "value": "A seasonal migrant returning to the village",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "Handloom production",
+   "attribute": "role of",
+   "value": "Surviving alongside mills for coarse and specialised cloth",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "Manchester goods",
+   "attribute": "role of",
+   "value": "Competing with Indian textiles in world markets",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "Indian mills' output",
+   "attribute": "role of",
+   "value": "Coarse cotton cloth, much of it for domestic use",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "The port of Surat",
+   "attribute": "declined because",
+   "value": "European companies secured concessions from local courts",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "The port of Hooghly",
+   "attribute": "declined because",
+   "value": "Trade shifted to Bengal under Company control",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "Raw cotton supply to weavers",
+   "attribute": "declined because",
+   "value": "Exports to Britain raised prices at home",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "Weavers in Bengal",
+   "attribute": "declined because",
+   "value": "They revolted against the Company's advances",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "Indian handloom weavers",
+   "attribute": "declined because",
+   "value": "Cheap Manchester goods flooded the market",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "The Indian silk and muslin trade",
+   "attribute": "declined because",
+   "value": "Foreign competition and Company monopoly",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "Weavers' bargaining power",
+   "attribute": "declined because",
+   "value": "The gomastha system fixed prices unilaterally",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "Cottage textile production",
+   "attribute": "declined because",
+   "value": "Mill-made yarn undercut hand-spun yarn",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "The China trade and Carr Tagore and Company",
+   "attribute": "associated with",
+   "value": "Dwarkanath Tagore",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "The Central India Spinning, Weaving and Manufacturing Company",
+   "attribute": "associated with",
+   "value": "Jamsetji Nusserwanji Tata",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "Bombay's Parsi and Marwari merchants",
+   "attribute": "associated with",
+   "value": "Setting up the first Indian mills",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "Bengal's jute industry",
+   "attribute": "associated with",
+   "value": "Scottish and British capital",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "The export of Indian opium to China",
+   "attribute": "associated with",
+   "value": "Financing Company trade",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "Elgin and Bharat mills",
+   "attribute": "associated with",
+   "value": "Indian-owned cotton manufacturing",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "Kanpur, Bombay and Madras",
+   "attribute": "associated with",
+   "value": "Concentration of Indian cotton mills",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "The First World War",
+   "attribute": "associated with",
+   "value": "Reduced Manchester imports into India",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "The Diamond Sutra, the earliest printed book",
+   "attribute": "year of",
+   "value": "868",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Gutenberg's development of the printing press",
+   "attribute": "year of",
+   "value": "1430s",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Gutenberg's printing of the Bible",
+   "attribute": "year of",
+   "value": "1455",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Martin Luther's Ninety-Five Theses",
+   "attribute": "year of",
+   "value": "1517",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Luther's German translation of the New Testament",
+   "attribute": "year of",
+   "value": "1522",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "The complete Luther Bible in German",
+   "attribute": "year of",
+   "value": "1534",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "The Index of Prohibited Books",
+   "attribute": "year of",
+   "value": "1558",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Caxton's introduction of printing to England",
+   "attribute": "year of",
+   "value": "1476",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Movable metal type in Europe",
+   "attribute": "linked to",
+   "value": "Johann Gutenberg",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "The first major printed book in Europe",
+   "attribute": "linked to",
+   "value": "The 42-line Bible",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Financing of Gutenberg's press",
+   "attribute": "linked to",
+   "value": "Johann Fust",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "The challenge to the Catholic Church's authority",
+   "attribute": "linked to",
+   "value": "Martin Luther's printed theses",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Humanist criticism of print",
+   "attribute": "linked to",
+   "value": "Erasmus, who feared a flood of foolish books",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Church control over printed matter",
+   "attribute": "linked to",
+   "value": "The Index of Prohibited Books",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Woodblock printing in East Asia",
+   "attribute": "linked to",
+   "value": "China, Japan and Korea",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Hand printing in Japan",
+   "attribute": "linked to",
+   "value": "Buddhist temples and illustrated books",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "The first printing press in India, at Goa",
+   "attribute": "year of",
+   "value": "1556",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "The first Tamil book printed by Catholic priests",
+   "attribute": "year of",
+   "value": "1579",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "The Bengal Gazette started by Hicky",
+   "attribute": "year of",
+   "value": "1780",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Publication of Rashasundari Devi's Amar Jiban",
+   "attribute": "year of",
+   "value": "1876",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "The Vernacular Press Act",
+   "attribute": "year of",
+   "value": "1878",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Publication of Tarabai Shinde's Stri Purush Tulana",
+   "attribute": "year of",
+   "value": "1882",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "The Bombay Samachar, Asia's oldest newspaper",
+   "attribute": "year of",
+   "value": "1822",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Raja Rammohun Roy's Sambad Kaumudi",
+   "attribute": "year of",
+   "value": "1821",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Sambad Kaumudi",
+   "attribute": "associated with",
+   "value": "Raja Rammohun Roy",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Kesari and Mahratta",
+   "attribute": "associated with",
+   "value": "Bal Gangadhar Tilak",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "The Bengal Gazette",
+   "attribute": "associated with",
+   "value": "James Augustus Hicky",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Amar Jiban, the first known Bengali autobiography",
+   "attribute": "associated with",
+   "value": "Rashasundari Devi",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Stri Purush Tulana",
+   "attribute": "associated with",
+   "value": "Tarabai Shinde",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Chhote Aur Bade Ka Sawal",
+   "attribute": "associated with",
+   "value": "Kashibaba, a Kanpur millworker",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Battala woodcuts",
+   "attribute": "associated with",
+   "value": "Cheap popular prints of nineteenth-century Calcutta",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Nawal Kishore Press at Lucknow",
+   "attribute": "associated with",
+   "value": "Lithographic printing in Urdu",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "The Vernacular Press Act",
+   "attribute": "associated with",
+   "value": "Lord Lytton's government",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Sudarshan Chakr",
+   "attribute": "associated with",
+   "value": "Kashibaba's later collection of poems",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "Manuscripts in pre-colonial India",
+   "attribute": "written in",
+   "value": "Sanskrit, Arabic and Persian",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "Mughal court records and literature",
+   "attribute": "written in",
+   "value": "Persian",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "Regional devotional texts",
+   "attribute": "written in",
+   "value": "Vernacular languages",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "Palm-leaf manuscripts",
+   "attribute": "written in",
+   "value": "A fragile material that broke easily",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "Handwritten copies in India",
+   "attribute": "written in",
+   "value": "Expensive, delicate and hard to read",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "Bengali prose before print",
+   "attribute": "written in",
+   "value": "Mostly religious and administrative",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "Manuscript copying",
+   "attribute": "limitation of",
+   "value": "Slow, costly and prone to errors",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "Palm-leaf manuscripts",
+   "attribute": "limitation of",
+   "value": "Fragile and easily damaged by handling",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "Handwritten texts",
+   "attribute": "limitation of",
+   "value": "Too expensive for ordinary readers",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "Scribal production",
+   "attribute": "limitation of",
+   "value": "Could not meet growing demand for books",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "Manuscript literacy",
+   "attribute": "limitation of",
+   "value": "Confined largely to elites and priests",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "Copying in India",
+   "attribute": "limitation of",
+   "value": "Irregular handwriting that was hard to read",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "The printing press on book cost",
+   "attribute": "effect of",
+   "value": "Books became cheaper and faster to produce",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Print on reading audiences",
+   "attribute": "effect of",
+   "value": "A shift from hearing texts to reading them",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Print on the Reformation",
+   "attribute": "effect of",
+   "value": "Luther's theses spread far beyond Wittenberg",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Print on religious authority",
+   "attribute": "effect of",
+   "value": "Readers could compare interpretations themselves",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "The printing press on knowledge",
+   "attribute": "effect of",
+   "value": "Multiple copies preserved texts reliably",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Cheap print on popular culture",
+   "attribute": "effect of",
+   "value": "Ballads, almanacs and folk tales circulated widely",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Print on dissent",
+   "attribute": "effect of",
+   "value": "Critics of the Church could reach an audience",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Print on the fear of rulers",
+   "attribute": "effect of",
+   "value": "Control of print became control of opinion",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "The expansion of world trade from the seventeenth century",
+   "attribute": "resulted in",
+   "value": "Merchants in towns turning outward to the countryside for production",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "Powerful craft guilds holding monopolies in European towns",
+   "attribute": "resulted in",
+   "value": "Newcomers being unable to set up business inside the town",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "Guild control over production, prices and membership",
+   "attribute": "resulted in",
+   "value": "Merchants moving their orders to peasants and artisans in villages",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "A single merchant employing several hundred people across villages",
+   "attribute": "resulted in",
+   "value": "Production staying within family units rather than factories",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.before-factories",
+   "subject": "Cloth merchants supplying world markets from European ports",
+   "attribute": "resulted in",
+   "value": "The putting-out system spreading out from the towns",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "Cotton becoming the leading sector of early industrial growth",
+   "attribute": "led to",
+   "value": "Demand for raw cotton rising and its price climbing steeply",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "Factory production spreading across many industries",
+   "attribute": "led to",
+   "value": "Workers being drawn from the countryside into industrial towns",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "Demand for labour remaining seasonal in several industries",
+   "attribute": "led to",
+   "value": "Workers going back to their villages during the slack months",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "News of work travelling through villages and districts",
+   "attribute": "led to",
+   "value": "Large numbers arriving in the cities looking for employment",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "subject": "New machines such as the spinning jenny coming into use",
+   "attribute": "led to",
+   "value": "Hand spinners and handloom weavers losing their livelihood",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "Machine-made British goods entering Indian markets",
+   "attribute": "resulted in",
+   "value": "Indian textile exports declining and weavers losing buyers",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "Weavers being unable to buy raw cotton at a fair price",
+   "attribute": "resulted in",
+   "value": "Many abandoning weaving and turning to agricultural labour",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "European companies gaining control of Indian sea trade",
+   "attribute": "resulted in",
+   "value": "Local bankers and traders losing their financing role",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "The American Civil War cutting off cotton supplies to Britain",
+   "attribute": "resulted in",
+   "value": "Raw cotton exports from India rising and prices soaring",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "subject": "Cotton mills beginning production inside India",
+   "attribute": "resulted in",
+   "value": "Handloom weaving losing further ground to mill-made cloth",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "European conquest of large parts of Africa and Asia",
+   "attribute": "resulted in",
+   "value": "Local economies being reshaped to serve the colonial power",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "The world market expanding through the nineteenth century",
+   "attribute": "resulted in",
+   "value": "Food being shipped from distant farms to European tables",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "Rinderpest reaching Africa in the late 1880s",
+   "attribute": "resulted in",
+   "value": "Cattle dying on an enormous scale and pastoral livelihoods collapsing",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "Indentured labour being recruited from India",
+   "attribute": "resulted in",
+   "value": "Workers bound by contract to serve one employer in a distant colony",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "subject": "Colonial rule over plantation economies",
+   "attribute": "resulted in",
+   "value": "Cash crops displacing food cultivation across wide regions",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "The United States dollar under the Bretton Woods system",
+   "attribute": "purpose of",
+   "value": "Being fixed to gold at an official price and anchoring other currencies",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "The International Bank for Reconstruction and Development",
+   "attribute": "purpose of",
+   "value": "Financing post-war reconstruction and later development",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "The Bretton Woods system of fixed exchange rates",
+   "attribute": "purpose of",
+   "value": "Keeping currencies stable and trade predictable after the war",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "Achieving full employment in the industrial West",
+   "attribute": "purpose of",
+   "value": "Being an explicit goal of the post-war settlement",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "Consultation between the major industrial economies",
+   "attribute": "purpose of",
+   "value": "Sustaining growth and stability through the post-war decades",
+   "difficulty": "hard"
+  }
+ ]
+}

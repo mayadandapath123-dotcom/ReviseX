@@ -1,0 +1,33 @@
+# Netlify hosts the FRONTEND ONLY. Netlify cannot run a long-lived FastAPI
+# process, so the API must live elsewhere (Render/Fly/Railway/a VPS).
+#
+# Because VITE_API_URL is inlined at BUILD time, set it in the Netlify UI:
+#   Site configuration -> Environment variables -> VITE_API_URL
+#   = https://<your-render-service>.onrender.com/api
+# then trigger a redeploy. Putting the value here would bake it into the repo.
+
+[build]
+  base    = "frontend"
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# BrowserRouter needs every unknown path to fall through to index.html.
+[[redirects]]
+  from = "/*"
+  to   = "/index.html"
+  status = 200
+
+# Hashed assets are safe to cache forever.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy        = "strict-origin-when-cross-origin"

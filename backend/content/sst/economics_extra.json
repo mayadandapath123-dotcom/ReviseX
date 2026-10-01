@@ -1,0 +1,350 @@
+{
+  "chapter": "ss-eco-development",
+  "kind": "fact",
+  "source_ref": "NCERT Class 10 - Understanding Economic Development",
+  "generator_note": "Attribute-dense clusters; four or more items sharing an attribute unlocks the reverse and negative-recall question forms.",
+  "items": [
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.goals",
+      "subject": "Per capita income",
+      "attribute": "definition of",
+      "value": "National income divided by total population",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.goals",
+      "subject": "Average income",
+      "attribute": "definition of",
+      "value": "Same as per capita income; used to compare countries",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.indicators",
+      "subject": "Human Development Index",
+      "attribute": "definition of",
+      "value": "Combines health, education and income",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.indicators",
+      "subject": "Life expectancy",
+      "attribute": "definition of",
+      "value": "Health component of the HDI",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.indicators",
+      "subject": "Literacy rate",
+      "attribute": "definition of",
+      "value": "Education component of the HDI",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.indicators",
+      "subject": "Infant Mortality Rate",
+      "attribute": "definition of",
+      "value": "Children who die before one year of age per 1000 live births",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.indicators",
+      "subject": "Body Mass Index",
+      "attribute": "definition of",
+      "value": "Weight in kg divided by the square of height in metres",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.income",
+      "subject": "Net Attendance Ratio",
+      "attribute": "definition of",
+      "value": "Children attending school as a percentage of the official age group",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.primary",
+      "subject": "Agriculture",
+      "attribute": "example of",
+      "value": "Primary sector activity",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.primary",
+      "subject": "Mining and fishing",
+      "attribute": "example of",
+      "value": "Primary sector activity",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.secondary",
+      "subject": "Manufacturing",
+      "attribute": "example of",
+      "value": "Secondary sector activity",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.secondary",
+      "subject": "Construction",
+      "attribute": "example of",
+      "value": "Secondary sector activity",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.tertiary",
+      "subject": "Banking and insurance",
+      "attribute": "example of",
+      "value": "Tertiary (service) sector activity",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.tertiary",
+      "subject": "Transport and communication",
+      "attribute": "example of",
+      "value": "Tertiary (service) sector activity",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.organised",
+      "subject": "Organised sector",
+      "attribute": "example of",
+      "value": "Registered with the government; fixed wages and job security",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.organised",
+      "subject": "Unorganised sector",
+      "attribute": "example of",
+      "value": "No job security; workers are not covered by labour laws",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.organised",
+      "subject": "MGNREGA 2005",
+      "attribute": "example of",
+      "value": "Right to Work — guarantees 100 days of wage employment in a year",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.money",
+      "subject": "Reserve Bank of India",
+      "attribute": "meaning of",
+      "value": "Issues currency notes on behalf of the Central Government",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.money",
+      "subject": "Currency",
+      "attribute": "meaning of",
+      "value": "Paper notes and coins accepted as a medium of exchange",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.money",
+      "subject": "Demand deposits",
+      "attribute": "meaning of",
+      "value": "Bank deposits withdrawable on demand by cheque",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.banks",
+      "subject": "Banks as intermediaries",
+      "attribute": "meaning of",
+      "value": "They accept deposits and lend most of it out",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.credit",
+      "subject": "Formal sector credit",
+      "attribute": "meaning of",
+      "value": "Loans from banks and cooperatives, supervised by the RBI",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.credit",
+      "subject": "Informal sector credit",
+      "attribute": "meaning of",
+      "value": "Moneylenders and traders — no supervision, high interest",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.shg",
+      "subject": "Self-Help Group",
+      "attribute": "meaning of",
+      "value": "15–20 members, usually women, who pool small savings",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.shg",
+      "subject": "Collateral",
+      "attribute": "meaning of",
+      "value": "Asset offered as security against a loan",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.production",
+      "subject": "Multinational Corporation",
+      "attribute": "meaning of",
+      "value": "Company that owns or controls production in more than one country",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.production",
+      "subject": "Foreign Direct Investment",
+      "attribute": "meaning of",
+      "value": "Investment by an MNC to acquire or expand production abroad",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.factors",
+      "subject": "Liberalisation in India",
+      "attribute": "meaning of",
+      "value": "1991 — removal of barriers to foreign trade and investment",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.factors",
+      "subject": "Special Economic Zones",
+      "attribute": "meaning of",
+      "value": "Industrial zones with tax incentives to attract foreign investment",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.trade",
+      "subject": "World Trade Organisation",
+      "attribute": "meaning of",
+      "value": "Founded in 1995; administers rules of international trade",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.trade",
+      "subject": "Quota",
+      "attribute": "meaning of",
+      "value": "Limit on the quantity of a good that can be imported",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.rights",
+      "subject": "Right to Information",
+      "attribute": "definition of",
+      "value": "Lets a consumer know details of a product or service",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.rights",
+      "subject": "Right to be protected",
+      "attribute": "definition of",
+      "value": "Protection against goods hazardous to health and life",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.rights",
+      "subject": "Right to be informed",
+      "attribute": "definition of",
+      "value": "Right to know quality, quantity, purity and price",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.rights",
+      "subject": "Right to redressal",
+      "attribute": "definition of",
+      "value": "Right to seek compensation for unfair trade practices",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.redressal",
+      "subject": "Consumer Protection Act",
+      "attribute": "definition of",
+      "value": "Enacted in 1986, replaced by a new Act in 2019",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.redressal",
+      "subject": "District Consumer Disputes Redressal Commission",
+      "attribute": "definition of",
+      "value": "Handles claims up to one crore rupees",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.redressal",
+      "subject": "Agmark and ISI marks",
+      "attribute": "definition of",
+      "value": "Certification marks for quality of agricultural and industrial products",
+      "difficulty": "medium"
+    }
+  ]
+}

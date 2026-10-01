@@ -1,0 +1,784 @@
+{
+ "$note": "Test presets are data. New game modes (Daily Challenge, Survival, Boss Chapter...) are added here without touching the engine.",
+ "modes": [
+  {
+   "key": "rush_30s",
+   "name": "30 Second Rush",
+   "icon": "bolt",
+   "description": "Thirty seconds of pure recall.",
+   "duration_limit_ms": 30000,
+   "quick_start": true,
+   "group": "speed",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "stop_on_time": true
+   }
+  },
+  {
+   "key": "rush_60s",
+   "name": "1 Minute Sprint",
+   "icon": "stopwatch",
+   "description": "The classic: how much can you revise in 60 seconds?",
+   "duration_limit_ms": 60000,
+   "quick_start": true,
+   "group": "speed",
+   "featured": true,
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "stop_on_time": true
+   }
+  },
+  {
+   "key": "rush_90s",
+   "name": "90 Second Blitz",
+   "icon": "stopwatch",
+   "description": "Slightly longer, slightly harder mix.",
+   "duration_limit_ms": 90000,
+   "quick_start": false,
+   "group": "speed",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ],
+    "difficulties": [
+     "easy",
+     "medium",
+     "hard"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "stop_on_time": true
+   }
+  },
+  {
+   "key": "rush_120s",
+   "name": "2 Minute Challenge",
+   "icon": "timer",
+   "description": "Two minutes, maximum difficulty spread.",
+   "duration_limit_ms": 120000,
+   "quick_start": true,
+   "group": "speed",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "stop_on_time": true
+   }
+  },
+  {
+   "key": "rush_300s",
+   "name": "5 Minute Grind",
+   "icon": "timer",
+   "description": "Five-minute endurance revision.",
+   "duration_limit_ms": 300000,
+   "quick_start": false,
+   "group": "speed",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "stop_on_time": true
+   }
+  },
+  {
+   "key": "quick_10",
+   "name": "10 Question Quick Test",
+   "icon": "list",
+   "description": "Ten questions, no timer.",
+   "question_count": 10,
+   "quick_start": true,
+   "group": "count",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "per_question_time_ms": 20000
+   }
+  },
+  {
+   "key": "quick_20",
+   "name": "20 Question Test",
+   "icon": "list",
+   "description": "Twenty questions with a per-question clock.",
+   "question_count": 20,
+   "quick_start": false,
+   "group": "count",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "per_question_time_ms": 20000
+   }
+  },
+  {
+   "key": "quick_50",
+   "name": "50 Question Marathon",
+   "icon": "list",
+   "description": "Fifty questions. Serious revision.",
+   "question_count": 50,
+   "quick_start": false,
+   "group": "count",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "per_question_time_ms": 20000
+   }
+  },
+  {
+   "key": "chapter_test",
+   "name": "Chapter Test",
+   "icon": "book",
+   "description": "Everything from one chapter, weighted toward your weak topics.",
+   "question_count": 25,
+   "quick_start": false,
+   "group": "chapter",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "prioritise_weak": true,
+    "per_question_time_ms": 25000
+   }
+  },
+  {
+   "key": "topic_test",
+   "name": "Topic Test",
+   "icon": "target",
+   "description": "One topic, drilled hard.",
+   "question_count": 15,
+   "quick_start": false,
+   "group": "chapter",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation",
+     "optional"
+    ],
+    "question_types": [
+     "mcq_single"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "per_question_time_ms": 25000
+   }
+  },
+  {
+   "key": "weak_topics",
+   "name": "Revise My Weak Topics",
+   "icon": "warning",
+   "description": "Auto-built from your mastery scores.",
+   "question_count": 20,
+   "quick_start": true,
+   "group": "adaptive",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "prioritise_weak": true,
+    "per_question_time_ms": 20000
+   }
+  },
+  {
+   "key": "previous_mistakes",
+   "name": "Previous Mistakes",
+   "icon": "eraser",
+   "description": "Only the questions you have got wrong.",
+   "question_count": 20,
+   "quick_start": true,
+   "group": "adaptive",
+   "filters": {
+    "question_types": [
+     "mcq_single"
+    ],
+    "source": "mistakes"
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "per_question_time_ms": 20000
+   }
+  },
+  {
+   "key": "revision_mix",
+   "name": "Revision Mix",
+   "icon": "shuffle",
+   "description": "Balanced mix across the syllabus.",
+   "question_count": 20,
+   "quick_start": false,
+   "group": "mix",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "spread_evenly": true,
+    "per_question_time_ms": 20000
+   }
+  },
+  {
+   "key": "random_mix",
+   "name": "Random Mix",
+   "icon": "dice",
+   "description": "No filter, pure randomness.",
+   "question_count": 20,
+   "quick_start": false,
+   "group": "mix",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "per_question_time_ms": 20000
+   }
+  },
+  {
+   "key": "formula_rush",
+   "name": "Formula Rush",
+   "icon": "function",
+   "description": "Formulas, symbols and units only.",
+   "duration_limit_ms": 60000,
+   "quick_start": true,
+   "group": "type",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ],
+    "tags": [
+     "formula"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "stop_on_time": true
+   }
+  },
+  {
+   "key": "valency_rush",
+   "name": "Valency & Symbol Rush",
+   "icon": "atom",
+   "description": "Elements, symbols, valency and atomic numbers.",
+   "duration_limit_ms": 60000,
+   "quick_start": true,
+   "group": "type",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ],
+    "tags": [
+     "valency",
+     "symbol",
+     "element"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "stop_on_time": true
+   }
+  },
+  {
+   "key": "definition_rush",
+   "name": "Definition Rush",
+   "icon": "quote",
+   "description": "Definitions and terminology.",
+   "duration_limit_ms": 60000,
+   "quick_start": true,
+   "group": "type",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ],
+    "tags": [
+     "definition"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "stop_on_time": true
+   }
+  },
+  {
+   "key": "reaction_rush",
+   "name": "Reaction Rush",
+   "icon": "beaker",
+   "description": "Reactions, types and observations.",
+   "duration_limit_ms": 60000,
+   "quick_start": true,
+   "group": "type",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "mcq_single"
+    ],
+    "tags": [
+     "reaction"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": true,
+    "stop_on_time": true
+   }
+  },
+  {
+   "key": "balancing_drill",
+   "name": "Balancing Mode",
+   "icon": "scale",
+   "description": "Interactively balance chemical equations. Atom conservation is verified, not string-matched.",
+   "question_count": 8,
+   "quick_start": true,
+   "group": "type",
+   "filters": {
+    "syllabus_status": [
+     "core",
+     "foundation"
+    ],
+    "question_types": [
+     "balancing"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0,
+    "shuffle_options": false,
+    "per_question_time_ms": 60000,
+    "max_attempts": 3
+   }
+  },
+  {
+   "key": "exam_simulation",
+   "name": "Exam Simulation",
+   "icon": "clipboard",
+   "description": "Board-style timing with negative marking for wrong answers.",
+   "question_count": 30,
+   "duration_limit_ms": 1800000,
+   "quick_start": false,
+   "group": "exam",
+   "filters": {
+    "syllabus_status": [
+     "core"
+    ],
+    "question_types": [
+     "mcq_single"
+    ],
+    "difficulties": [
+     "easy",
+     "medium",
+     "hard"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0.15,
+    "shuffle_options": true,
+    "per_question_time_ms": 60000,
+    "show_explanation": "always"
+   }
+  },
+  {
+   "key": "maths_rush",
+   "name": "Maths Sprint",
+   "description": "60 seconds of rapid Maths MCQs.",
+   "icon": null,
+   "group": "maths",
+   "featured": true,
+   "quick_start": true,
+   "duration_limit_ms": 60000,
+   "question_count": null,
+   "filters": {
+    "subject": "maths"
+   },
+   "scoring": {
+    "per_question_time_ms": 12000
+   }
+  },
+  {
+   "key": "maths_calc",
+   "name": "Calculation Drill",
+   "description": "15 computed problems - numbers, not definitions.",
+   "icon": null,
+   "group": "maths",
+   "featured": false,
+   "quick_start": true,
+   "duration_limit_ms": null,
+   "question_count": 15,
+   "filters": {
+    "subject": "maths",
+    "difficulties": [
+     "medium",
+     "hard"
+    ]
+   },
+   "scoring": {
+    "per_question_time_ms": 25000
+   }
+  },
+  {
+   "key": "maths_formulas",
+   "name": "Formula & Identity Rush",
+   "description": "Trig tables, identities, formulae and theorem statements.",
+   "icon": null,
+   "group": "maths",
+   "featured": false,
+   "quick_start": true,
+   "duration_limit_ms": null,
+   "question_count": 15,
+   "filters": {
+    "subject": "maths",
+    "tags": [
+     "trigonometry",
+     "theorem",
+     "identity"
+    ]
+   },
+   "scoring": {
+    "per_question_time_ms": 12000
+   }
+  },
+  {
+   "key": "maths_exam",
+   "name": "Maths Exam Simulation",
+   "description": "30 questions with negative marking.",
+   "icon": null,
+   "group": "exam",
+   "featured": false,
+   "quick_start": false,
+   "duration_limit_ms": null,
+   "question_count": 30,
+   "filters": {
+    "subject": "maths",
+    "syllabus_status": [
+     "core"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0.15,
+    "per_question_time_ms": 45000,
+    "spread_evenly": true
+   }
+  },
+  {
+   "key": "maths_weak",
+   "name": "Maths Weak Spots",
+   "description": "Adaptive test on your weakest Maths topics.",
+   "icon": null,
+   "group": "adaptive",
+   "featured": false,
+   "quick_start": true,
+   "duration_limit_ms": null,
+   "question_count": 15,
+   "filters": {
+    "subject": "maths"
+   },
+   "scoring": {
+    "prioritise_weak": true
+   }
+  },
+  {
+   "key": "sst_rush",
+   "name": "SST Sprint",
+   "description": "60 seconds across History, Geography, Civics and Economics.",
+   "icon": null,
+   "group": "sst",
+   "featured": true,
+   "quick_start": true,
+   "duration_limit_ms": 60000,
+   "question_count": null,
+   "filters": {
+    "subject": "sst"
+   },
+   "scoring": {
+    "per_question_time_ms": 12000
+   }
+  },
+  {
+   "key": "sst_dates",
+   "name": "Dates & Chronology",
+   "description": "Events, years and correct chronological order.",
+   "icon": null,
+   "group": "sst",
+   "featured": false,
+   "quick_start": true,
+   "duration_limit_ms": null,
+   "question_count": 15,
+   "filters": {
+    "subject": "sst",
+    "tags": [
+     "fact",
+     "recall",
+     "sequence"
+    ]
+   },
+   "scoring": {
+    "per_question_time_ms": 14000
+   }
+  },
+  {
+   "key": "sst_history",
+   "name": "History Rapid",
+   "description": "20 questions from India and the Contemporary World II.",
+   "icon": null,
+   "group": "sst",
+   "featured": false,
+   "quick_start": false,
+   "duration_limit_ms": null,
+   "question_count": 20,
+   "filters": {
+    "branch": "sst-history"
+   },
+   "scoring": {}
+  },
+  {
+   "key": "sst_geography",
+   "name": "Geography Rapid",
+   "description": "20 questions from Contemporary India II.",
+   "icon": null,
+   "group": "sst",
+   "featured": false,
+   "quick_start": false,
+   "duration_limit_ms": null,
+   "question_count": 20,
+   "filters": {
+    "branch": "sst-geography"
+   },
+   "scoring": {}
+  },
+  {
+   "key": "sst_civics",
+   "name": "Political Science Rapid",
+   "description": "20 questions from Democratic Politics II.",
+   "icon": null,
+   "group": "sst",
+   "featured": false,
+   "quick_start": false,
+   "duration_limit_ms": null,
+   "question_count": 20,
+   "filters": {
+    "branch": "sst-civics"
+   },
+   "scoring": {}
+  },
+  {
+   "key": "sst_economics",
+   "name": "Economics Rapid",
+   "description": "20 questions from Understanding Economic Development.",
+   "icon": null,
+   "group": "sst",
+   "featured": false,
+   "quick_start": false,
+   "duration_limit_ms": null,
+   "question_count": 20,
+   "filters": {
+    "branch": "sst-economics"
+   },
+   "scoring": {}
+  },
+  {
+   "key": "sst_definitions",
+   "name": "SST Definitions",
+   "description": "Term and definition recall across all four SST books.",
+   "icon": null,
+   "group": "sst",
+   "featured": false,
+   "quick_start": true,
+   "duration_limit_ms": null,
+   "question_count": 20,
+   "filters": {
+    "subject": "sst",
+    "tags": [
+     "definition"
+    ]
+   },
+   "scoring": {
+    "per_question_time_ms": 12000
+   }
+  },
+  {
+   "key": "sst_exam",
+   "name": "SST Exam Simulation",
+   "description": "30 questions with negative marking.",
+   "icon": null,
+   "group": "exam",
+   "featured": false,
+   "quick_start": false,
+   "duration_limit_ms": null,
+   "question_count": 30,
+   "filters": {
+    "subject": "sst",
+    "syllabus_status": [
+     "core"
+    ]
+   },
+   "scoring": {
+    "wrong_penalty": 0.15,
+    "per_question_time_ms": 40000,
+    "spread_evenly": true
+   }
+  },
+  {
+   "key": "magnetic_rush",
+   "name": "Magnetic Effects Rush",
+   "description": "Rapid recall of the Magnetic Effects chapter.",
+   "icon": null,
+   "group": "type",
+   "featured": false,
+   "quick_start": true,
+   "duration_limit_ms": null,
+   "question_count": 15,
+   "filters": {
+    "chapter": "sci-phy-magnetic"
+   },
+   "scoring": {
+    "per_question_time_ms": 12000
+   }
+  },
+  {
+   "key": "eye_rush",
+   "name": "Human Eye Rush",
+   "description": "Parts, defects, corrections and light phenomena.",
+   "icon": null,
+   "group": "type",
+   "featured": false,
+   "quick_start": true,
+   "duration_limit_ms": null,
+   "question_count": 15,
+   "filters": {
+    "chapter": "sci-phy-eye"
+   },
+   "scoring": {
+    "per_question_time_ms": 12000
+   }
+  },
+  {
+   "key": "heredity_rush",
+   "name": "Heredity Rush",
+   "description": "Genetics terms, ratios and chromosomes.",
+   "icon": null,
+   "group": "type",
+   "featured": false,
+   "quick_start": true,
+   "duration_limit_ms": null,
+   "question_count": 15,
+   "filters": {
+    "chapter": "sci-bio-heredity"
+   },
+   "scoring": {
+    "per_question_time_ms": 14000
+   }
+  }
+ ]
+}

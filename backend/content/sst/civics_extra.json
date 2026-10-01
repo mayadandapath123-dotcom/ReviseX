@@ -1,0 +1,359 @@
+{
+  "chapter": "ss-civ-power-sharing",
+  "kind": "fact",
+  "source_ref": "NCERT Class 10 - Democratic Politics II",
+  "generator_note": "Attribute-dense clusters; four or more items sharing an attribute unlocks the reverse and negative-recall question forms.",
+  "items": [
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-power-sharing",
+      "topic": "ss-civ-power-sharing.forms",
+      "subject": "Horizontal distribution of power",
+      "attribute": "description of",
+      "value": "Sharing among legislature, executive and judiciary",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-power-sharing",
+      "topic": "ss-civ-power-sharing.forms",
+      "subject": "Vertical division of power",
+      "attribute": "description of",
+      "value": "Sharing among union, state and local governments",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-power-sharing",
+      "topic": "ss-civ-power-sharing.forms",
+      "subject": "Community government",
+      "attribute": "description of",
+      "value": "Sharing among social groups, e.g. linguistic communities in Belgium",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-power-sharing",
+      "topic": "ss-civ-power-sharing.forms",
+      "subject": "Coalition government",
+      "attribute": "description of",
+      "value": "Sharing among two or more political parties",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-power-sharing",
+      "topic": "ss-civ-power-sharing.belgium-srilanka",
+      "subject": "Belgium's approach to diversity",
+      "attribute": "description of",
+      "value": "Accommodation — amended the constitution four times between 1970 and 1993",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-power-sharing",
+      "topic": "ss-civ-power-sharing.belgium-srilanka",
+      "subject": "Sri Lanka's approach after 1956",
+      "attribute": "description of",
+      "value": "Majoritarianism — Sinhala recognised as the only official language",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-power-sharing",
+      "topic": "ss-civ-power-sharing.why",
+      "subject": "Prudential reason for power sharing",
+      "attribute": "description of",
+      "value": "Reduces the possibility of conflict between social groups",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-power-sharing",
+      "topic": "ss-civ-power-sharing.why",
+      "subject": "Moral reason for power sharing",
+      "attribute": "description of",
+      "value": "People have a right to be consulted on how they are governed",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-federalism",
+      "topic": "ss-civ-federalism.features",
+      "subject": "Federalism",
+      "attribute": "definition of",
+      "value": "System in which power is divided between a central authority and constituent units",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-federalism",
+      "topic": "ss-civ-federalism.features",
+      "subject": "Union List",
+      "attribute": "definition of",
+      "value": "Subjects on which only the Union government can legislate",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-federalism",
+      "topic": "ss-civ-federalism.features",
+      "subject": "State List",
+      "attribute": "definition of",
+      "value": "Subjects on which only the State government can legislate",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-federalism",
+      "topic": "ss-civ-federalism.features",
+      "subject": "Concurrent List",
+      "attribute": "definition of",
+      "value": "Subjects on which both Union and State can legislate",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-federalism",
+      "topic": "ss-civ-federalism.features",
+      "subject": "Residuary subjects",
+      "attribute": "definition of",
+      "value": "Subjects not in any list — fall to the Union government",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-federalism",
+      "topic": "ss-civ-federalism.india",
+      "subject": "Holding together federation",
+      "attribute": "definition of",
+      "value": "India — the centre shares power with pre-existing states",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-federalism",
+      "topic": "ss-civ-federalism.india",
+      "subject": "Coming together federation",
+      "attribute": "definition of",
+      "value": "USA, Switzerland and Australia — independent states unite",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-federalism",
+      "topic": "ss-civ-federalism.decentralisation",
+      "subject": "73rd and 74th Constitutional Amendments",
+      "attribute": "definition of",
+      "value": "1992 — gave constitutional status to local self-government",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-federalism",
+      "topic": "ss-civ-federalism.decentralisation",
+      "subject": "Reservation for women in local bodies",
+      "attribute": "definition of",
+      "value": "At least one-third of seats reserved for women",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-federalism",
+      "topic": "ss-civ-federalism.decentralisation",
+      "subject": "Gram Panchayat",
+      "attribute": "definition of",
+      "value": "Decision-making body for a village or group of villages",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-gender",
+      "topic": "ss-civ-gender.gender",
+      "subject": "Sex ratio in India",
+      "attribute": "meaning of",
+      "value": "Number of girls per 1000 boys",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-gender",
+      "topic": "ss-civ-gender.gender",
+      "subject": "Gender division",
+      "attribute": "meaning of",
+      "value": "Division of labour that treats household work as women's responsibility",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-gender",
+      "topic": "ss-civ-gender.religion",
+      "subject": "Communalism",
+      "attribute": "meaning of",
+      "value": "Using religion to create division and assert dominance",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-gender",
+      "topic": "ss-civ-gender.religion",
+      "subject": "Secular state",
+      "attribute": "meaning of",
+      "value": "The state has no official religion of its own",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-gender",
+      "topic": "ss-civ-gender.caste",
+      "subject": "Caste-based inequality",
+      "attribute": "meaning of",
+      "value": "Untouchability is prohibited by the Constitution",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-gender",
+      "topic": "ss-civ-gender.caste",
+      "subject": "Politics of caste",
+      "attribute": "meaning of",
+      "value": "Political parties select candidates on the basis of caste composition",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-parties",
+      "topic": "ss-civ-parties.national",
+      "subject": "Bharatiya Janata Party",
+      "attribute": "example of",
+      "value": "National party",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-parties",
+      "topic": "ss-civ-parties.national",
+      "subject": "Indian National Congress",
+      "attribute": "example of",
+      "value": "National party",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-parties",
+      "topic": "ss-civ-parties.national",
+      "subject": "Bahujan Samaj Party",
+      "attribute": "example of",
+      "value": "National party",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-parties",
+      "topic": "ss-civ-parties.national",
+      "subject": "Communist Party of India (Marxist)",
+      "attribute": "example of",
+      "value": "National party",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-parties",
+      "topic": "ss-civ-parties.types",
+      "subject": "One-party system",
+      "attribute": "example of",
+      "value": "China — only one party is allowed to rule",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-parties",
+      "topic": "ss-civ-parties.types",
+      "subject": "Two-party system",
+      "attribute": "example of",
+      "value": "USA and UK — power usually alternates between two parties",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-parties",
+      "topic": "ss-civ-parties.types",
+      "subject": "Multi-party system",
+      "attribute": "example of",
+      "value": "India — several parties compete for power",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-parties",
+      "topic": "ss-civ-parties.functions",
+      "subject": "Contesting elections",
+      "attribute": "example of",
+      "value": "Function of a political party",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-parties",
+      "topic": "ss-civ-parties.functions",
+      "subject": "Forming and running the government",
+      "attribute": "example of",
+      "value": "Function of a political party",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-parties",
+      "topic": "ss-civ-parties.functions",
+      "subject": "Playing the role of the opposition",
+      "attribute": "example of",
+      "value": "Function of a political party",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-outcomes",
+      "topic": "ss-civ-outcomes.accountable",
+      "subject": "Accountability in democracy",
+      "attribute": "outcome of",
+      "value": "Citizens can examine how decisions were taken",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-outcomes",
+      "topic": "ss-civ-outcomes.equality",
+      "subject": "Economic inequality in democracy",
+      "attribute": "outcome of",
+      "value": "Democracies reduce inequality but do not eliminate it",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-outcomes",
+      "topic": "ss-civ-outcomes.equality",
+      "subject": "Dignity of citizens",
+      "attribute": "outcome of",
+      "value": "Democracy recognises the equal worth of all citizens",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-outcomes",
+      "topic": "ss-civ-outcomes.assessment",
+      "subject": "Legitimacy of democracy",
+      "attribute": "outcome of",
+      "value": "Government is chosen by the people, so it is legitimate",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-civ-outcomes",
+      "topic": "ss-civ-outcomes.assessment",
+      "subject": "Transparency",
+      "attribute": "outcome of",
+      "value": "Right to information enables citizens to check government decisions",
+      "difficulty": "medium"
+    }
+  ]
+}

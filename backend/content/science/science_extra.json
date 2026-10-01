@@ -1,0 +1,1080 @@
+{
+ "chapter": "sci-phy-magnetic",
+ "topic": null,
+ "kind": "fact",
+ "source_ref": "Class 10 Science (CBSE 2025-26) - original one-line facts, definitions and classifications written for this app.",
+ "generator": null,
+ "generator_note": null,
+ "note": null,
+ "items": [
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "term": "Magnetic field line",
+   "definition": "A curve whose tangent at any point gives the direction of the magnetic field at that point.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "term": "Electromagnet",
+   "definition": "A temporary magnet made by passing current through a coil wound on a soft iron core.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "term": "Solenoid",
+   "definition": "A cylindrical coil of many turns of insulated copper wire whose field resembles that of a bar magnet.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "term": "Fleming's left-hand rule",
+   "definition": "A rule giving the direction of force on a current-carrying conductor in a magnetic field: thumb is force, first finger field, second finger current.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.rules",
+   "term": "Fleming's right-hand rule",
+   "definition": "A rule giving the direction of induced current when a conductor moves in a magnetic field.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "term": "Electric motor",
+   "definition": "A device that converts electrical energy into mechanical energy using the force on a current-carrying coil.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "term": "Electric generator",
+   "definition": "A device that converts mechanical energy into electrical energy using electromagnetic induction.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "term": "Split ring commutator",
+   "definition": "The device in a DC motor that reverses the direction of current in the coil every half rotation so it keeps turning.",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "term": "Live wire",
+   "definition": "The wire, usually with red or brown insulation, that carries current at high potential into an appliance.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "term": "Neutral wire",
+   "definition": "The wire, usually with black or light blue insulation, that completes the circuit at near zero potential.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "term": "Earth wire",
+   "definition": "The wire, usually with green or yellow-green insulation, that carries leakage current safely to the ground.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "term": "Electric fuse",
+   "definition": "A safety device that melts and breaks the circuit when the current exceeds a safe limit.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "term": "Short circuit",
+   "definition": "A fault in which the live and neutral wires touch directly, causing a very large current.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "term": "Overloading",
+   "definition": "Drawing more current than a circuit is rated for, usually by running too many appliances on one socket.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "Domestic supply in India",
+   "attribute": "potential difference",
+   "value": "220 V",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "Domestic supply in India",
+   "attribute": "frequency",
+   "value": "50 Hz",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "Live wire",
+   "attribute": "insulation colour",
+   "value": "red or brown",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "Neutral wire",
+   "attribute": "insulation colour",
+   "value": "black or light blue",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "Earth wire",
+   "attribute": "insulation colour",
+   "value": "green or yellow-green",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "Typical lighting circuit fuse rating",
+   "attribute": "current rating",
+   "value": "5 A",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "subject": "Typical power circuit fuse rating",
+   "attribute": "current rating",
+   "value": "15 A",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "Magnetic field around a straight wire",
+   "attribute": "shape of field lines",
+   "value": "concentric circles around the wire",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "Magnetic field inside a long solenoid",
+   "attribute": "field pattern",
+   "value": "uniform and parallel straight lines",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.field",
+   "subject": "Magnetic field of a circular loop at its centre",
+   "attribute": "direction",
+   "value": "perpendicular to the plane of the loop",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "Loudspeaker",
+   "attribute": "energy conversion",
+   "value": "electrical to sound",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "Microphone",
+   "attribute": "energy conversion",
+   "value": "sound to electrical",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.motor",
+   "subject": "Electric bell",
+   "attribute": "working principle",
+   "value": "electromagnet",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "sequence",
+   "chapter": "sci-phy-magnetic",
+   "topic": "sci-phy-magnetic.domestic",
+   "name": "the path of electricity from supply to appliance in a domestic circuit",
+   "sequence": [
+    "Power station generates curren",
+    "Live wire carries it at high p",
+    "Fuse and switch in the live wi",
+    "Appliance uses the current",
+    "Neutral wire returns it"
+   ],
+   "difficulty": "hard"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "term": "Ciliary muscles",
+   "definition": "Muscles that change the curvature of the eye lens and therefore its focal length.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "term": "Iris",
+   "definition": "The dark muscular diaphragm that controls the size of the pupil and hence the amount of light entering the eye.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "term": "Retina",
+   "definition": "The light-sensitive screen at the back of the eye on which the image is formed.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "term": "Blind spot",
+   "definition": "The point on the retina where the optic nerve leaves and no vision is possible.",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "term": "Persistence of vision",
+   "definition": "The retention of an image on the retina for about one sixteenth of a second after the object is gone.",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "term": "Myopia",
+   "definition": "Near-sightedness in which a person sees near objects clearly but distant ones are blurred.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "term": "Hypermetropia",
+   "definition": "Far-sightedness in which a person sees distant objects clearly but near ones are blurred.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "term": "Presbyopia",
+   "definition": "The gradual loss of the eye's power of accommodation with advancing age.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "term": "Astigmatism",
+   "definition": "A defect caused by an irregularly curved cornea, giving blurred vision in both directions.",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "term": "Cataract",
+   "definition": "Clouding of the eye lens causing dim vision, corrected by surgical removal and an intraocular lens.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "subject": "Myopia",
+   "attribute": "image formed",
+   "value": "in front of the retina",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "subject": "Hypermetropia",
+   "attribute": "image formed",
+   "value": "behind the retina",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "subject": "Myopia",
+   "attribute": "corrected by",
+   "value": "concave lens",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "subject": "Hypermetropia",
+   "attribute": "corrected by",
+   "value": "convex lens",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "subject": "Presbyopia",
+   "attribute": "corrected by",
+   "value": "bifocal lens",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.defects",
+   "subject": "Astigmatism",
+   "attribute": "corrected by",
+   "value": "cylindrical lens",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "Least distance of distinct vision for a normal adult eye",
+   "attribute": "value",
+   "value": "25 cm",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "Far point of a normal eye",
+   "attribute": "value",
+   "value": "infinity",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.parts",
+   "subject": "Image formed by the eye lens on the retina",
+   "attribute": "nature",
+   "value": "real and inverted",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.phenomena",
+   "subject": "Advanced sunrise and delayed sunset",
+   "attribute": "total apparent shift",
+   "value": "about 2 minutes each",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "Prism splitting white light",
+   "attribute": "number of colours",
+   "value": "seven",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "Colour deviated most by a glass prism",
+   "attribute": "name",
+   "value": "violet",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "Colour deviated least by a glass prism",
+   "attribute": "name",
+   "value": "red",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-phy-eye",
+   "topic": "sci-phy-eye.dispersion",
+   "subject": "Tyndall effect",
+   "attribute": "shows",
+   "value": "scattering of light by colloidal particles",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "term": "Dominant trait",
+   "definition": "A trait that is expressed in the offspring when only one copy of its allele is present.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "term": "Recessive trait",
+   "definition": "A trait expressed only when both alleles are of the same recessive type.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "term": "Homozygous",
+   "definition": "Having two identical alleles for a trait, such as TT or tt.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "term": "Heterozygous",
+   "definition": "Having two different alleles for a trait, such as Tt.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "term": "Chromosome",
+   "definition": "A thread-like structure in the nucleus carrying genes, made of DNA and protein.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Gregor Mendel",
+   "attribute": "worked on",
+   "value": "garden pea plants",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Mendel's monohybrid F2 ratio",
+   "attribute": "phenotypic ratio",
+   "value": "3 : 1",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Mendel's monohybrid F2 generation",
+   "attribute": "genotypic ratio",
+   "value": "1 : 2 : 1",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Mendel's dihybrid F2 ratio",
+   "attribute": "phenotypic ratio",
+   "value": "9 : 3 : 3 : 1",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Number of contrasting character pairs Mendel studied in pea",
+   "attribute": "value",
+   "value": "seven",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Number of chromosomes in a human body cell",
+   "attribute": "value",
+   "value": "46 (23 pairs)",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Number of chromosomes in a human gamete",
+   "attribute": "value",
+   "value": "23",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Sex chromosomes in a human male",
+   "attribute": "pair",
+   "value": "XY",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Sex chromosomes in a human female",
+   "attribute": "pair",
+   "value": "XX",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Sex of the child determined by",
+   "attribute": "parent",
+   "value": "the father",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Probability that a child is a girl",
+   "attribute": "value",
+   "value": "50 per cent",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Autosomes in a human body cell",
+   "attribute": "number",
+   "value": "44 (22 pairs)",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "sequence",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "name": "the stages of Mendel's monohybrid cross",
+   "sequence": [
+    "Cross pure tall (TT) with pure",
+    "F1 generation is all tall (Tt)",
+    "F1 plants self-pollinate",
+    "F2 generation shows tall and d"
+   ],
+   "difficulty": "hard"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "term": "Fission",
+   "definition": "Asexual reproduction in which a parent body divides into two or more individuals.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "term": "Binary fission",
+   "definition": "Division of a single-celled organism into two daughter cells, as in Amoeba.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "term": "Multiple fission",
+   "definition": "Division of the nucleus repeatedly followed by the cytoplasm, producing many daughter cells, as in Plasmodium.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "term": "Fragmentation",
+   "definition": "Asexual reproduction in which the body breaks into pieces and each piece grows into a new organism, as in Spirogyra.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "term": "Regeneration",
+   "definition": "The regrowth of a complete organism from a body part, as in Planaria and Hydra.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "term": "Budding",
+   "definition": "Asexual reproduction in which a small outgrowth develops and detaches, as in Hydra and yeast.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "term": "Vegetative propagation",
+   "definition": "Asexual reproduction in plants using roots, stems or leaves.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "term": "Spore formation",
+   "definition": "Asexual reproduction by tiny resistant spores, as in Rhizopus and ferns.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "subject": "Amoeba",
+   "attribute": "reproduction method",
+   "value": "binary fission",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "subject": "Plasmodium",
+   "attribute": "reproduction method",
+   "value": "multiple fission",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "subject": "Spirogyra",
+   "attribute": "reproduction method",
+   "value": "fragmentation",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "subject": "Planaria",
+   "attribute": "reproduction method",
+   "value": "regeneration",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "subject": "Hydra",
+   "attribute": "reproduction method",
+   "value": "budding",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "subject": "Leishmania",
+   "attribute": "reproduction method",
+   "value": "binary fission in a definite orientation",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "subject": "Rhizopus",
+   "attribute": "reproduction method",
+   "value": "spore formation",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "subject": "Bryophyllum",
+   "attribute": "reproduction method",
+   "value": "vegetative propagation through leaves",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.asexual",
+   "subject": "Potato",
+   "attribute": "reproduction method",
+   "value": "vegetative propagation through tuber eyes",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-plants",
+   "subject": "Stigma",
+   "attribute": "function",
+   "value": "receives pollen grains",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-plants",
+   "subject": "Ovary",
+   "attribute": "function",
+   "value": "develops into fruit",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-plants",
+   "subject": "Ovule",
+   "attribute": "function",
+   "value": "develops into seed",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-plants",
+   "subject": "Pollen tube",
+   "attribute": "function",
+   "value": "grows through the style",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-humans",
+   "subject": "Testis",
+   "attribute": "fact",
+   "value": "sperms and testosterone",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-humans",
+   "subject": "Ovary",
+   "attribute": "fact",
+   "value": "ova and oestrogen",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-humans",
+   "subject": "Fertilisation in humans",
+   "attribute": "fact",
+   "value": "occurs in the fallopian tube",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-humans",
+   "subject": "Implantation",
+   "attribute": "fact",
+   "value": "occurs in the lining of the uterus",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-humans",
+   "subject": "Placenta",
+   "attribute": "fact",
+   "value": "exchanges nutrients, gases and waste between mother and embryo",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-humans",
+   "subject": "Gestation period in humans",
+   "attribute": "fact",
+   "value": "about 40 weeks",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-humans",
+   "subject": "Copper-T",
+   "attribute": "fact",
+   "value": "an intrauterine contraceptive device",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-humans",
+   "subject": "Vasectomy",
+   "attribute": "fact",
+   "value": "cutting and tying the vas deferens",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "sequence",
+   "chapter": "sci-bio-repro",
+   "topic": "sci-bio-repro.sexual-plants",
+   "name": "the sequence of sexual reproduction in a flowering plant",
+   "sequence": [
+    "Pollination transfers pollen t",
+    "Pollen grain germinates and gr",
+    "Pollen tube carries male gamet",
+    "Male gamete fuses with the egg",
+    "Zygote develops into an embryo"
+   ],
+   "difficulty": "hard"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "term": "Consumer",
+   "definition": "An organism that depends directly or indirectly on producers for food.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "term": "Food web",
+   "definition": "A network of interconnected food chains showing multiple feeding relationships.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "term": "Trophic level",
+   "definition": "Each step or level of a food chain at which a particular type of organism feeds.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "term": "Ten per cent law",
+   "definition": "The rule that only about ten per cent of energy at one trophic level is transferred to the next.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "term": "Non-biodegradable waste",
+   "definition": "Waste that cannot be broken down by biological processes, such as plastics and DDT.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "term": "Biological magnification",
+   "definition": "The increasing concentration of a harmful chemical at successive trophic levels of a food chain.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "term": "Ozone layer",
+   "definition": "A protective layer in the upper atmosphere that absorbs harmful ultraviolet radiation.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "Ultimate source of energy in most ecosystems",
+   "attribute": "source",
+   "value": "the Sun",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "Energy available to the second trophic level if producers have 10,000 J",
+   "attribute": "value",
+   "value": "1,000 J",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "Energy available to the third trophic level if producers have 10,000 J",
+   "attribute": "value",
+   "value": "100 J",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "Maximum number of trophic levels in a food chain",
+   "attribute": "typical limit",
+   "value": "three to four",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Ozone depletion",
+   "attribute": "caused mainly by",
+   "value": "chlorofluorocarbons (CFCs)",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "DDT",
+   "attribute": "type of pollutant",
+   "value": "non-biodegradable",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Ozone layer",
+   "attribute": "found in",
+   "value": "stratosphere",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Main greenhouse gas from human activity",
+   "attribute": "name",
+   "value": "carbon dioxide",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Example of biodegradable waste",
+   "attribute": "example",
+   "value": "vegetable peel",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "Grass in a food chain",
+   "attribute": "role",
+   "value": "producer",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "Frog in a grass-insect-frog-snake chain",
+   "attribute": "trophic level",
+   "value": "third",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "Hawk in a grass-insect-frog-snake-hawk chain",
+   "attribute": "trophic level",
+   "value": "fifth",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "sequence",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "name": "the order of trophic levels in a grassland food chain",
+   "sequence": [
+    "Producers (grass)",
+    "Primary consumer (grasshopper)",
+    "Secondary consumer (frog)",
+    "Tertiary consumer (snake)",
+    "Top consumer (hawk)"
+   ],
+   "difficulty": "medium"
+  },
+  {
+   "kind": "sequence",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "name": "the steps of waste management in correct order",
+   "sequence": [
+    "Reduce the amount of waste gen",
+    "Reuse items without processing",
+    "Recycle materials into new pro",
+    "Recover energy from what remai",
+    "Dispose of the rest safely in"
+   ],
+   "difficulty": "medium"
+  }
+ ]
+}

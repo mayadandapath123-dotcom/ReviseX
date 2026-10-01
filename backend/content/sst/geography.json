@@ -1,0 +1,517 @@
+{
+  "chapter": "ss-geo-resources",
+  "kind": "fact",
+  "source_ref": "Class 10 Geography (Contemporary India II, CBSE 2025-26) - original one-line facts, definitions and classifications.",
+  "items": [
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "term": "Alluvial soil",
+      "definition": "The most widespread and fertile soil, formed by rivers depositing silt across the northern plains",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "term": "Black soil",
+      "definition": "Also called regur, made from weathered lava rock and ideal for cotton in the Deccan plateau",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "term": "Red and yellow soil",
+      "definition": "Soil that turns reddish because iron diffuses in crystalline and metamorphic rock",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "term": "Laterite soil",
+      "definition": "Soil formed by intense leaching in areas of high rainfall and alternating wet and dry spells",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "term": "Arid soil",
+      "definition": "Sandy, saline and low in humus and moisture, found mainly in western Rajasthan",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "term": "Forest soil",
+      "definition": "Soil of hilly and mountainous regions whose texture varies with the parent rock",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.cropping",
+      "subject": "Rice",
+      "attribute": "classification",
+      "value": "A kharif crop sown with the onset of the monsoon and needing high temperature with heavy rainfall",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.cropping",
+      "subject": "Wheat",
+      "attribute": "classification",
+      "value": "A rabi crop sown in October to December and harvested in April to June",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.cropping",
+      "subject": "Watermelon",
+      "attribute": "classification",
+      "value": "A zaid crop grown in the short summer season between rabi and kharif",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Sugarcane",
+      "attribute": "classification",
+      "value": "A crop that takes almost a full year to mature and grows in both north and south India",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Cotton",
+      "attribute": "classification",
+      "value": "A crop grown on black soil and the main raw material of the textile industry",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Jute",
+      "attribute": "classification",
+      "value": "Known as the golden fibre, it needs well-drained fertile soil in flood plains",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Tea",
+      "attribute": "classification",
+      "value": "A plantation crop needing a warm, moist, frost-free climate and deep fertile soil",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.cropping",
+      "term": "Kharif season",
+      "definition": "The cropping season sown with the onset of the monsoon around June and harvested in September to October.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.cropping",
+      "term": "Rabi season",
+      "definition": "The cropping season sown in October to December and harvested in April to June.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.cropping",
+      "term": "Zaid season",
+      "definition": "A short season during the summer months between rabi and kharif.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.cropping",
+      "term": "Slash and burn agriculture",
+      "definition": "Shifting cultivation in which forest is cleared and burnt, farmed briefly, then left fallow to recover soil fertility.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.minerals",
+      "subject": "Magnetite",
+      "attribute": "used for",
+      "value": "The finest quality iron ore, containing up to seventy per cent iron",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.minerals",
+      "subject": "Haematite",
+      "attribute": "used for",
+      "value": "The most important industrial iron ore, containing fifty to sixty per cent iron",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.ferrous",
+      "subject": "Manganese",
+      "attribute": "used for",
+      "value": "A mineral chiefly used in the manufacture of steel and ferro-manganese alloys",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.ferrous",
+      "subject": "Bauxite",
+      "attribute": "used for",
+      "value": "The principal ore from which aluminium is obtained",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.ferrous",
+      "subject": "Limestone",
+      "attribute": "used for",
+      "value": "A sedimentary mineral that is the basic raw material of the cement industry",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.ferrous",
+      "subject": "Copper",
+      "attribute": "used for",
+      "value": "A malleable, ductile metal used in electrical cables, electronics and chemical industries",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.energy",
+      "subject": "Coal",
+      "attribute": "classified as",
+      "value": "conventional source",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.energy",
+      "subject": "Petroleum",
+      "attribute": "classified as",
+      "value": "conventional source",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.energy",
+      "subject": "Natural gas",
+      "attribute": "classified as",
+      "value": "conventional source",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.energy",
+      "subject": "Solar energy",
+      "attribute": "classified as",
+      "value": "non-conventional source",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.energy",
+      "subject": "Wind energy",
+      "attribute": "classified as",
+      "value": "non-conventional source",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.energy",
+      "subject": "Tidal energy",
+      "attribute": "classified as",
+      "value": "non-conventional source",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.energy",
+      "subject": "Geothermal energy",
+      "attribute": "classified as",
+      "value": "non-conventional source",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.energy",
+      "subject": "Biogas",
+      "attribute": "classified as",
+      "value": "non-conventional source",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.energy",
+      "subject": "Nuclear energy",
+      "attribute": "classified as",
+      "value": "conventional source",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.types",
+      "term": "Resource",
+      "definition": "Everything available in our environment that can be used to satisfy our needs, provided it is technologically accessible, economically feasible and culturally acceptable.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.types",
+      "term": "Sustainable development",
+      "definition": "Development that takes place without damaging the environment and without compromising the needs of future generations.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.planning",
+      "term": "Agenda 21",
+      "definition": "A declaration signed at the 1992 Rio de Janeiro Earth Summit to combat environmental damage, poverty and disease through global cooperation.",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "term": "Soil erosion",
+      "definition": "The removal of the top layer of soil by water, wind or human activity such as deforestation and overgrazing.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "term": "Gully erosion",
+      "definition": "Erosion in which running water cuts deep channels called gullies through clayey soil, making the land bad or ravine.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "term": "Contour ploughing",
+      "definition": "Ploughing along the contour lines of a slope so that furrows slow down the flow of water and reduce erosion.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "term": "Shelter belt",
+      "definition": "Rows of trees planted across a landscape to break the wind and check soil erosion in coastal and dry regions.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-forest",
+      "topic": "ss-geo-forest.categories",
+      "term": "IUCN",
+      "definition": "The international body that classifies species as normal, endangered, vulnerable, rare or extinct.",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-forest",
+      "topic": "ss-geo-forest.categories",
+      "term": "Endangered species",
+      "definition": "A species in danger of extinction, with its population having fallen to a critically low level.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-forest",
+      "topic": "ss-geo-forest.categories",
+      "term": "Endemic species",
+      "definition": "A species found only in a particular area, isolated by natural or geographical barriers.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-forest",
+      "topic": "ss-geo-forest.conservation",
+      "term": "Joint Forest Management",
+      "definition": "A programme from 1988 onward in which village communities are entrusted with the protection and management of degraded forest land.",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-forest",
+      "topic": "ss-geo-forest.movements",
+      "term": "Chipko movement",
+      "definition": "A Himalayan movement against deforestation in which villagers, notably women, hugged trees to prevent them being felled.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-water",
+      "topic": "ss-geo-water.scarcity",
+      "term": "Water scarcity",
+      "definition": "A situation in which water availability is insufficient to meet the demands of a region, in quantity or in quality.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-water",
+      "topic": "ss-geo-water.dams",
+      "term": "Multi-purpose river project",
+      "definition": "A project across a river that serves several objectives together, such as irrigation, electricity, flood control, navigation and fish breeding.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-water",
+      "topic": "ss-geo-water.harvesting",
+      "term": "Rainwater harvesting",
+      "definition": "Collecting and storing rainwater, for example through rooftop systems, khadins, johads, tanks or bamboo drip systems.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-water",
+      "topic": "ss-geo-water.harvesting",
+      "term": "Kul",
+      "definition": "A diversion channel used in the hilly areas of Himachal Pradesh and Jammu to carry water to villages.",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-industries",
+      "topic": "ss-geo-industries.importance",
+      "term": "Manufacturing",
+      "definition": "The production of goods in large quantities after processing raw materials into more valuable products.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-industries",
+      "topic": "ss-geo-industries.agro-based",
+      "term": "Agro-based industry",
+      "definition": "An industry that uses agricultural produce as its raw material, such as cotton textiles, jute or sugar.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-industries",
+      "topic": "ss-geo-industries.pollution",
+      "term": "Thermal pollution",
+      "definition": "Harm caused when hot water from factories and thermal plants is drained into rivers and ponds before cooling.",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-lifelines",
+      "topic": "ss-geo-lifelines.transport",
+      "term": "National Highway",
+      "definition": "A road linking major cities across states, built and maintained by the central government.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-lifelines",
+      "topic": "ss-geo-lifelines.pipelines",
+      "term": "Pipeline transport",
+      "definition": "A mode of transport that moves crude oil, petroleum products and natural gas in liquid or gaseous form, with low running costs.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-lifelines",
+      "topic": "ss-geo-lifelines.pipelines",
+      "term": "HVJ pipeline",
+      "definition": "The Hazira-Vijaipur-Jagdishpur gas pipeline, the longest gas pipeline in India.",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-lifelines",
+      "topic": "ss-geo-lifelines.trade",
+      "term": "Konkan Railway",
+      "definition": "A railway along the western coast that overcame difficult terrain of rivers, mountains and coastal plains.",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-geo-lifelines",
+      "topic": "ss-geo-lifelines.transport",
+      "term": "Inland waterway",
+      "definition": "A navigable route on rivers, canals, backwaters or creeks, the cheapest mode of transport for heavy goods.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "sequence",
+      "chapter": "ss-geo-lifelines",
+      "topic": "ss-geo-lifelines.transport",
+      "name": "the order of transport modes from cheapest to costliest for heavy bulk goods",
+      "sequence": [
+        "Waterways (cheapest)",
+        "Railways",
+        "Roadways",
+        "Airways (costliest)"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "kind": "sequence",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.types",
+      "name": "the sequence of stages in resource development",
+      "sequence": [
+        "Surveying and inventory of res",
+        "Planning with technology, skil",
+        "Implementation of development",
+        "Monitoring and conservation"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "kind": "sequence",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.cropping",
+      "name": "the agricultural year in India",
+      "sequence": [
+        "Arrival of the monsoon (June)",
+        "Sowing of kharif crops",
+        "Harvesting of kharif and sowin",
+        "Harvesting of rabi crops",
+        "Short zaid summer season"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

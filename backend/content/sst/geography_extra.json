@@ -1,0 +1,512 @@
+{
+  "chapter": "ss-geo-resources",
+  "kind": "fact",
+  "source_ref": "NCERT Class 10 - Contemporary India II",
+  "generator_note": "Attribute-dense clusters; four or more items per attribute unlocks the reverse and negative-recall question forms.",
+  "items": [
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "subject": "Alluvial soil",
+      "attribute": "characteristic of",
+      "value": "Northern plains and river valleys; most widespread",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "subject": "Black soil (Regur)",
+      "attribute": "characteristic of",
+      "value": "Cotton — formed from Deccan trap basalt",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "subject": "Red and Yellow soil",
+      "attribute": "characteristic of",
+      "value": "Iron diffusion gives the colour; low humus",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "subject": "Laterite soil",
+      "attribute": "characteristic of",
+      "value": "Tea, coffee and cashew — formed by leaching",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "subject": "Arid soil",
+      "attribute": "characteristic of",
+      "value": "Sandy, saline, low humus; needs irrigation",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.soil",
+      "subject": "Forest soil",
+      "attribute": "characteristic of",
+      "value": "Hilly and mountainous regions",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Rice",
+      "attribute": "growing condition of",
+      "value": "Kharif; needs above 100 cm rainfall",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Wheat",
+      "attribute": "growing condition of",
+      "value": "Rabi; cool growing season, bright sunshine",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Sugarcane",
+      "attribute": "growing condition of",
+      "value": "Tropical as well as subtropical crop",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Tea",
+      "attribute": "growing condition of",
+      "value": "Plantation agriculture; well-drained loamy soil",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Jute",
+      "attribute": "growing condition of",
+      "value": "Grown on alluvial soil in the Ganga delta",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Cotton",
+      "attribute": "growing condition of",
+      "value": "Grown on black soil of the Deccan plateau",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Bajra (pearl millet)",
+      "attribute": "growing condition of",
+      "value": "Millets; grows on sandy and shallow black soil",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Ragi (finger millet)",
+      "attribute": "growing condition of",
+      "value": "Millets; dry regions, coarse grain",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Coffee",
+      "attribute": "growing condition of",
+      "value": "Plantation crop introduced in the Baba Budan hills",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-agriculture",
+      "topic": "ss-geo-agriculture.crops",
+      "subject": "Pulses",
+      "attribute": "growing condition of",
+      "value": "Grown in rotation; legumes that fix nitrogen",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-water",
+      "topic": "ss-geo-water.dams",
+      "subject": "Bhakra Nangal dam",
+      "attribute": "built on",
+      "value": "Sutlej",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-water",
+      "topic": "ss-geo-water.dams",
+      "subject": "Hirakud dam",
+      "attribute": "built on",
+      "value": "Mahanadi",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-water",
+      "topic": "ss-geo-water.dams",
+      "subject": "Sardar Sarovar dam",
+      "attribute": "built on",
+      "value": "Narmada",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-water",
+      "topic": "ss-geo-water.dams",
+      "subject": "Tehri dam",
+      "attribute": "built on",
+      "value": "Bhagirathi",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-water",
+      "topic": "ss-geo-water.dams",
+      "subject": "Nagarjuna Sagar dam",
+      "attribute": "built on",
+      "value": "Krishna",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-water",
+      "topic": "ss-geo-water.dams",
+      "subject": "Tungabhadra dam",
+      "attribute": "built on",
+      "value": "Tungabhadra",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-water",
+      "topic": "ss-geo-water.dams",
+      "subject": "Rihand dam",
+      "attribute": "built on",
+      "value": "Rihand (Son tributary)",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-forest",
+      "topic": "ss-geo-forest.conservation",
+      "subject": "Kaziranga National Park",
+      "attribute": "located in",
+      "value": "Assam — one-horned rhinoceros",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-forest",
+      "topic": "ss-geo-forest.conservation",
+      "subject": "Periyar Wildlife Sanctuary",
+      "attribute": "located in",
+      "value": "Kerala — tiger reserve",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-forest",
+      "topic": "ss-geo-forest.conservation",
+      "subject": "Ranthambore National Park",
+      "attribute": "located in",
+      "value": "Rajasthan — tiger reserve",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-forest",
+      "topic": "ss-geo-forest.conservation",
+      "subject": "Sundarbans National Park",
+      "attribute": "located in",
+      "value": "West Bengal — Royal Bengal tiger",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-forest",
+      "topic": "ss-geo-forest.conservation",
+      "subject": "Jim Corbett National Park",
+      "attribute": "located in",
+      "value": "Uttarakhand — India's first national park",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-forest",
+      "topic": "ss-geo-forest.conservation",
+      "subject": "Gir National Park",
+      "attribute": "located in",
+      "value": "Gujarat — Asiatic lion",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-forest",
+      "topic": "ss-geo-forest.conservation",
+      "subject": "Manas Wildlife Sanctuary",
+      "attribute": "located in",
+      "value": "Assam",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.minerals",
+      "subject": "Bauxite",
+      "attribute": "yields",
+      "value": "Aluminium",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.ferrous",
+      "subject": "Hematite",
+      "attribute": "yields",
+      "value": "Iron ore — finest quality",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.ferrous",
+      "subject": "Magnetite",
+      "attribute": "yields",
+      "value": "Iron ore — magnetic properties",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.minerals",
+      "subject": "Mica",
+      "attribute": "yields",
+      "value": "Electrical and electronics industry",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.energy",
+      "subject": "Anthracite",
+      "attribute": "yields",
+      "value": "Coal — highest carbon content",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.energy",
+      "subject": "Bituminous",
+      "attribute": "yields",
+      "value": "Coal — most widely used commercial form",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.energy",
+      "subject": "Lignite",
+      "attribute": "yields",
+      "value": "Coal — brown, low moisture",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-minerals",
+      "topic": "ss-geo-minerals.minerals",
+      "subject": "Rat-hole mining",
+      "attribute": "yields",
+      "value": "Coal extraction method in the north-east",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-industries",
+      "topic": "ss-geo-industries.agro-based",
+      "subject": "Jute textile industry",
+      "attribute": "concentrated in",
+      "value": "Hooghly basin, West Bengal",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-industries",
+      "topic": "ss-geo-industries.agro-based",
+      "subject": "Cotton textile industry",
+      "attribute": "concentrated in",
+      "value": "Mumbai–Ahmedabad belt",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-industries",
+      "topic": "ss-geo-industries.importance",
+      "subject": "Iron and steel industry",
+      "attribute": "concentrated in",
+      "value": "Chotanagpur plateau region",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-industries",
+      "topic": "ss-geo-industries.importance",
+      "subject": "Information technology industry",
+      "attribute": "concentrated in",
+      "value": "Bengaluru — the electronic capital of India",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-industries",
+      "topic": "ss-geo-industries.agro-based",
+      "subject": "Sugar industry",
+      "attribute": "concentrated in",
+      "value": "Uttar Pradesh and Maharashtra",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-industries",
+      "topic": "ss-geo-industries.pollution",
+      "subject": "Aluminium smelting industry",
+      "attribute": "concentrated in",
+      "value": "Odisha and Chhattisgarh",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-lifelines",
+      "topic": "ss-geo-lifelines.pipelines",
+      "subject": "HVJ pipeline",
+      "attribute": "description of",
+      "value": "Hazira–Vijaypur–Jagdishpur gas pipeline",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-lifelines",
+      "topic": "ss-geo-lifelines.transport",
+      "subject": "Konkan Railway",
+      "attribute": "description of",
+      "value": "Runs along the western coast",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-lifelines",
+      "topic": "ss-geo-lifelines.transport",
+      "subject": "Golden Quadrilateral",
+      "attribute": "description of",
+      "value": "Superhighway connecting Delhi–Mumbai–Chennai–Kolkata",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-lifelines",
+      "topic": "ss-geo-lifelines.transport",
+      "subject": "National Waterway 1",
+      "attribute": "description of",
+      "value": "Ganga river between Allahabad and Haldia",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-lifelines",
+      "topic": "ss-geo-lifelines.transport",
+      "subject": "Inland waterways",
+      "attribute": "description of",
+      "value": "Cheapest mode of transport for bulk goods",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-lifelines",
+      "topic": "ss-geo-lifelines.trade",
+      "subject": "Air travel",
+      "attribute": "description of",
+      "value": "Fastest but most expensive mode of transport",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.types",
+      "subject": "Renewable resources",
+      "attribute": "definition of",
+      "value": "Solar, wind and water energy",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.types",
+      "subject": "Non-renewable resources",
+      "attribute": "definition of",
+      "value": "Coal, petroleum and natural gas",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.types",
+      "subject": "Abiotic resources",
+      "attribute": "definition of",
+      "value": "Rocks, metals and soil minerals",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.types",
+      "subject": "Biotic resources",
+      "attribute": "definition of",
+      "value": "Living organisms and products of life",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.planning",
+      "subject": "Sustainable development",
+      "attribute": "definition of",
+      "value": "Development without damaging the environment for future generations",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-geo-resources",
+      "topic": "ss-geo-resources.planning",
+      "subject": "Agenda 21",
+      "attribute": "definition of",
+      "value": "Declaration of the 1992 Earth Summit at Rio de Janeiro",
+      "difficulty": "medium"
+    }
+  ]
+}

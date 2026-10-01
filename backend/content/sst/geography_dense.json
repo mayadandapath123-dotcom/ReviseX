@@ -1,0 +1,3429 @@
+{
+ "chapter": "ss-geo-resources",
+ "kind": "fact",
+ "generator": "fact_attribute",
+ "source_ref": "CBSE/NCERT Class 10 Social Science (2025-26) syllabus facts, restated in original wording. Questions are composed from these facts by the fact-attribute generator; no text is reproduced from any textbook.",
+ "generator_note": "Dense attribute clusters. Each item carries its own chapter and topic, so one file can span a whole branch. Clusters of four or more items sharing an attribute unlock the reverse and negative-recall question forms, which is what makes these worth three questions each rather than one.",
+ "items": [
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Resources on the basis of origin",
+   "attribute": "classified as",
+   "value": "Biotic and abiotic",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Resources on the basis of exhaustibility",
+   "attribute": "classified as",
+   "value": "Renewable and non-renewable",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Resources on the basis of ownership",
+   "attribute": "classified as",
+   "value": "Individual, community, national and international",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Resources on the basis of status of development",
+   "attribute": "classified as",
+   "value": "Potential, developed, stock and reserves",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Biotic resources",
+   "attribute": "classified as",
+   "value": "Obtained from the biosphere and having life",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Abiotic resources",
+   "attribute": "classified as",
+   "value": "Composed of non-living things such as rocks and metals",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Renewable resources",
+   "attribute": "classified as",
+   "value": "Renewable by physical, chemical or mechanical processes",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Non-renewable resources",
+   "attribute": "classified as",
+   "value": "Formed over very long geological time",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Potential resources",
+   "attribute": "classified as",
+   "value": "Found in a region but not yet utilised",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Developed resources",
+   "attribute": "classified as",
+   "value": "Surveyed, with quality and quantity determined",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Stock",
+   "attribute": "classified as",
+   "value": "Materials that could meet needs but lack appropriate technology",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Reserves",
+   "attribute": "classified as",
+   "value": "A subset of stock usable with existing technology but kept for the future",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Community-owned resources",
+   "attribute": "classified as",
+   "value": "Grazing grounds, ponds and burial grounds",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "National resources",
+   "attribute": "classified as",
+   "value": "Everything within political boundaries and oceanic areas up to 12 nautical miles",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "International resources",
+   "attribute": "classified as",
+   "value": "Regulated by international institutions beyond 200 nautical miles",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "Individual resources",
+   "attribute": "classified as",
+   "value": "Owned privately by an individual, such as plots and houses",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "A biotic resource",
+   "attribute": "example of",
+   "value": "Humans, flora and fauna",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "An abiotic resource",
+   "attribute": "example of",
+   "value": "Rocks and metals",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "A renewable resource",
+   "attribute": "example of",
+   "value": "Solar and wind energy, water, forests",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "A non-renewable resource",
+   "attribute": "example of",
+   "value": "Coal, petroleum and minerals",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "A potential resource",
+   "attribute": "example of",
+   "value": "Solar and wind energy in Rajasthan and Gujarat, not fully developed",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "A stock resource",
+   "attribute": "example of",
+   "value": "Water, which cannot yet be used as fuel for lack of technology",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "A reserve",
+   "attribute": "example of",
+   "value": "Water in a dam reserved for future power generation",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "An international resource",
+   "attribute": "example of",
+   "value": "Oceanic resources beyond the exclusive economic zone",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.types",
+   "subject": "A community resource",
+   "attribute": "example of",
+   "value": "Village grazing grounds",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Alluvial soil",
+   "attribute": "found in",
+   "value": "River deltas and the northern plains",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Black soil, also called regur",
+   "attribute": "found in",
+   "value": "The Deccan plateau, Maharashtra and Gujarat",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Red and yellow soil",
+   "attribute": "found in",
+   "value": "Crystalline igneous rocks in low-rainfall parts of the eastern and southern Deccan",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Laterite soil",
+   "attribute": "found in",
+   "value": "Areas of high temperature and heavy rainfall",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Arid soil",
+   "attribute": "found in",
+   "value": "Western Rajasthan and parts of Gujarat",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Forest soil",
+   "attribute": "found in",
+   "value": "Hilly and mountainous regions",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Bangar alluvium",
+   "attribute": "found in",
+   "value": "Older alluvium away from rivers, with calcareous nodules called kankar",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Khadar alluvium",
+   "attribute": "found in",
+   "value": "Newer alluvium near rivers, finer and more fertile",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Black soil",
+   "attribute": "best suited for",
+   "value": "Cotton",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Alluvial soil",
+   "attribute": "best suited for",
+   "value": "Sugarcane, paddy, wheat and pulses",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Laterite soil",
+   "attribute": "best suited for",
+   "value": "Tea, coffee, cashew and tapioca",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Arid soil",
+   "attribute": "best suited for",
+   "value": "Crops grown with irrigation, such as wheat in Rajasthan",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Red soil",
+   "attribute": "best suited for",
+   "value": "Millets and oilseeds",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Forest soil",
+   "attribute": "best suited for",
+   "value": "Spices, tea, coffee and fruits",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Black soil's moisture retention",
+   "attribute": "best suited for",
+   "value": "Dry farming without irrigation",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Gully erosion",
+   "attribute": "controlled by",
+   "value": "Contour bunding, check dams and gully plugging",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Sheet erosion",
+   "attribute": "controlled by",
+   "value": "Contour ploughing and strip cropping",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Wind erosion",
+   "attribute": "controlled by",
+   "value": "Shelter belts of trees planted in rows",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Ravine formation in the Chambal basin",
+   "attribute": "controlled by",
+   "value": "Afforestation and control of overgrazing",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Loss of soil moisture",
+   "attribute": "controlled by",
+   "value": "Mulching with organic matter",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Erosion on steep slopes",
+   "attribute": "controlled by",
+   "value": "Terrace cultivation in the western and central Himalayas",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Runoff speed on farmland",
+   "attribute": "controlled by",
+   "value": "Ploughing along contour lines",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Soil loss between crop rows",
+   "attribute": "controlled by",
+   "value": "Leaving grass strips between cropped strips",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Deep channels cut by running water on slopes",
+   "attribute": "term for",
+   "value": "Gullies",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Land cut by gullies and unusable for cultivation",
+   "attribute": "term for",
+   "value": "Badland",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Gullies in the Chambal basin",
+   "attribute": "term for",
+   "value": "Ravines",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Steps cut across a slope for cultivation",
+   "attribute": "term for",
+   "value": "Terraces",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Strips of grass left between cropped strips",
+   "attribute": "term for",
+   "value": "Strip cropping",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Rows of trees planted to check wind",
+   "attribute": "term for",
+   "value": "Shelter belts",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Covering bare ground with organic matter",
+   "attribute": "term for",
+   "value": "Mulching",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Older alluvium with kankar nodules",
+   "attribute": "term for",
+   "value": "Bangar",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.soil",
+   "subject": "Newer, finer and more fertile alluvium",
+   "attribute": "term for",
+   "value": "Khadar",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.planning",
+   "subject": "The Club of Rome's 'Limits to Growth'",
+   "attribute": "associated with",
+   "value": "The first warning of resource depletion, in 1972",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.planning",
+   "subject": "The Brundtland Commission Report 'Our Common Future'",
+   "attribute": "associated with",
+   "value": "Introducing sustainable development in 1987",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.planning",
+   "subject": "Agenda 21",
+   "attribute": "associated with",
+   "value": "Declared at the 1992 Rio de Janeiro Earth Summit",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.planning",
+   "subject": "The World Summit on Sustainable Development",
+   "attribute": "associated with",
+   "value": "Held at Johannesburg in 2002",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.planning",
+   "subject": "'There is enough for everybody's need and not for anybody's greed'",
+   "attribute": "associated with",
+   "value": "Mahatma Gandhi",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.planning",
+   "subject": "'Small is Beautiful'",
+   "attribute": "associated with",
+   "value": "E.F. Schumacher's Gandhian economics",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.planning",
+   "subject": "Resource planning in India",
+   "attribute": "associated with",
+   "value": "Identification, evaluation and action-oriented planning",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.planning",
+   "subject": "Uneven distribution of resources in India",
+   "attribute": "associated with",
+   "value": "The need for planning at regional and national level",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.land-use",
+   "subject": "Net sown area",
+   "attribute": "meaning of",
+   "value": "Land sown at least once in an agricultural year",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.land-use",
+   "subject": "Gross cropped area",
+   "attribute": "meaning of",
+   "value": "Land sown more than once in the same agricultural year",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.land-use",
+   "subject": "Fallow land",
+   "attribute": "meaning of",
+   "value": "Land left uncultivated for one or less than five years",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.land-use",
+   "subject": "Culturable wasteland",
+   "attribute": "meaning of",
+   "value": "Land left uncultivated for more than five years",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.land-use",
+   "subject": "Land not available for cultivation",
+   "attribute": "meaning of",
+   "value": "Barren land and land put to non-agricultural use",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.land-use",
+   "subject": "Permanent pastures and grazing land",
+   "attribute": "meaning of",
+   "value": "Land used for grazing livestock",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.land-use",
+   "subject": "Forest area",
+   "attribute": "meaning of",
+   "value": "Land recorded as forest by the revenue department",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-resources",
+   "topic": "ss-geo-resources.land-use",
+   "subject": "The National Forest Policy target",
+   "attribute": "meaning of",
+   "value": "33 per cent of area under forest cover",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "Normal species",
+   "attribute": "classified as",
+   "value": "Species whose population is considered stable",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "Endangered species",
+   "attribute": "classified as",
+   "value": "Species in danger of extinction",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "Vulnerable species",
+   "attribute": "classified as",
+   "value": "Species whose population has declined to a level likely to become endangered",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "Rare species",
+   "attribute": "classified as",
+   "value": "Species with small populations that may become endangered",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "Endemic species",
+   "attribute": "classified as",
+   "value": "Species found only in particular areas, isolated by natural barriers",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "Extinct species",
+   "attribute": "classified as",
+   "value": "Species not found despite searches of known areas",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "An extinct species in India",
+   "attribute": "example of",
+   "value": "The Asiatic cheetah and the pink-headed duck",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "An endangered species in India",
+   "attribute": "example of",
+   "value": "The blackbuck, the crocodile and the Indian wild ass",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "A vulnerable species in India",
+   "attribute": "example of",
+   "value": "The blue sheep, the Asiatic elephant and the gangetic dolphin",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "A rare species in India",
+   "attribute": "example of",
+   "value": "The hornbill",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "An endemic species in India",
+   "attribute": "example of",
+   "value": "The Nicob pigeon and the Andaman teal",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "A normal species in India",
+   "attribute": "example of",
+   "value": "Cattle, sal and pine",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "The Indian Wildlife (Protection) Act",
+   "attribute": "provided for",
+   "value": "Protection of habitats and a ban on hunting, passed in 1972",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "Project Tiger",
+   "attribute": "provided for",
+   "value": "Launched in 1973 to save the tiger population",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "Joint Forest Management",
+   "attribute": "provided for",
+   "value": "Village institutions protecting degraded forest land",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "Sacred groves",
+   "attribute": "provided for",
+   "value": "Community protection of pristine forest patches",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "National parks",
+   "attribute": "provided for",
+   "value": "Strict protection of whole ecosystems",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "Wildlife sanctuaries",
+   "attribute": "provided for",
+   "value": "Protection of particular species",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "Biosphere reserves",
+   "attribute": "provided for",
+   "value": "Conservation of genetic diversity in situ",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "The Forest Rights Act of 2006",
+   "attribute": "provided for",
+   "value": "Recognition of forest-dwelling communities' rights",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "The Chipko movement",
+   "attribute": "originated in",
+   "value": "The Garhwal Himalayas",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "The Beej Bachao Andolan",
+   "attribute": "originated in",
+   "value": "Tehri",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "The Narmada Bachao Andolan",
+   "attribute": "originated in",
+   "value": "The Narmada valley",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "Joint Forest Management",
+   "attribute": "originated in",
+   "value": "West Bengal, later formalised in Odisha",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "The Silent Valley protest",
+   "attribute": "originated in",
+   "value": "Kerala",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "The Appiko movement",
+   "attribute": "originated in",
+   "value": "Karnataka",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "The Navdanya seed network",
+   "attribute": "originated in",
+   "value": "Dehradun",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "Chipko",
+   "attribute": "aimed at",
+   "value": "Hugging trees to stop commercial felling",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "Beej Bachao Andolan",
+   "attribute": "aimed at",
+   "value": "Conserving traditional seed varieties",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "Narmada Bachao Andolan",
+   "attribute": "aimed at",
+   "value": "Opposing large dams and displacement",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "Joint Forest Management",
+   "attribute": "aimed at",
+   "value": "Sharing forest produce with protecting villages",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "The Silent Valley protest",
+   "attribute": "aimed at",
+   "value": "Preserving an evergreen forest from a hydro project",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "Navdanya",
+   "attribute": "aimed at",
+   "value": "Seed saving and farmers' rights",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "Tiger populations",
+   "attribute": "threatened by",
+   "value": "Poaching for skin and bones, and shrinking habitat",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "Asiatic cheetahs in India",
+   "attribute": "threatened by",
+   "value": "Habitat loss and the decline of prey animals",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "Rhino populations",
+   "attribute": "threatened by",
+   "value": "Poaching for horn",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "Forest cover",
+   "attribute": "threatened by",
+   "value": "Agricultural expansion and developmental projects",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "Wetlands",
+   "attribute": "threatened by",
+   "value": "Drainage for cultivation and urban growth",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.conservation",
+   "subject": "Riverine species",
+   "attribute": "threatened by",
+   "value": "Dams blocking migration and changing flow",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.scarcity",
+   "subject": "Water scarcity",
+   "attribute": "caused by",
+   "value": "A large and growing population, unequal access and over-exploitation",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.scarcity",
+   "subject": "Groundwater depletion",
+   "attribute": "caused by",
+   "value": "Over-irrigation in Punjab, Haryana and western Uttar Pradesh",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.scarcity",
+   "subject": "Water stress in cities",
+   "attribute": "caused by",
+   "value": "Overcrowding and irregular supply",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.scarcity",
+   "subject": "Inter-state water disputes",
+   "attribute": "caused by",
+   "value": "Sharing of the costs and benefits of multipurpose projects",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.scarcity",
+   "subject": "Declining water tables",
+   "attribute": "caused by",
+   "value": "Pumping for intensive irrigation of water-hungry crops",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.scarcity",
+   "subject": "Water pollution",
+   "attribute": "caused by",
+   "value": "Domestic and industrial waste discharged untreated",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "The Bhakra Nangal project",
+   "attribute": "built on",
+   "value": "The Satluj",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "The Hirakud project",
+   "attribute": "built on",
+   "value": "The Mahanadi",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "The Damodar Valley Corporation",
+   "attribute": "built on",
+   "value": "The Damodar",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "The Sardar Sarovar project",
+   "attribute": "built on",
+   "value": "The Narmada",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "The Tehri Dam",
+   "attribute": "built on",
+   "value": "The Bhagirathi",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "The Rihand project",
+   "attribute": "built on",
+   "value": "The Rihand in Uttar Pradesh",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "The Tungabhadra project",
+   "attribute": "built on",
+   "value": "The Tungabhadra",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "The Koyna project",
+   "attribute": "built on",
+   "value": "The Koyna in Maharashtra",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "The Nagarjuna Sagar project",
+   "attribute": "built on",
+   "value": "The Krishna",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "A multipurpose river project",
+   "attribute": "purpose of",
+   "value": "Irrigation, electricity, flood control, navigation and fish breeding",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "'Temples of modern India'",
+   "attribute": "purpose of",
+   "value": "Jawaharlal Nehru's description of the dams",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "Criticism of large dams",
+   "attribute": "purpose of",
+   "value": "Sedimentation, displacement and ecological damage",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "An inter-state water dispute",
+   "attribute": "purpose of",
+   "value": "Allocation of river water between states",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "Sardar Sarovar's benefit",
+   "attribute": "purpose of",
+   "value": "Irrigation and power across four states",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.dams",
+   "subject": "Narmada Bachao Andolan's objection",
+   "attribute": "purpose of",
+   "value": "Submergence of villages without adequate rehabilitation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "Rooftop rainwater harvesting",
+   "attribute": "practised in",
+   "value": "Meghalaya, Tamil Nadu and Karnataka",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "Bamboo drip irrigation",
+   "attribute": "practised in",
+   "value": "Meghalaya, a two-hundred-year-old system",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "Guls and kuls diversion channels",
+   "attribute": "practised in",
+   "value": "The western Himalayas",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "Johads",
+   "attribute": "practised in",
+   "value": "Rural Rajasthan",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "Khadins and tanks",
+   "attribute": "practised in",
+   "value": "Jaisalmer and the rest of Rajasthan",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "Tankas for drinking water",
+   "attribute": "practised in",
+   "value": "Bikaner, Phalodi and Barmer",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "Inundation canals",
+   "attribute": "practised in",
+   "value": "The flood plains of Bengal",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "Check dams",
+   "attribute": "practised in",
+   "value": "Rajasthan and Gujarat",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "Percolation tanks",
+   "attribute": "practised in",
+   "value": "Maharashtra",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "Rooftop collection mandated by law",
+   "attribute": "practised in",
+   "value": "Tamil Nadu, the first state to make it compulsory",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "The purest natural water in the desert",
+   "attribute": "term for",
+   "value": "Palar pani",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "An underground tank storing drinking water",
+   "attribute": "term for",
+   "value": "Tankas",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "An earthen check dam in a gully",
+   "attribute": "term for",
+   "value": "Johad",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "A diversion channel in the hills",
+   "attribute": "term for",
+   "value": "Gul or kul",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "Tapping groundwater by gravity through bamboo pipes",
+   "attribute": "term for",
+   "value": "Bamboo drip irrigation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "A field bunded to retain moisture in arid areas",
+   "attribute": "term for",
+   "value": "Khadin",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.harvesting",
+   "subject": "Storing flood water on fields",
+   "attribute": "term for",
+   "value": "Inundation canal",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.scarcity",
+   "subject": "Seasonal urban shortage",
+   "attribute": "solved by",
+   "value": "Rainwater harvesting on rooftops",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.scarcity",
+   "subject": "Rural drinking-water shortage",
+   "attribute": "solved by",
+   "value": "Recharge of wells and construction of tankas",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.scarcity",
+   "subject": "Groundwater over-draft",
+   "attribute": "solved by",
+   "value": "Regulating extraction and shifting to less water-hungry crops",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.scarcity",
+   "subject": "River pollution",
+   "attribute": "solved by",
+   "value": "Treating effluent before discharge",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.scarcity",
+   "subject": "Drought-prone farmland",
+   "attribute": "solved by",
+   "value": "Khadins and contour bunds to retain soil moisture",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-water",
+   "topic": "ss-geo-water.scarcity",
+   "subject": "Uneven monsoon distribution",
+   "attribute": "solved by",
+   "value": "Storage and inter-basin transfer",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.cropping",
+   "subject": "Rabi crops",
+   "attribute": "sown in",
+   "value": "Winter, from October to December, harvested in summer",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.cropping",
+   "subject": "Kharif crops",
+   "attribute": "sown in",
+   "value": "The onset of the monsoon, harvested in September and October",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.cropping",
+   "subject": "Zaid crops",
+   "attribute": "sown in",
+   "value": "The short summer season between rabi and kharif",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.cropping",
+   "subject": "Rabi crops",
+   "attribute": "example of",
+   "value": "Wheat, barley, peas, gram and mustard",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.cropping",
+   "subject": "Kharif crops",
+   "attribute": "example of",
+   "value": "Paddy, maize, jowar, bajra, tur, moong, urad, cotton and jute",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.cropping",
+   "subject": "Zaid crops",
+   "attribute": "example of",
+   "value": "Watermelon, muskmelon, cucumber, vegetables and fodder crops",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.cropping",
+   "subject": "A plantation crop",
+   "attribute": "example of",
+   "value": "Tea, coffee, rubber and sugarcane",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.cropping",
+   "subject": "A fibre crop",
+   "attribute": "example of",
+   "value": "Cotton and jute",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.cropping",
+   "subject": "An oilseed crop",
+   "attribute": "example of",
+   "value": "Groundnut, mustard, coconut and soyabean",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.cropping",
+   "subject": "A food grain crop",
+   "attribute": "example of",
+   "value": "Rice, wheat, millets and pulses",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Rice",
+   "attribute": "requirement of",
+   "value": "Temperature above 25 degrees Celsius, high humidity and rainfall above 100 cm",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Wheat",
+   "attribute": "requirement of",
+   "value": "A cool growing season, bright sunshine at ripening and 50 to 75 cm of rainfall",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Millets such as jowar, bajra and ragi",
+   "attribute": "requirement of",
+   "value": "Low rainfall and poor soils",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Sugarcane",
+   "attribute": "requirement of",
+   "value": "A hot and humid climate with 75 to 100 cm of rainfall",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Tea",
+   "attribute": "requirement of",
+   "value": "A warm, moist and frost-free climate with well-drained loamy soil",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Cotton",
+   "attribute": "requirement of",
+   "value": "Black soil, high temperature, light rainfall and 210 frost-free days",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Jute",
+   "attribute": "requirement of",
+   "value": "Well-drained fertile soil in flood plains and high temperature",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Rubber",
+   "attribute": "requirement of",
+   "value": "A moist and humid climate with rainfall above 200 cm",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Coffee",
+   "attribute": "requirement of",
+   "value": "Well-drained loamy soil on hill slopes",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Groundnut",
+   "attribute": "requirement of",
+   "value": "Sandy soil and low rainfall",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Maize",
+   "attribute": "requirement of",
+   "value": "Moderate temperature, moderate rainfall and alluvial soil",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Bajra",
+   "attribute": "requirement of",
+   "value": "Shallow and sandy soil in Rajasthan",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Rice",
+   "attribute": "produced mainly in",
+   "value": "West Bengal, Uttar Pradesh and Punjab",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Wheat",
+   "attribute": "produced mainly in",
+   "value": "Uttar Pradesh, Punjab and Haryana",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Jute",
+   "attribute": "produced mainly in",
+   "value": "West Bengal, Bihar and Assam",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Tea",
+   "attribute": "produced mainly in",
+   "value": "Assam, Darjeeling and the Nilgiris",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Cotton",
+   "attribute": "produced mainly in",
+   "value": "Maharashtra and Gujarat",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Sugarcane",
+   "attribute": "produced mainly in",
+   "value": "Uttar Pradesh and Maharashtra",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Rubber",
+   "attribute": "produced mainly in",
+   "value": "Kerala",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Coffee",
+   "attribute": "produced mainly in",
+   "value": "Karnataka",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Millets",
+   "attribute": "produced mainly in",
+   "value": "Rajasthan, Karnataka and Maharashtra",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Groundnut",
+   "attribute": "produced mainly in",
+   "value": "Gujarat",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Maize",
+   "attribute": "produced mainly in",
+   "value": "Karnataka, Uttar Pradesh and Bihar",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.crops",
+   "subject": "Ragi",
+   "attribute": "produced mainly in",
+   "value": "Karnataka, Tamil Nadu and Rajasthan",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "The Green Revolution",
+   "attribute": "introduced by",
+   "value": "High-yielding variety seeds, fertilisers and assured irrigation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "The White Revolution, or Operation Flood",
+   "attribute": "introduced by",
+   "value": "A sharp rise in milk production",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Bhoodan and Gramdan",
+   "attribute": "introduced by",
+   "value": "Vinoba Bhave's gift of land to the landless",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Land consolidation of holdings",
+   "attribute": "introduced by",
+   "value": "Post-Independence reform to reduce fragmentation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Cooperatives",
+   "attribute": "introduced by",
+   "value": "Collective credit, marketing and processing",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Minimum Support Price",
+   "attribute": "introduced by",
+   "value": "Assured prices for key crops",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "The Kisan Credit Card",
+   "attribute": "introduced by",
+   "value": "Simplified credit access for farmers",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Crop insurance schemes",
+   "attribute": "introduced by",
+   "value": "Protection against drought, flood, cyclone, fire and disease",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Gramin banks",
+   "attribute": "introduced by",
+   "value": "Rural credit at concessional rates",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Personal Accident Insurance Scheme",
+   "attribute": "introduced by",
+   "value": "Protection for farmers",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Special weather bulletins and agricultural programmes",
+   "attribute": "introduced by",
+   "value": "Information reaching farmers on radio and television",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Indian agriculture today",
+   "attribute": "faced by",
+   "value": "Falling public investment in irrigation and power",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Small and marginal farmers",
+   "attribute": "faced by",
+   "value": "Reduced availability of capital and credit",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Farm incomes",
+   "attribute": "faced by",
+   "value": "Withdrawal of subsidies raising the cost of production",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Grain producers",
+   "attribute": "faced by",
+   "value": "Reduced import duties and competition from developed countries",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Rural employment",
+   "attribute": "faced by",
+   "value": "Shift away from farming towards non-farm activities",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-agriculture",
+   "topic": "ss-geo-agriculture.reforms",
+   "subject": "Water tables",
+   "attribute": "faced by",
+   "value": "Continued over-use of groundwater",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Minerals in igneous and metamorphic rocks",
+   "attribute": "occurs as",
+   "value": "Veins and lodes in cracks, faults and joints",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Minerals in sedimentary rocks",
+   "attribute": "occurs as",
+   "value": "Beds and layers, formed by deposition and accumulation",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Placer deposits",
+   "attribute": "occurs as",
+   "value": "Alluvial deposits in valley floors and at the base of hills",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Minerals in ocean water",
+   "attribute": "occurs as",
+   "value": "Common salt, magnesium and bromine",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Decomposed surface rocks",
+   "attribute": "occurs as",
+   "value": "Residual masses of ore left after soluble material washed away",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Bauxite",
+   "attribute": "occurs as",
+   "value": "A residual deposit formed by leaching of laterite rock",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "A placer deposit mineral",
+   "attribute": "example of",
+   "value": "Gold, silver, tin and platinum",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "A ferrous mineral",
+   "attribute": "example of",
+   "value": "Iron ore and manganese",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "A non-ferrous mineral",
+   "attribute": "example of",
+   "value": "Copper, bauxite, lead and zinc",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "A non-metallic mineral",
+   "attribute": "example of",
+   "value": "Mica, limestone and sulphur",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "A conventional energy source",
+   "attribute": "example of",
+   "value": "Coal, petroleum, natural gas and firewood",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "A non-conventional energy source",
+   "attribute": "example of",
+   "value": "Solar, wind, tidal, geothermal and biogas",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "A rat-hole mineral deposit",
+   "attribute": "example of",
+   "value": "Coal in the north-eastern states, mined through narrow tunnels",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Limestone",
+   "attribute": "used for",
+   "value": "Cement, iron and steel, and chemical industries",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Bauxite",
+   "attribute": "used for",
+   "value": "Aluminium, which is strong, light and resistant",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Copper",
+   "attribute": "used for",
+   "value": "Electrical cables, electronics and chemical industries",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Mica",
+   "attribute": "used for",
+   "value": "Electrical and electronic industries for its low power loss",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Manganese",
+   "attribute": "used for",
+   "value": "Steel making, bleaching powder, insecticides and paints",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Rock phosphate",
+   "attribute": "used for",
+   "value": "Fertiliser manufacture",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Sulphur",
+   "attribute": "used for",
+   "value": "Sulphuric acid and the chemical industry",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Thorium and uranium",
+   "attribute": "used for",
+   "value": "Atomic energy generation",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.ferrous",
+   "subject": "Magnetite, the finest iron ore",
+   "attribute": "found in",
+   "value": "Tamil Nadu and Karnataka, with up to 70 per cent iron",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.ferrous",
+   "subject": "Hematite, the most important industrial iron ore",
+   "attribute": "found in",
+   "value": "A belt stretching across Odisha, Jharkhand and Chhattisgarh",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.ferrous",
+   "subject": "The Odisha-Jharkhand belt",
+   "attribute": "found in",
+   "value": "Badampahar in Odisha and Singhbhum in Jharkhand",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.ferrous",
+   "subject": "The Durg-Bastar-Durgapur belt",
+   "attribute": "found in",
+   "value": "Bailadila in Chhattisgarh",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.ferrous",
+   "subject": "The Bellary-Chitradurga-Chikkamagaluru-Tumakuru belt",
+   "attribute": "found in",
+   "value": "Kudremukh in Karnataka",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.ferrous",
+   "subject": "The Maharashtra-Goa belt",
+   "attribute": "found in",
+   "value": "Ratnagiri in Maharashtra and Goa",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.ferrous",
+   "subject": "Manganese ore",
+   "attribute": "found in",
+   "value": "Odisha, Karnataka, Madhya Pradesh, Maharashtra and Goa",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.ferrous",
+   "subject": "Coal",
+   "attribute": "found in",
+   "value": "The Damodar valley, Jharia, Raniganj and Bokaro",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Neyveli lignite mines",
+   "attribute": "located in",
+   "value": "Tamil Nadu",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "The Jharia and Raniganj coalfields",
+   "attribute": "located in",
+   "value": "Jharkhand and West Bengal",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "The Mumbai High field",
+   "attribute": "located in",
+   "value": "Offshore Maharashtra",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "The Digboi oilfield",
+   "attribute": "located in",
+   "value": "Assam",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "The Ankleshwar oilfield",
+   "attribute": "located in",
+   "value": "Gujarat, in the Bharuch district",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "The Cambay basin",
+   "attribute": "located in",
+   "value": "Gujarat, onshore and offshore",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Kalpakkam atomic power station",
+   "attribute": "located in",
+   "value": "Tamil Nadu, on the Coromandel coast",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Narora atomic power station",
+   "attribute": "located in",
+   "value": "Uttar Pradesh",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Tarapur atomic power station",
+   "attribute": "located in",
+   "value": "Maharashtra",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Rawatbhata atomic power station",
+   "attribute": "located in",
+   "value": "Rajasthan",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Kakrapar atomic power station",
+   "attribute": "located in",
+   "value": "Gujarat, on the Tapti river",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Geothermal energy projects",
+   "attribute": "located in",
+   "value": "Manikaran in Himachal Pradesh and the Puga Valley in Ladakh",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Wind energy farms",
+   "attribute": "located in",
+   "value": "Tamil Nadu, Gujarat, Rajasthan and Maharashtra",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "The largest solar power plant",
+   "attribute": "located in",
+   "value": "Bhadla in Rajasthan",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Natural gas fields",
+   "attribute": "located in",
+   "value": "Krishna-Godavari basin and Tripura",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Solar energy",
+   "attribute": "produced by",
+   "value": "Photovoltaic technology converting sunlight directly into electricity",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Wind energy",
+   "attribute": "produced by",
+   "value": "Turbines driven by moving air",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Biogas",
+   "attribute": "produced by",
+   "value": "Decomposition of plant and animal waste, more efficient than gobar gas",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Tidal energy",
+   "attribute": "produced by",
+   "value": "Floodgates built across inlets to trap the tide",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Geothermal energy",
+   "attribute": "produced by",
+   "value": "Steam from hot springs and underground reservoirs",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Nuclear energy",
+   "attribute": "produced by",
+   "value": "Fission of uranium and thorium",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Hydroelectricity",
+   "attribute": "produced by",
+   "value": "Falling water turning turbines in a dam",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Non-conventional sources",
+   "attribute": "advantage of",
+   "value": "Renewable, pollution-free and locally available",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Biogas in rural areas",
+   "attribute": "advantage of",
+   "value": "Uses waste, improves soil quality and reduces fuelwood demand",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Solar power in Rajasthan",
+   "attribute": "advantage of",
+   "value": "High solar radiation and available barren land",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Wind power in Tamil Nadu",
+   "attribute": "advantage of",
+   "value": "Consistent coastal winds and existing grid access",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Nuclear power",
+   "attribute": "advantage of",
+   "value": "Very high energy output from a small fuel mass",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.energy",
+   "subject": "Small hydro projects",
+   "attribute": "advantage of",
+   "value": "Low environmental impact compared with large dams",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Minerals, being non-renewable",
+   "attribute": "conserved by",
+   "value": "Improved technology to use low-grade ores at low cost",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Iron ore reserves",
+   "attribute": "conserved by",
+   "value": "Recycling of scrap metal",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Fossil fuels",
+   "attribute": "conserved by",
+   "value": "A shift to non-conventional sources",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Mining areas",
+   "attribute": "conserved by",
+   "value": "Planned and sustainable use, and reclamation of mined land",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Mica and limestone",
+   "attribute": "conserved by",
+   "value": "Reducing waste during extraction and processing",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-minerals",
+   "topic": "ss-geo-minerals.minerals",
+   "subject": "Energy generally",
+   "attribute": "conserved by",
+   "value": "Efficient use and conservation habits",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "Manufacturing to India's GDP",
+   "attribute": "contribution of",
+   "value": "About 17 per cent",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "Industry as a whole, with mining, electricity and gas",
+   "attribute": "contribution of",
+   "value": "About 27 per cent of GDP",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "Agriculture to GDP",
+   "attribute": "contribution of",
+   "value": "The largest single share of national income",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "Employment in manufacturing",
+   "attribute": "contribution of",
+   "value": "Second only to agriculture",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "Foreign exchange from manufacturing",
+   "attribute": "contribution of",
+   "value": "Exports of finished goods",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "Regional development from industry",
+   "attribute": "contribution of",
+   "value": "Removal of regional disparities",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "Agriculture and industry",
+   "attribute": "significance of",
+   "value": "They are not exclusive of each other but move together",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "Agro-industries",
+   "attribute": "significance of",
+   "value": "Boosting agricultural productivity through demand",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "Industry's role in agriculture",
+   "attribute": "significance of",
+   "value": "Providing irrigation pumps, fertilisers and machinery",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "Manufacturing's role in exports",
+   "attribute": "significance of",
+   "value": "Expanding trade and bringing in foreign exchange",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "Industrialisation's role in employment",
+   "attribute": "significance of",
+   "value": "Diversifying income away from agriculture alone",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "National Industrial Policy",
+   "attribute": "significance of",
+   "value": "Removing constraints on growth",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "The cotton textile industry",
+   "attribute": "located in",
+   "value": "Mumbai, Ahmedabad and the Chhota Nagpur belt",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "The jute textile industry",
+   "attribute": "located in",
+   "value": "The Hooghly basin in West Bengal",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "The sugar industry",
+   "attribute": "located in",
+   "value": "Uttar Pradesh, Maharashtra and Karnataka",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "Tea processing",
+   "attribute": "located in",
+   "value": "Assam, Darjeeling and the Nilgiris",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "The vegetable oil industry",
+   "attribute": "located in",
+   "value": "Gujarat and Rajasthan",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "The silk industry",
+   "attribute": "located in",
+   "value": "Karnataka and Assam",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "The rubber industry",
+   "attribute": "located in",
+   "value": "Kerala and Tamil Nadu",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "Jute mills clustering in the Hooghly basin",
+   "attribute": "explained by",
+   "value": "Proximity to jute areas, cheap water transport and abundant water",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "The sugar industry shifting south and west",
+   "attribute": "explained by",
+   "value": "Cane there has higher sucrose content and a longer crushing season",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "Cotton mills closing in cities",
+   "attribute": "explained by",
+   "value": "Competition from synthetics and power cuts",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "The handloom sector surviving",
+   "attribute": "explained by",
+   "value": "Demand for specialised and traditional cloth",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "Khadi and village industries",
+   "attribute": "explained by",
+   "value": "Employment and low capital requirement",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "Aluminium smelting near power sources",
+   "attribute": "explained by",
+   "value": "Very high electricity requirement",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "An industry based on raw material from agriculture",
+   "attribute": "classified as",
+   "value": "Agro-based industry",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "An industry based on minerals",
+   "attribute": "classified as",
+   "value": "Mineral-based industry",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "An industry whose products feed other industries",
+   "attribute": "classified as",
+   "value": "Basic or key industry",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "An industry not tied to a raw material location",
+   "attribute": "classified as",
+   "value": "Footloose industry",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "An industry owned and run by the government",
+   "attribute": "classified as",
+   "value": "Public sector industry",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "An industry owned by individuals or a group",
+   "attribute": "classified as",
+   "value": "Private sector industry",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "An industry owned jointly by the state and individuals",
+   "attribute": "classified as",
+   "value": "Joint sector industry",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.importance",
+   "subject": "An industry run by suppliers of raw material or producers",
+   "attribute": "classified as",
+   "value": "Cooperative sector industry",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Air pollution",
+   "attribute": "caused by",
+   "value": "Smoke from factories, brick kilns, refineries and smelting plants",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Water pollution",
+   "attribute": "caused by",
+   "value": "Organic and inorganic industrial waste discharged into rivers",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Thermal pollution",
+   "attribute": "caused by",
+   "value": "Hot water from plants and factories released into rivers and ponds",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Land and soil pollution",
+   "attribute": "caused by",
+   "value": "Dumping of solid waste such as glass and chemical effluent",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Noise pollution",
+   "attribute": "caused by",
+   "value": "Industrial machinery and construction causing hearing impairment",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Air pollution from industry",
+   "attribute": "controlled by",
+   "value": "Particulate control, gas treatment and oil in place of coal",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Water pollution from industry",
+   "attribute": "controlled by",
+   "value": "Treating effluent in primary, secondary and tertiary stages",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Water demand of industry",
+   "attribute": "controlled by",
+   "value": "Rainwater harvesting and recycling process water",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Energy use",
+   "attribute": "controlled by",
+   "value": "More efficient equipment and better housekeeping",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Noise",
+   "attribute": "controlled by",
+   "value": "Silencers, acoustic insulation and protective gear",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Road density",
+   "attribute": "measured by",
+   "value": "The length of road per 100 square kilometres of area",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "National highways",
+   "attribute": "measured by",
+   "value": "Linking major cities, maintained by the central public works department",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "State highways",
+   "attribute": "measured by",
+   "value": "Linking a state capital to district headquarters",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "District roads",
+   "attribute": "measured by",
+   "value": "Linking a district headquarters to other places, maintained by the Zilla Parishad",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Rural roads",
+   "attribute": "measured by",
+   "value": "Linking villages to towns, built under the Pradhan Mantri Grameen Sadak Yojana",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Border roads",
+   "attribute": "measured by",
+   "value": "Strategic roads in border areas, built by the Border Roads Organisation",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Railways",
+   "attribute": "known for",
+   "value": "The principal mode of freight and passenger transport over long distances",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Pipelines",
+   "attribute": "known for",
+   "value": "Transport of crude oil, petroleum products and natural gas",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Waterways",
+   "attribute": "known for",
+   "value": "The cheapest mode, best suited to heavy and bulky goods",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Airways",
+   "attribute": "known for",
+   "value": "The fastest, most comfortable and prestigious mode",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Helicopter services of Pawan Hans",
+   "attribute": "known for",
+   "value": "Offshore operations and difficult terrain",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "National Waterway 1",
+   "attribute": "known for",
+   "value": "The Ganga between Allahabad and Haldia, about 1620 km",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "National Waterway 2",
+   "attribute": "known for",
+   "value": "The Brahmaputra between Sadiya and Dhubri, about 891 km",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "National Waterway 3",
+   "attribute": "known for",
+   "value": "The West Coast Canal between Kottapuram and Kollam, about 205 km",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Ropeways and cableways",
+   "attribute": "known for",
+   "value": "Movement in hilly and inaccessible terrain",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Kolkata port",
+   "attribute": "located at",
+   "value": "A tidal riverine port on the Hooghly",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Mumbai port",
+   "attribute": "located at",
+   "value": "The largest port, with a spacious natural and well-sheltered harbour",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Jawaharlal Nehru port",
+   "attribute": "located at",
+   "value": "The largest container port, developed as a hub for Mumbai",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Vishakhapatnam port",
+   "attribute": "located at",
+   "value": "The deepest landlocked and best-protected port on the east coast",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Kochi port",
+   "attribute": "located at",
+   "value": "A natural harbour serving south-western India",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Chennai port",
+   "attribute": "located at",
+   "value": "The oldest artificial port on the east coast",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Kandla port in Kachchh",
+   "attribute": "located at",
+   "value": "The first port developed after Independence, a tidal port",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Paradip port",
+   "attribute": "located at",
+   "value": "Odisha, mainly exporting iron ore",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Haldia port",
+   "attribute": "located at",
+   "value": "A subsidiary port relieving congestion at Kolkata",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Marmagao port",
+   "attribute": "located at",
+   "value": "Goa, the premier iron ore exporting port",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "New Mangalore port",
+   "attribute": "located at",
+   "value": "Karnataka, exporting Kudremukh iron ore",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.transport",
+   "subject": "Thoothukudi port",
+   "attribute": "located at",
+   "value": "Tamil Nadu, at the south-eastern tip of the peninsula",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.pipelines",
+   "subject": "The Hazira-Vijaipur-Jagdishpur gas pipeline",
+   "attribute": "connects",
+   "value": "Hazira in Gujarat to Vijaipur in Madhya Pradesh and Jagdishpur in Uttar Pradesh",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.pipelines",
+   "subject": "The Salaya-Mathura pipeline",
+   "attribute": "connects",
+   "value": "Gujarat to refineries in Punjab, via Mathura and Delhi",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.pipelines",
+   "subject": "The Mumbai High pipeline",
+   "attribute": "connects",
+   "value": "Offshore fields to the mainland",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.pipelines",
+   "subject": "The Assam-Kanpur pipeline",
+   "attribute": "connects",
+   "value": "Upper Assam oilfields to Kanpur, via Guwahati, Barauni and Allahabad",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.pipelines",
+   "subject": "Slurry pipelines",
+   "attribute": "connects",
+   "value": "Transporting solid material as a slurry",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "Trade",
+   "attribute": "meaning of",
+   "value": "The exchange of goods among people, states and countries",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "International trade",
+   "attribute": "meaning of",
+   "value": "Trade between two or more countries",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "Balance of trade",
+   "attribute": "meaning of",
+   "value": "The difference between a country's exports and imports",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "A favourable balance of trade",
+   "attribute": "meaning of",
+   "value": "Exports exceeding imports",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "An unfavourable balance of trade",
+   "attribute": "meaning of",
+   "value": "Imports exceeding imports",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "Invisible trade",
+   "attribute": "meaning of",
+   "value": "Trade in services, of which tourism is a large part",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "Tourism as a trade",
+   "attribute": "meaning of",
+   "value": "A major earner of foreign exchange and employment",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "Tourism in India",
+   "attribute": "supports",
+   "value": "Foreign exchange earnings and millions of jobs",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "Air travel in the north-east",
+   "attribute": "supports",
+   "value": "Difficult terrain where surface transport is limited",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "Special provisions for the north-eastern states",
+   "attribute": "supports",
+   "value": "Concessional fares to promote connectivity",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "The Indian railway network",
+   "attribute": "supports",
+   "value": "Movement of goods across the country",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "Pipelines",
+   "attribute": "supports",
+   "value": "Continuous supply of oil and gas to refineries and fertiliser plants",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-lifelines",
+   "topic": "ss-geo-lifelines.trade",
+   "subject": "Coastal shipping",
+   "attribute": "supports",
+   "value": "Cheap movement of bulk cargo between ports",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "A species not found even after searching the areas where it was known to exist",
+   "attribute": "term for",
+   "value": "Extinct species",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "A species in danger of extinction, with too few individuals left to recover",
+   "attribute": "term for",
+   "value": "Endangered species",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "A species whose population has fallen enough that it may soon become endangered",
+   "attribute": "term for",
+   "value": "Vulnerable species",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "A species with a small population that may become endangered or vulnerable",
+   "attribute": "term for",
+   "value": "Rare species",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "A species found only in particular isolated areas",
+   "attribute": "term for",
+   "value": "Endemic species",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.categories",
+   "subject": "A species whose population is not currently at risk",
+   "attribute": "term for",
+   "value": "Normal species",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "The Chipko movement",
+   "attribute": "known for",
+   "value": "Hugging trees to stop commercial felling in the Garhwal Himalayas",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "The Beej Bachao Andolan",
+   "attribute": "known for",
+   "value": "Campaigning to preserve traditional seed varieties",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "The Navdanya movement",
+   "attribute": "known for",
+   "value": "Protecting native seeds and encouraging farmers to use them",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "Joint forest management",
+   "attribute": "known for",
+   "value": "Villagers protecting degraded forest land for a share of its produce",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "The tradition of sacred groves",
+   "attribute": "known for",
+   "value": "Communities preserving patches of forest as part of worship",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-forest",
+   "topic": "ss-geo-forest.movements",
+   "subject": "The Appiko movement",
+   "attribute": "known for",
+   "value": "Extending the tree-hugging method into Karnataka's forests",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Air pollution from industry",
+   "attribute": "caused by",
+   "value": "Burning of fuel and the release of smoke and gases into the air",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Thermal pollution of water bodies",
+   "attribute": "caused by",
+   "value": "Release of heated water from plants into rivers and ponds",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Noise pollution around industrial areas",
+   "attribute": "caused by",
+   "value": "Machinery, generators and hammering inside industrial units",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.pollution",
+   "subject": "Land degradation near industrial sites",
+   "attribute": "caused by",
+   "value": "Dumping of solid waste and chemicals on open ground",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "An agro-based industry",
+   "attribute": "example of",
+   "value": "A cotton textile mill working on raw cotton from farms",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "A mineral-based industry",
+   "attribute": "example of",
+   "value": "An iron and steel plant working on iron ore and coking coal",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "A cooperative sector industry",
+   "attribute": "example of",
+   "value": "A sugar mill owned by the cane growers who supply it",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "A public sector industry",
+   "attribute": "example of",
+   "value": "A steel plant owned and managed by the government",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "A joint sector industry",
+   "attribute": "example of",
+   "value": "An undertaking owned together by the state and private investors",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-geo-industries",
+   "topic": "ss-geo-industries.agro-based",
+   "subject": "A private sector industry",
+   "attribute": "example of",
+   "value": "A unit owned and run by an individual or a company",
+   "difficulty": "easy"
+  }
+ ]
+}

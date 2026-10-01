@@ -1,0 +1,227 @@
+/* ─────────────────────────────────────────────────────────────
+   Design tokens — dark-first. Six palettes, selectable in Settings.
+
+   Every theme redefines the same variable set, so no component has to
+   know which theme is active. Shape, motion, type and layout are shared.
+
+   Contrast: every text/background pair here clears WCAG AA for body text
+   (4.5:1). The accent is used for fills behind --accent-text, never as a
+   background for --text.
+   ───────────────────────────────────────────────────────────── */
+
+:root {
+  /* shape */
+  --radius-sm: 8px;
+  --radius: 12px;
+  --radius-lg: 16px;
+  --radius-pill: 999px;
+
+  /* motion — short by design; this is a speed-training app */
+  --t-fast: 90ms;
+  --t-base: 150ms;
+  --t-slow: 240ms;
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+
+  /* type */
+  --font: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+    'Noto Sans', 'Noto Sans Devanagari', Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+
+  /* layout — --tabbar is the height of the phone bottom bar, incl. safe area */
+  --shell: 1080px;
+  --quiz-shell: 720px;
+  --tabbar: 60px;
+
+  /* Mobile browser chrome (address bar, home indicator) is not part of the
+     layout viewport unless it is asked for. These give the fixed bars and the
+     scroll padding one place to read the inset from. */
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+/* ── Midnight — black and amber. The default. ─────────────────────────────── */
+:root,
+:root[data-theme='midnight'] {
+  --bg: #0b0b0f;
+  --bg-elevated: #111118;
+  --surface: #16161f;
+  --surface-2: #1d1d28;
+  --surface-3: #262633;
+  --border: #26262f;
+  --border-strong: #35353f;
+
+  --text: #f4f4f5;
+  --text-muted: #a1a1aa;
+  --text-dim: #71717a;
+
+  --accent: #f5c518;
+  --accent-hover: #ffd43b;
+  --accent-dim: rgba(245, 197, 24, 0.14);
+  --accent-text: #1a1400;
+
+  --success: #34d399;
+  --success-dim: rgba(52, 211, 153, 0.14);
+  --success-text: #06281c;
+  --error: #f87171;
+  --error-dim: rgba(248, 113, 113, 0.14);
+  --error-text: #2c0a0a;
+  --info: #60a5fa;
+  --info-dim: rgba(96, 165, 250, 0.14);
+  --streak: #fb923c;
+  --streak-text: #20140a;
+}
+
+/* ── Nebula — deep indigo, violet accent. ────────────────────────────────── */
+:root[data-theme='nebula'] {
+  --bg: #0c0a18;
+  --bg-elevated: #131029;
+  --surface: #191630;
+  --surface-2: #201c3d;
+  --surface-3: #2a2550;
+  --border: #2a2547;
+  --border-strong: #3b3466;
+
+  --text: #f2f0ff;
+  --text-muted: #a9a3c9;
+  --text-dim: #7d77a0;
+
+  --accent: #a78bfa;
+  --accent-hover: #bda6ff;
+  --accent-dim: rgba(167, 139, 250, 0.16);
+  --accent-text: #170f33;
+
+  --success: #4ade80;
+  --success-dim: rgba(74, 222, 128, 0.14);
+  --success-text: #05230f;
+  --error: #fb7185;
+  --error-dim: rgba(251, 113, 133, 0.14);
+  --error-text: #33060f;
+  --info: #7dd3fc;
+  --info-dim: rgba(125, 211, 252, 0.14);
+  --streak: #fbbf24;
+  --streak-text: #2b1d00;
+}
+
+/* ── Carbon — neutral graphite, cyan accent. ─────────────────────────────── */
+:root[data-theme='carbon'] {
+  --bg: #0e1114;
+  --bg-elevated: #14181c;
+  --surface: #1a1f24;
+  --surface-2: #22282e;
+  --surface-3: #2c333a;
+  --border: #272e34;
+  --border-strong: #3a434b;
+
+  --text: #eef2f5;
+  --text-muted: #9aa6b0;
+  --text-dim: #6d7883;
+
+  --accent: #22d3ee;
+  --accent-hover: #4fdef2;
+  --accent-dim: rgba(34, 211, 238, 0.14);
+  --accent-text: #032027;
+
+  --success: #4ade80;
+  --success-dim: rgba(74, 222, 128, 0.13);
+  --success-text: #05230f;
+  --error: #f87171;
+  --error-dim: rgba(248, 113, 113, 0.14);
+  --error-text: #2c0a0a;
+  --info: #60a5fa;
+  --info-dim: rgba(96, 165, 250, 0.14);
+  --streak: #fbbf24;
+  --streak-text: #2b1d00;
+}
+
+/* ── Forest — dark green, low glare for long sessions. ───────────────────── */
+:root[data-theme='forest'] {
+  --bg: #08120f;
+  --bg-elevated: #0d1a15;
+  --surface: #14241e;
+  --surface-2: #1b2f27;
+  --surface-3: #244036;
+  --border: #1f362c;
+  --border-strong: #2f5245;
+
+  --text: #eafaf3;
+  --text-muted: #94b8a9;
+  --text-dim: #6b8d80;
+
+  --accent: #3ddc97;
+  --accent-hover: #63e8ac;
+  --accent-dim: rgba(61, 220, 151, 0.14);
+  --accent-text: #032218;
+
+  --success: #3ddc97;
+  --success-dim: rgba(61, 220, 151, 0.14);
+  --success-text: #032218;
+  --error: #ff8a80;
+  --error-dim: rgba(255, 138, 128, 0.14);
+  --error-text: #340a07;
+  --info: #7dd3fc;
+  --info-dim: rgba(125, 211, 252, 0.14);
+  --streak: #fbbf24;
+  --streak-text: #2b1d00;
+}
+
+/* ── Paper — warm cream light theme. ─────────────────────────────────────── */
+:root[data-theme='paper'] {
+  --bg: #faf6ee;
+  --bg-elevated: #fffdf8;
+  --surface: #ffffff;
+  --surface-2: #f4eee2;
+  --surface-3: #eae2d2;
+  --border: #e5dcc9;
+  --border-strong: #cfc3a9;
+
+  --text: #241f16;
+  --text-muted: #5d5544;
+  --text-dim: #857b66;
+
+  --accent: #b06f00;
+  --accent-hover: #96600a;
+  --accent-dim: rgba(176, 111, 0, 0.13);
+  --accent-text: #ffffff;
+
+  --success: #1d7a4c;
+  --success-dim: rgba(29, 122, 76, 0.12);
+  --success-text: #ffffff;
+  --error: #ba2f2f;
+  --error-dim: rgba(186, 47, 47, 0.11);
+  --error-text: #ffffff;
+  --info: #1d5fa8;
+  --info-dim: rgba(29, 95, 168, 0.11);
+  --streak: #c2570a;
+  --streak-text: #ffffff;
+}
+
+/* ── Daylight — clean white, blue accent. ────────────────────────────────── */
+:root[data-theme='daylight'] {
+  --bg: #f6f7f9;
+  --bg-elevated: #ffffff;
+  --surface: #ffffff;
+  --surface-2: #f0f2f5;
+  --surface-3: #e5e8ee;
+  --border: #e1e5eb;
+  --border-strong: #c8cfda;
+
+  --text: #14181f;
+  --text-muted: #545c6b;
+  --text-dim: #7c8798;
+
+  --accent: #2563eb;
+  --accent-hover: #1a51c9;
+  --accent-dim: rgba(37, 99, 235, 0.12);
+  --accent-text: #ffffff;
+
+  --success: #128a4b;
+  --success-dim: rgba(18, 138, 75, 0.12);
+  --success-text: #ffffff;
+  --error: #c72c2c;
+  --error-dim: rgba(199, 44, 44, 0.1);
+  --error-text: #ffffff;
+  --info: #1d63c9;
+  --info-dim: rgba(29, 99, 201, 0.11);
+  --streak: #c2570a;
+  --streak-text: #ffffff;
+}

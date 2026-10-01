@@ -1,0 +1,1485 @@
+"""Write the competency-based Social Science items.
+
+Usage:  python3 scripts/author_sst_competency.py
+Writes: content/competency/sst.json
+
+Social Science is where source-based and case-based items matter most, since a
+large share of the CBSE paper is built from them. The bank so far held facts and
+definitions only: it could ask what year the Rowlatt Act was passed, and not what
+a student should conclude from a table of crop yields or from a passage about a
+gram panchayat.
+
+Eleven passages are written here, plus 32 assertion-reason pairs and 30
+application items. Every passage is original prose composed for this bank - none
+is an extract from a textbook, and none is a paraphrase of one. Where a passage
+carries figures they are the ones the NCERT text states: the Belgian and Sri
+Lankan population shares, the Indian sex ratio, the share of the tertiary sector
+in India's output, and the composition of iron ore belts.
+
+The reasoning items are deliberately built around distinctions students actually
+lose marks on: a federal feature against a unitary one, a formal source of credit
+against an informal one, a legal right on paper against a right a person can
+actually use, and correlation mistaken for cause in an economic table.
+"""
+
+from __future__ import annotations
+
+import json
+import sys
+from pathlib import Path
+
+BACKEND = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(BACKEND))
+
+OUT = BACKEND / "content" / "competency" / "sst.json"
+
+SOURCE_REF = (
+    "Original competency-based items written for the CBSE/NCERT Class 10 Social "
+    "Science (2025-26) syllabus. Passages, tables and situations are composed here; "
+    "no question and no extract is reproduced from a textbook, guide or question "
+    "bank."
+)
+
+
+def ar(chapter: str, topic: str, assertion: str, reason: str, verdict: str,
+       explanation: str, difficulty: str = "medium", competency: str = "analysis") -> dict:
+    return {
+        "kind": "assertion_reason",
+        "chapter": chapter,
+        "topic": topic,
+        "assertion": assertion,
+        "reason": reason,
+        "verdict": verdict,
+        "explanation": explanation,
+        "difficulty": difficulty,
+        "competency": competency,
+    }
+
+
+def case(chapter: str, topic: str, stem: str, questions: list[dict],
+         competency: str = "analysis", fmt: str = "source_based") -> dict:
+    for q in questions:
+        q.setdefault("chapter", chapter)
+        q.setdefault("topic", topic)
+        q.setdefault("competency", competency)
+    return {"kind": "case_study", "chapter": chapter, "topic": topic,
+            "stem": stem, "format": fmt, "questions": questions}
+
+
+def app(chapter: str, topic: str, prompt: str, options: list[str], answer: int,
+        explanation: str, difficulty: str = "medium",
+        competency: str = "application") -> dict:
+    return {
+        "kind": "competency",
+        "format": "application",
+        "chapter": chapter,
+        "topic": topic,
+        "prompt": prompt,
+        "options": options,
+        "answer": answer,
+        "explanation": explanation,
+        "difficulty": difficulty,
+        "competency": competency,
+    }
+
+
+# ══════════════════════════════════════════════════════════════════════
+# Assertion and Reason
+# ══════════════════════════════════════════════════════════════════════
+
+ASSERTION_REASON = [
+    # ── History ──────────────────────────────────────────────────────
+    ar("ss-hist-nationalism-europe", "ss-hist-nationalism-europe.french-rev",
+       "The French Revolution of 1789 is often treated as the beginning of nationalism in Europe.",
+       "It gave the people of France a sense of a shared identity and transferred sovereignty from the monarchy to the body of citizens.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: measures such as the tricolour, a "
+       "centralised system of administration and the abolition of internal customs created the idea "
+       "of a single French people who were the source of political authority."),
+
+    ar("ss-hist-nationalism-europe", "ss-hist-nationalism-europe.liberalism",
+       "Nineteenth century liberals in Europe demanded the end of restrictions on the movement of goods across regions.",
+       "Liberalism stood for freedom of the individual and equality before the law, and economic freedom was part of that programme.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: a liberal believed that a free market "
+       "and a single economic space would allow enterprise to flourish, which is why customs "
+       "barriers within a country were attacked as a survival of privilege."),
+
+    ar("ss-hist-nationalism-europe", "ss-hist-nationalism-europe.liberalism",
+       "The Zollverein is regarded as an economic step towards German unification.",
+       "It abolished tariff barriers between the German states and created a single economic market.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: removing internal customs duties "
+       "bound the states together commercially long before they were joined politically, and the "
+       "railways then carried that integration further."),
+
+    ar("ss-hist-nationalism-europe", "ss-hist-nationalism-europe.romanticism",
+       "Nationalist feelings in Europe were often expressed through folk songs, poetry and language.",
+       "Romantic writers believed that a nation's true spirit lay in its common people and their unwritten traditions.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: by collecting ballads and folk tales, "
+       "writers such as Herder and the Brothers Grimm gave people a shared cultural past to identify "
+       "with, which is what carried a national feeling where politics had not yet reached."),
+
+    ar("ss-hist-nationalism-india", "ss-hist-nationalism-india.non-cooperation",
+       "Gandhiji called off the Non-Cooperation Movement in 1922.",
+       "The movement was turning violent in places, the most serious instance being the attack on a police station at Chauri Chaura.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: Gandhiji held that a movement founded "
+       "on non-violence could not continue once its participants turned to violence, and he preferred "
+       "to stop it rather than let it lose that character."),
+
+    ar("ss-hist-nationalism-india", "ss-hist-nationalism-india.civil-disobedience",
+       "The Congress decided to celebrate 26 January 1930 as Independence Day.",
+       "The demand for complete independence had been adopted at the Lahore session of the Congress in December 1929.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: the Lahore session declared Purna Swaraj "
+       "as the goal and fixed 26 January as the day on which independence would be pledged, which is "
+       "why that date later became the date of the Constitution's adoption."),
+
+    ar("ss-hist-nationalism-india", "ss-hist-nationalism-india.salt-march",
+       "The Dandi march was chosen to begin the Civil Disobedience Movement.",
+       "Salt was a commodity used in every household, and the government held a monopoly over its manufacture and sale.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: because salt was needed by rich and "
+       "poor alike, an attack on the salt tax could bring together every section of Indian society, "
+       "which is what a movement beginning on a narrow demand could not have done."),
+
+    ar("ss-hist-nationalism-india", "ss-hist-nationalism-india.pacts",
+       "The Poona Pact of 1932 changed the arrangement for representation of the depressed classes.",
+       "It replaced separate electorates with reserved seats within the general electorate.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: Gandhiji had opposed separate "
+       "electorates on the ground that they would divide Hindu society permanently, and the Pact "
+       "settled on reserved seats instead, which Ambedkar accepted."),
+
+    ar("ss-hist-global-world", "ss-hist-global-world.colonialism",
+       "Rinderpest had a lasting effect on the economy of Africa in the 1890s.",
+       "The cattle plague killed a very large proportion of the herds on which African livelihoods depended.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: losing the cattle destroyed the "
+       "pastoralists' independent means of living, and it made them dependent on wage labour in "
+       "white-owned mines and plantations, which is what the colonial economy needed."),
+
+    ar("ss-hist-global-world", "ss-hist-global-world.great-depression",
+       "The Great Depression affected Indian farmers although they were not part of the American economy.",
+       "Agricultural prices in India fell by about half between 1928 and 1934, while the revenue demands on cultivators were not reduced.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: the world economy was linked through "
+       "trade, and when prices collapsed Indian peasants had to sell more to pay the same revenue, "
+       "which drove many into debt and lost them their land."),
+
+    ar("ss-hist-industrialisation", "ss-hist-industrialisation.before-factories",
+       "Merchants in Europe moved production out of the towns and into the countryside.",
+       "Powerful craft guilds in the towns held monopolies and controlled prices, wages and the entry of new producers.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: a merchant who could not set up inside "
+       "a town went to the villages, where he supplied raw material and paid peasants and artisans "
+       "for each stage of the work."),
+
+    ar("ss-hist-industrialisation", "ss-hist-industrialisation.india-textiles",
+       "Indian handloom weavers declined during the nineteenth century.",
+       "Machine-made cloth from Britain was cheaper and the weavers could not get raw cotton at a fair price.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: imported cloth took their market away "
+       "while a shortage of raw cotton made what they did produce dearer, so their earnings fell "
+       "and many turned to agricultural labour."),
+
+    ar("ss-hist-industrialisation", "ss-hist-industrialisation.factories",
+       "Early factories in Britain did not immediately replace hand production.",
+       "Even in the mid-nineteenth century, a large share of the total output still came from handlooms and small workshops.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: the steam engine and the new machines "
+       "spread slowly and unequally, so for decades the factory and the workshop produced side by "
+       "side, which is why historians speak of a long transition rather than a sudden break."),
+
+    ar("ss-hist-print-culture", "ss-hist-print-culture.print-india",
+       "The spread of print in India was watched with suspicion by the colonial government.",
+       "Printed newspapers and pamphlets allowed nationalist ideas to reach a very wide readership.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: print made it possible to criticise "
+       "official policy in a language many could read and to organise opinion across regions, which "
+       "is why the government brought in the Vernacular Press Act in 1878 to control it."),
+
+    ar("ss-hist-print-culture", "ss-hist-print-culture.gutenberg",
+       "Gutenberg's printing press made books more widely available in Europe.",
+       "The press could produce many identical copies of a page quickly, which reduced the cost of each copy.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: before mechanical printing a book had "
+       "to be copied by hand one at a time, so a single copy cost as much as many printed copies "
+       "would later."),
+
+    # ── Geography ────────────────────────────────────────────────────
+    ar("ss-geo-resources", "ss-geo-resources.types",
+       "Renewable resources need not be used carefully.",
+       "Renewable resources are those which can be renewed or reproduced by physical, chemical or mechanical processes.",
+       "a_false_r_true",
+       "The reason is a correct definition, and it is precisely why the assertion is wrong. Being "
+       "renewable says only that a resource can be replenished, not that it can be replaced quickly: "
+       "groundwater is renewable but its depletion is a serious problem, and forests take decades to "
+       "regrow."),
+
+    ar("ss-geo-resources", "ss-geo-resources.planning",
+       "Resource planning is essential in a country like India.",
+       "India has regions that differ greatly in the availability of resources and in the level of technology and human development.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: with such uneven distribution, unplanned "
+       "use would exhaust some resources in the richer regions while others stayed unexploited, so "
+       "planning is needed to balance development across the country."),
+
+    ar("ss-geo-resources", "ss-geo-resources.soil",
+       "Laterite soil is common in the Western Ghats and in parts of Odisha and Karnataka.",
+       "It forms in areas of heavy rainfall and high temperature where leaching removes the soluble material from the upper layer.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: intense leaching leaves a soil rich in "
+       "iron and aluminium and poor in nutrients, which is why it needs heavy manuring before it can "
+       "be used for most crops."),
+
+    ar("ss-geo-forest", "ss-geo-forest.conservation",
+       "Wildlife conservation in India uses categories such as biosphere reserves, national parks and wildlife sanctuaries.",
+       "Each category provides a different level of protection, ranging from total protection to protection of a particular species.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: a biosphere reserve protects a whole "
+       "region along with its people's livelihood, a national park protects an entire ecosystem, and "
+       "a sanctuary protects only the species named, so the categories are not interchangeable."),
+
+    ar("ss-geo-water", "ss-geo-water.scarcity",
+       "Building more dams and canals alone cannot solve the problem of water scarcity in many parts of India.",
+       "Water scarcity may arise from excessive use and from pollution of available water rather than only from an actual shortage of rainfall.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: where the scarcity comes from overuse "
+       "or from polluted sources, additional supply is used up or spoiled in the same way, so demand "
+       "management and control of pollution are also needed."),
+
+    ar("ss-geo-agriculture", "ss-geo-agriculture.cropping",
+       "Rabi crops are sown in winter and harvested in summer.",
+       "The cold season allows the crop to grow slowly while the rising temperature at the end of the season helps it mature.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: wheat, barley, peas and gram all depend "
+       "on the cooler part growing season, which is why they are sown from October onwards and cut "
+       "between April and June."),
+
+    ar("ss-geo-minerals", "ss-geo-minerals.energy",
+       "Lignite is described as a low grade coal.",
+       "It is brown in colour with a high moisture content and burns with less heat than bituminous or anthracite coal.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: because much of its weight is moisture "
+       "and other volatile matter, a tonne of lignite yields far less heat, which is why it is used "
+       "mainly where it is mined instead of being transported far."),
+
+    ar("ss-geo-industries", "ss-geo-industries.pollution",
+       "Industries must treat their effluents before releasing them.",
+       "Untreated industrial discharge into rivers and lakes harms aquatic life and the health of people who depend on that water.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: chemicals and heavy metals in the "
+       "discharge settle in the water and enter the food chain, so treating the effluent before "
+       "release is the only way to break that path."),
+
+    ar("ss-geo-lifelines", "ss-geo-lifelines.trade",
+       "India has a large network of pipelines to carry crude oil and petroleum products.",
+       "Pipelines are a cheaper and more reliable way to transport liquids and gases over long distances than roads or railways.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: once laid, a pipeline needs very little "
+       "running cost and its flow is unaffected by traffic, weather or a shortage of wagons, so the "
+       "saving grows with distance."),
+
+    # ── Civics ───────────────────────────────────────────────────────
+    ar("ss-civ-power-sharing", "ss-civ-power-sharing.forms",
+       "Power is shared among different organs of government as well as among different levels of government.",
+       "The first is called a horizontal division of power and the second a vertical division of power.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: organs such as the legislature, "
+       "executive and judiciary share power at one level, while the union, state and local "
+       "governments share it between levels, so the two divisions run in different directions."),
+
+    ar("ss-civ-federalism", "ss-civ-federalism.india",
+       "India is described as a holding together federation rather than a coming together federation.",
+       "The country already existed as a single political unit and the constitution divided its powers between a central authority and the constituent states.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: in a coming together federation "
+       "independent states pool their sovereignty to form a larger unit, whereas in India the union "
+       "government gave powers to the states, which is why the centre here is stronger."),
+
+    ar("ss-civ-federalism", "ss-civ-federalism.decentralisation",
+       "The 1992 constitutional amendment made local government bodies mandatory in India.",
+       "It provided for regular elections to these bodies and for a State Election Commission to conduct them.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: before the amendment, local bodies "
+       "existed at the discretion of state governments and were often not elected, and making "
+       "elections mandatory with an independent commission to hold them made the third tier a "
+       "permanent part of the system."),
+
+    ar("ss-civ-federalism", "ss-civ-federalism.features",
+       "In a federal system, the union government can order a state government to do something in any matter.",
+       "In a federation, powers are divided between levels and each level is constitutionally protected within its own sphere.",
+       "a_false_r_true",
+       "The reason is a correct statement of how federalism works, and it is exactly why the "
+       "assertion is false. A union government free to order a state about in any matter describes "
+       "a unitary system, not a federal one."),
+
+    ar("ss-civ-gender", "ss-civ-gender.religion",
+       "Communalism becomes a problem when religion is brought into politics as the basis of the nation.",
+       "Communal politics assumes that people who follow one religion share the same political interests and that those interests are opposed to the interests of others.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: once a religion is treated as a single "
+       "political bloc, elections become a contest between blocs and the ordinary disagreements "
+       "within each community are pushed aside."),
+
+    ar("ss-civ-gender", "ss-civ-gender.caste",
+       "No single caste or community can win an election on its own in India.",
+       "No parliamentary constituency has a clear majority of one single caste or community.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: because every candidate needs the votes "
+       "of more than one group, a party has to appeal beyond any one caste, and this is why the "
+       "politics of caste does not translate directly into the rule of one caste."),
+
+    ar("ss-civ-parties", "ss-civ-parties.types",
+       "A multi-party system can appear messy but has advantages.",
+       "It allows a wide range of interests and opinions to be represented in the legislature, and coalitions then put together a working majority.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: with a society as varied as India's, "
+       "an arrangement of two parties would leave many groups without a voice, so the coalition "
+       "that follows an election is the price of that wider representation."),
+
+    ar("ss-civ-parties", "ss-civ-parties.functions",
+       "Political parties face a problem of internal democracy.",
+       "Power in most parties is concentrated in a few top leaders and ordinary members have little say in decisions.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: where decisions, and especially "
+       "candidate selection, are taken by a small group with no recorded procedure, members who "
+       "disagree have no way to challenge them except to leave."),
+
+    ar("ss-civ-outcomes", "ss-civ-outcomes.accountable",
+       "A democratic government's decisions are slower than a dictator's.",
+       "Democracy requires discussion and negotiation among those who will be affected before a decision is taken.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: the delay is the cost of taking people "
+       "into confidence, and in return the decision is more acceptable and more likely to be carried "
+       "out, so the procedure pays for itself."),
+
+    # ── Economics ────────────────────────────────────────────────────
+    ar("ss-eco-development", "ss-eco-development.income",
+       "Two people may have different goals for development even if both want more income.",
+       "Development goals depend on a person's situation, so what is an improvement for one may be a loss for another.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: a landless labourer and a factory owner "
+       "may both want higher income, but if the factory expands over the labourer's field, the same "
+       "change serves one goal and destroys the other."),
+
+    ar("ss-eco-development", "ss-eco-development.indicators",
+       "Per capita income is widely used to compare countries but is not by itself a sufficient measure of development.",
+       "It says nothing about how income is distributed, or about health, education and the environment.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: two countries can have the same average "
+       "income while one has a large number of very poor people, so the average hides information "
+       "that matters for judging how people actually live."),
+
+    ar("ss-eco-sectors", "ss-eco-sectors.tertiary",
+       "The tertiary sector has become the largest contributor to India's gross domestic product.",
+       "Services such as trade, transport, banking, education and health have grown faster than agriculture and manufacturing.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: rising incomes create demand for "
+       "services, and activities that were once done at home are now bought, so the service sector's "
+       "share of output has risen above that of the other two."),
+
+    ar("ss-eco-sectors", "ss-eco-sectors.organised",
+       "Workers in the unorganised sector need protection.",
+       "Employment in this sector is irregular, low paid and outside the protection of labour laws, and jobs can be ended without notice.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: without a written contract, a fixed "
+       "wage or any provision for illness and retirement, a worker has no security at all, so the "
+       "law has to step in where the employer's own arrangement does not."),
+
+    ar("ss-eco-money", "ss-eco-money.money",
+       "Money removed the need for a double coincidence of wants.",
+       "Money acts as a medium of exchange, so a person can sell for money and later buy from someone else entirely.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: barter required both parties to want "
+       "exactly what the other had at the same time, and money breaks that condition by separating "
+       "the act of selling from the act of buying."),
+
+    ar("ss-eco-money", "ss-eco-money.credit",
+       "A loan from a moneylender usually costs a borrower more than a loan from a bank.",
+       "The terms of credit depend on the lender, and informal lenders charge higher interest and often require collateral or a share of the crop.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: an informal lender faces no supervision "
+       "and no ceiling on the rate he may charge, so the borrower who has nowhere else to go pays the "
+       "price of that freedom."),
+
+    ar("ss-eco-money", "ss-eco-money.shg",
+       "Self-help groups have helped many rural women obtain credit.",
+       "A group can save together and, after a period of regular saving, become eligible for a loan from a bank without offering collateral.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: a woman on her own could offer no "
+       "security a bank would accept, but as part of a group her record of repayment stands in the "
+       "place of collateral, which is how the group unlocks credit for all its members."),
+
+    ar("ss-eco-globalisation", "ss-eco-globalisation.factors",
+       "Globalisation has not benefited all people equally.",
+       "A large part of the population in developing countries is employed in the unorganised sector, where the gains of a more open market have not reached.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: the firms that gain from an open "
+       "market are usually those that can compete, while workers who cannot move to those firms stay "
+       "where wages are low and employment is insecure, so the benefits concentrate."),
+
+    ar("ss-eco-consumer", "ss-eco-consumer.rights",
+       "A consumer has the right to be informed about a product.",
+       "Manufacturers are required to display information such as the ingredients, the price, the batch number and the date of expiry.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: without that information a buyer "
+       "cannot compare products or judge whether something is safe, so the disclosure is what makes "
+       "the right usable rather than merely declared."),
+
+    ar("ss-eco-consumer", "ss-eco-consumer.redressal",
+       "The Consumer Protection Act of 1986 was an important step for consumers in India.",
+       "It recognised the rights of consumers and set up three-tier machinery for settling disputes at district, state and national level.",
+       "both_true_explains",
+       "Both are true and the reason explains the assertion: before it, an ordinary buyer had no "
+       "cheap and quick forum in which to complain, so a right that existed in principle could not "
+       "be enforced in practice."),
+]
+
+
+# ══════════════════════════════════════════════════════════════════════
+# Source-based and case-based passages
+# ══════════════════════════════════════════════════════════════════════
+
+CASE_STUDIES = [
+    case("ss-civ-power-sharing", "ss-civ-power-sharing.belgium-srilanka",
+         "Two small countries followed opposite paths in dealing with communities that spoke "
+         "different languages.\n\n"
+         "In the first, the Dutch-speaking community was the largest at 59 per cent of the "
+         "population, the French-speaking community was 40 per cent, and German speakers made up "
+         "about 1 per cent. In the capital, however, the position was reversed: 80 per cent of the "
+         "residents spoke French and only 20 per cent Dutch. Between 1970 and 1993 the country "
+         "amended its constitution four times so that each community would share power, and it "
+         "created a separate government for the capital in which both communities had equal "
+         "representation.\n\n"
+         "In the second country, the largest community was 74 per cent of the population and the "
+         "other was 18 per cent. In 1956 an Act recognised the language of the larger community as "
+         "the only official language, and the constitution gave preference to that community in "
+         "government service and in university admissions. The smaller community, which had once "
+         "been favoured under colonial rule, found its position worsened. By the 1980s a demand had "
+         "grown for a separate state, and a long civil war followed.",
+         [
+             {"prompt": "The arrangement made by the first country is best described as",
+              "options": ["An accommodation of communities through shared power at every level",
+                          "A decision to let the largest community govern on its own",
+                          "A refusal to recognise linguistic differences",
+                          "A division of the country into two independent states"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "Four constitutional amendments, equal representation in the capital "
+                             "government and a separate government for the capital add up to an "
+                             "accommodation. In Belgium no single community has been allowed to "
+                             "dominate, and the capital's arrangement ensures neither community is "
+                             "left out where its speakers are not the majority."},
+
+             {"prompt": "The step taken by the second country in 1956 shows",
+              "options": ["Majority rule being used in a way that excluded the smaller community",
+                          "An attempt to give every community an equal share of government service",
+                          "A decision to keep the colonial language as the official one",
+                          "A policy of encouraging both languages equally in universities"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "Recognising one language alone, and then preferring its speakers in "
+                             "jobs and admissions, converted a numerical majority into political "
+                             "dominance. The other community's position worsened, which is what "
+                             "later produced the demand for a separate state."},
+
+             {"prompt": "Which of the following best explains why the two countries ended differently?",
+              "options": ["The first recognised the claims of minorities, while the second treated the majority's preference as the national interest",
+                          "The first had more natural resources than the second",
+                          "The second had no history of conflict before 1956",
+                          "The first was larger in area and population"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "The comparison is about how each state handled its minorities. "
+                             "Recognising claims gave the first country stability; ignoring them "
+                             "gave the second a civil war. Resources, size and history are not the "
+                             "difference the passage points to."},
+
+             {"prompt": "The case of the capital shows that",
+              "options": ["A community may be the majority nationally and yet be a minority in a particular region",
+                          "Language is not an important identity in modern states",
+                          "National population shares decide the outcome in every local area",
+                          "Communities always live separately from one another"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "Dutch speakers were 59 per cent of the country but only 20 per cent of "
+                             "the capital. That single fact is why the capital received a government "
+                             "of its own with both communities equally represented, rather than "
+                             "being decided by the national majority."},
+
+             {"prompt": "The lesson most relevant to a country of many communities is that",
+              "options": ["The numerically largest group can rule without consulting others only at the cost of stability",
+                          "Every community should be given its own independent state",
+                          "Language should be kept entirely out of public policy",
+                          "A country should have a single official language for efficiency"],
+              "answer": 0, "difficulty": "hard",
+              "explanation": "The two cases are set side by side precisely to make this point: rule "
+                             "by one community alone produced conflict in one country and "
+                             "accommodation produced stability in the other. The passage does not "
+                             "argue for separate states or for a single language."},
+         ]),
+
+    case("ss-civ-federalism", "ss-civ-federalism.india",
+         "A state government wishes to begin a new subject in its schools and to set the fee it "
+         "will charge. At the same time the union government wishes to build a new port and to "
+         "regulate foreign trade passing through it.\n\n"
+         "The constitution of the country lists some subjects on which only the union may legislate, "
+         "some on which only the states may legislate, and some on which both may. Education is on "
+         "the third list, while foreign trade and ports are on the first. Powers not mentioned in "
+         "any list rest with the union. Where the two disagree on a subject on the shared list, the "
+         "union law prevails.",
+         [
+             {"prompt": "The three lists together show that this country is",
+              "options": ["A federation with a strong central authority",
+                          "A unitary state with no federal features",
+                          "A confederation of independent states",
+                          "A country where the states hold all the powers"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "Separate lists for union and state subjects, and a shared list, are "
+                             "federal features. But residuary powers going to the union and union law "
+                             "prevailing on the shared list both strengthen the centre, which is why "
+                             "it counts as a federation with a strong central authority."},
+
+             {"prompt": "The state's decision to begin a new subject in its schools is",
+              "options": ["Within its competence, but the union may also legislate on education",
+                          "Beyond its competence, since education is a union subject",
+                          "Beyond its competence, since residuary powers lie with the union",
+                          "Within its competence only if the union gives permission"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "Education appears on the shared list, so both levels may legislate on "
+                             "it. The state does not need permission; but if its law conflicts with "
+                             "a union law on education, the union law prevails."},
+
+             {"prompt": "The union's decision to build a port and regulate foreign trade is",
+              "options": ["Within its own exclusive competence",
+                          "Something it must refer to the states for approval",
+                          "Beyond its competence, because ports are on the shared list",
+                          "Beyond its competence, because trade is a residuary subject"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "Both subjects are on the union list. The union may legislate on them "
+                             "alone, and this is what an exclusive list means."},
+
+             {"prompt": "If the union and the state both pass a law on a shared subject and the two disagree, then",
+              "options": ["The union law prevails",
+                          "The state law prevails, since the subject concerns the state",
+                          "Both laws are struck down",
+                          "The matter is decided by a fresh election"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "On a concurrent subject the union law prevails in case of a conflict. "
+                             "This is one of the several provisions that give the centre its "
+                             "special strength in the Indian arrangement."},
+
+             {"prompt": "A subject that appears in none of the lists is legislated on by",
+              "options": ["The union", "The states", "The judiciary", "The states, if the union declines"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "Residuary powers rest with the union, which is the opposite of what "
+                             "happens in a coming together federation such as the United States. It "
+                             "is another reason the union here is stronger than in those systems."},
+         ]),
+
+    case("ss-civ-federalism", "ss-civ-federalism.decentralisation",
+         "A village of about four thousand people had no elected local body for seven years. "
+         "Decisions about a new road, a drainage channel and the village school were taken by an "
+         "official appointed by the state government, who consulted the district office and "
+         "sometimes the local influential families.\n\n"
+         "After a constitutional amendment, the village was required to hold elections to a gram "
+         "panchayat every five years, under the supervision of a State Election Commission. One "
+         "third of the seats were reserved for women, and seats were also reserved for the "
+         "scheduled castes and scheduled tribes in proportion to their population. The new body "
+         "received a share of the revenue collected locally and was given charge of several local "
+         "works.\n\n"
+         "In the first election, several women who had never spoken at a village meeting were "
+         "elected. Some later said they were at first asked to let a male relative attend on their "
+         "behalf, but that after a few years they were taking decisions themselves.",
+         [
+             {"prompt": "The arrangement described after the amendment is called",
+              "options": ["Decentralisation of power to local government",
+                          "A horizontal division of power",
+                          "A coming together federation",
+                          "A community government"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "Taking power from the state level and giving it to elected bodies at "
+                             "the village level is a vertical transfer of authority, which is what "
+                             "decentralisation means."},
+
+             {"prompt": "Holding elections under a State Election Commission is significant because",
+              "options": ["It makes local elections the responsibility of an independent body rather than the state government in power",
+                          "It makes local bodies answerable to the union government",
+                          "It removes the need for any state supervision",
+                          "It gives the local body the power to make national law"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "Before the amendment, local bodies could be dissolved or left "
+                             "unelected at the state government's convenience. An independent "
+                             "commission that must hold elections removes that discretion."},
+
+             {"prompt": "Reserving one third of the seats for women has",
+              "options": ["Brought women into decision-making who were previously absent from it",
+                          "Made the panchayat a body appointed by the state",
+                          "Removed the reservation for scheduled castes and tribes",
+                          "Made the panchayat's decisions subject to union approval"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "The passage records the result directly: women who had never spoken "
+                             "at a village meeting were elected. Reserving seats for scheduled "
+                             "castes and tribes continues alongside, not instead of, this."},
+
+             {"prompt": "The practice of a male relative attending in a woman's place suggests that",
+              "options": ["Reservation guarantees a seat but not necessarily the exercise of power, at least at first",
+                          "Reservation for women was a mistake and should be withdrawn",
+                          "Women are not interested in local government",
+                          "The panchayat had no real powers to begin with"],
+              "answer": 0, "difficulty": "hard",
+              "explanation": "The passage is careful on this point: some women were at first "
+                             "represented by relatives, and after a few years were taking decisions "
+                             "themselves. That is the difference between holding a seat and wielding "
+                             "the authority that comes with it, and it shows the reservation "
+                             "beginning to work rather than failing."},
+
+             {"prompt": "Giving the panchayat a share of locally collected revenue matters because",
+              "options": ["A body with responsibilities but no funds of its own cannot carry them out",
+                          "Local revenue collection is unlawful without a local body",
+                          "It allows the panchayat to set the state's tax rates",
+                          "It makes the panchayat independent of the state government"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "The amendment also provided for a State Finance Commission to decide "
+                             "the sharing of revenue, precisely because giving a local body work to "
+                             "do without the means to pay for it leaves it dependent on others."},
+         ]),
+
+    case("ss-civ-gender", "ss-civ-gender.gender",
+         "A census of a country recorded that its overall sex ratio was about 940 females for "
+         "every 1000 males, and that the literacy rate for women was some seventeen percentage "
+         "points below that for men. In the national legislature, women occupied well under a fifth "
+         "of the seats.\n\n"
+         "In one district, a survey found that the gap in literacy between boys and girls was much "
+         "smaller than the national figure, and that in several villages the number of girls "
+         "completing school had risen sharply over a decade. The same survey found that girls in "
+         "those villages were still expected to do most of the household work, and that far fewer "
+         "of them went on to college than boys from the same villages.\n\n"
+         "The country's constitution guarantees equality before the law and prohibits "
+         "discrimination on grounds of sex.",
+         [
+             {"prompt": "A sex ratio of about 940 to 1000 indicates",
+              "options": ["A shortfall of females relative to males in the population",
+                          "That slightly more females than males are born",
+                          "That the population is evenly divided",
+                          "That the census is unreliable on this point"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "A ratio below 1000 females per 1000 males means fewer females than "
+                             "males. The usual explanation involves unequal access to nutrition, "
+                             "health care and, in some places, preferences about the sex of a child."},
+
+             {"prompt": "The district survey shows that",
+              "options": ["Access to schooling can improve faster than the expectations placed on girls within the household",
+                          "Literacy gaps cannot be closed in a decade",
+                          "Girls perform worse than boys once they reach school",
+                          "The national figures are simply wrong"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "Schooling improved sharply in the district while household work and "
+                             "the college gap persisted. The two changes are on different "
+                             "timelines, and the passage sets them side by side rather than "
+                             "claiming one disproves the other."},
+
+             {"prompt": "The fact that girls in the district still did most of the household work shows that",
+              "options": ["A constitutional guarantee of equality does not by itself change what families expect of girls",
+                          "The constitution does not actually guarantee equality",
+                          "Household work is not relevant to gender equality",
+                          "Boys in the district did no work at all"],
+              "answer": 0, "difficulty": "hard",
+              "explanation": "Formal equality is the condition for change, not the change itself. "
+                             "The division of work inside the home is governed by custom, and it "
+                             "moves more slowly than law. The passage contrasts the two."},
+
+             {"prompt": "The gap between school completion and college attendance in the district is an example of",
+              "options": ["Inequality continuing in a different form after an earlier gap has closed",
+                          "A failure of the district's schools",
+                          "A problem that only affects boys",
+                          "A statistical error in the survey"],
+              "answer": 0, "difficulty": "hard",
+              "explanation": "One barrier was removed and progress followed, but a later barrier "
+                             "remained. This is why measuring a single indicator, such as enrolment, "
+                             "can suggest more change than has actually taken place."},
+
+             {"prompt": "Women holding well under a fifth of the seats in the national legislature indicates",
+              "options": ["That the presence of women in decision-making bodies remains limited",
+                          "That women do not vote in national elections",
+                          "That the constitution bars women from the legislature",
+                          "That the legislature has very few seats in total"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "Fewer than one in five members being women means the body that makes "
+                             "national law does not reflect the population it governs - which is "
+                             "the reason reservation of seats has been proposed at the national "
+                             "level as well."},
+         ]),
+
+    case("ss-hist-nationalism-india", "ss-hist-nationalism-india.non-cooperation",
+         "The following is a description of how a movement spread in one district.\n\n"
+         "In the first months, students left the government schools and colleges, lawyers gave up "
+         "their practices, and a large number of people surrendered titles that had been granted "
+         "by the colonial government. Foreign cloth was collected and burnt in public squares, and "
+         "shops selling it were picketed, sometimes by people who had never taken part in any "
+         "public activity before.\n\n"
+         "Within a year, the movement reached the countryside. In several villages, tenants refused "
+         "to pay rent to landlords who were seen as loyal to the government, and in one region "
+         "people began to walk out of plantations. At the same time, there were reports of crowds "
+         "stopping people from going to work and of clashes over who had the right to speak.\n\n"
+         "In February, a crowd attacked and set fire to a police station in which several policemen "
+         "were killed. A few days later the movement was withdrawn.",
+         [
+             {"prompt": "The burning of foreign cloth and the picketing of shops were",
+              "options": ["Acts of boycott intended to make colonial rule unworkable economically",
+                          "Methods of raising money for the movement",
+                          "Attempts to reduce the price of imported cloth",
+                          "Orders issued by the colonial government"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "Boycotting foreign goods, along with surrendering titles and giving up "
+                             "schools, colleges and law practices, was how the movement was meant to "
+                             "make the government's administration and revenues fail."},
+
+             {"prompt": "The spread of the movement into the countryside shows that",
+              "options": ["Different groups joined with grievances of their own, not only a single national demand",
+                          "The movement had no support in the towns",
+                          "The colonial government had already conceded the main demand",
+                          "Peasants were indifferent to the movement"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "Tenants resisting rent to loyal landlords, and plantation workers "
+                             "walking out, were acting on their own local grievances within the "
+                             "larger movement. This widening of the base is what made the leadership "
+                             "anxious about controlling it."},
+
+             {"prompt": "The reports of crowds stopping others from going to work indicate that",
+              "options": ["The movement was beginning to include coercion, which its method did not allow",
+                          "The movement had collapsed in that district",
+                          "The government had joined the movement",
+                          "All workers supported the movement willingly"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "The movement's method required that persuasion be non-violent and "
+                             "voluntary. Crowds preventing people from working introduced a form of "
+                             "compulsion that sits badly with that method, and the passage reports "
+                             "it as part of the movement losing discipline."},
+
+             {"prompt": "The event at the police station in February is best understood as",
+              "options": ["The incident that caused the leadership to withdraw a movement it could no longer keep non-violent",
+                          "A minor disturbance that had no bearing on the movement",
+                          "A police action against the movement",
+                          "The event that won the movement its main demand"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "A movement founded on non-violence cannot continue once participants "
+                             "kill people. The withdrawal followed within days, and the passage "
+                             "places the two events together for that reason."},
+
+             {"prompt": "The chronology in the passage is important because it shows that",
+              "options": ["The movement began with a narrow group and widened, and this widening is what made it harder to control",
+                          "The movement was violent from its very beginning",
+                          "The leadership never intended the movement to spread beyond the cities",
+                          "The countryside was unaffected by the movement"],
+              "answer": 0, "difficulty": "hard",
+              "explanation": "The order matters: urban, largely middle-class participation first, "
+                             "the countryside next, and only then the incidents of indiscipline. A "
+                             "wider base brought in more grievances, and with them less control."},
+         ]),
+
+    case("ss-hist-nationalism-india", "ss-hist-nationalism-india.participants",
+         "Different groups joined a national movement with different expectations.\n\n"
+         "A group of mill workers in a large city wanted better pay and working conditions and saw "
+         "the movement as a way to press those demands. A group of peasants in one province "
+         "resented paying rent to landlords and hoped the movement would lead to its reduction. A "
+         "group of tribal people in another region wanted access to forest produce that had been "
+         "restricted by the forest laws. A group of plantation workers in a third region "
+         "understood the idea of freedom as the freedom to move in and out of the plantation "
+         "where they were confined.\n\n"
+         "The leadership of the movement spoke mostly of a single national demand.",
+         [
+             {"prompt": "The four groups described had in common that",
+              "options": ["Each interpreted the movement's call in terms of its own immediate grievance",
+                          "Each wanted the same set of economic reforms",
+                          "None of them supported the national demand",
+                          "All of them were formal members of the same organisation"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "The passage is built around the difference in expectations. What the "
+                             "groups shared was a national movement broad enough to give each of "
+                             "their separate grievances a place in it."},
+
+             {"prompt": "The plantation workers' understanding of freedom as the right to move in and out of the plantation shows that",
+              "options": ["A large national idea is understood by people through their own circumstances",
+                          "Plantation workers had no interest in the movement",
+                          "The movement had no meaning outside the cities",
+                          "Plantation workers wanted to emigrate"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "Their confinement under a colonial arrangement made freedom mean, "
+                             "concretely, the right to leave. The general word was understood "
+                             "through a particular restriction."},
+
+             {"prompt": "The gap between the leadership's single national demand and the various local grievances could",
+              "options": ["Both widen the movement and make its direction harder to control",
+                          "Only weaken the movement, with no benefit",
+                          "Only strengthen the movement, with no risk",
+                          "Have no effect on the movement either way"],
+              "answer": 0, "difficulty": "hard",
+              "explanation": "A wider base brought the movement far greater strength, especially in "
+                             "the countryside, and it also brought demands the leadership had not "
+                             "raised, which then had to be managed or set aside."},
+
+             {"prompt": "The forest dwellers' demand concerning forest produce was a response to",
+              "options": ["Colonial forest laws that restricted their access to forests",
+                          "A decline in the value of forest produce",
+                          "The introduction of mechanised agriculture",
+                          "A rise in the price of imported timber"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "Colonial forest legislation reserved forests for the state and "
+                             "restricted grazing and the collection of fuel and fodder, which took "
+                             "away a livelihood many villages depended on."},
+
+             {"prompt": "The passage as a whole suggests that the strength of a mass movement depends on",
+              "options": ["Connecting a broad national idea with the concrete concerns people already have",
+                          "Keeping the movement confined to a single clear demand",
+                          "Excluding groups whose demands differ from the leadership's",
+                          "Avoiding the countryside until the towns are fully organised"],
+              "answer": 0, "difficulty": "hard",
+              "explanation": "Each group joined because the movement spoke to something it already "
+                             "felt. The passage presents the movement's strength and its "
+                             "unpredictability as two consequences of the same breadth."},
+         ]),
+
+    case("ss-geo-water", "ss-geo-water.harvesting",
+         "Two neighbouring villages lie in a district that receives most of its rain in a few "
+         "weeks, after which the region stays dry for months.\n\n"
+         "In the first village, a shallow earthen embankment has been built across a seasonal "
+         "stream so that water collects behind it and soaks into the ground. The groundwater level "
+         "in the wells of that village has risen, and some fields that used to grow one crop now "
+         "grow two. The structure is repaired by the villagers themselves before each monsoon, "
+         "using material available locally.\n\n"
+         "In the second village, the fields are irrigated from a large canal drawing water from a "
+         "dam built many kilometres away. Water is available in the canal for part of the year. "
+         "Some fields near the head of the canal are waterlogged, while fields at the tail receive "
+         "very little water and have reverted to a single rain-fed crop. A few households near the "
+         "head of the canal grow three crops.",
+         [
+             {"prompt": "The structure in the first village is an example of",
+              "options": ["Rainwater harvesting that stores surface water to recharge groundwater",
+                          "A large multi-purpose project",
+                          "A canal irrigation system",
+                          "A hydroelectric scheme"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "The embankment traps the flow of a seasonal stream so that it seeps "
+                             "into the soil. The rise in well levels is the evidence that the "
+                             "purpose is recharge rather than storage alone."},
+
+             {"prompt": "The rise in the groundwater level in the first village is important because",
+              "options": ["It makes water available through the dry months without a canal",
+                          "It increases the amount of rain the district receives",
+                          "It removes the need to grow any crops in the monsoon",
+                          "It makes the stream flow throughout the year"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "Stored underground water can be drawn as needed in the dry season. The "
+                             "scheme does not change the rainfall, and the second crop in the same "
+                             "year shows the water being used through the year."},
+
+             {"prompt": "The problem of some fields near the head of the canal being waterlogged and fields at the tail getting very little water is",
+              "options": ["An unequal distribution of canal water along the length of the canal",
+                          "A sign that the canal carries too little water for the whole village",
+                          "Caused by the rainwater structure in the other village",
+                          "The expected result of growing more than one crop"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "The same canal delivers a surplus to fields close to it and too little "
+                             "to fields far away. More total water would not by itself fix this, "
+                             "since the imbalance is along the canal rather than a shortage overall."},
+
+             {"prompt": "Comparing the two villages, the first village's arrangement is",
+              "options": ["More evenly spread in its benefits and easier for the community to maintain",
+                          "Dependent on machinery and outside funds",
+                          "Less reliable because it depends on rainfall",
+                          "A single large project serving a wide region"],
+              "answer": 0, "difficulty": "hard",
+              "explanation": "The embankment is built and repaired by the villagers from local "
+                             "material and every well in the village benefits. The canal serves a "
+                             "wide region but delivers its water unequally along its length."},
+
+             {"prompt": "The most important difference between the two arrangements is that",
+              "options": ["One stores local rainfall where it falls, while the other transfers water from a distant source",
+                          "One is modern and the other is traditional",
+                          "One is used for farming and the other is not",
+                          "One is built by the government and the other is illegal"],
+              "answer": 0, "difficulty": "hard",
+              "explanation": "The distinction that explains everything else in the passage is the "
+                             "source of the water. Local harvesting recharges what already falls "
+                             "there; a canal redistributes what falls far away, and that transfer "
+                             "is what creates head and tail."},
+         ]),
+
+    case("ss-geo-minerals", "ss-geo-minerals.ferrous",
+         "Iron ore in a large country is found mainly in four belts.\n\n"
+         "One belt runs along the border of two eastern states.\n"
+         "A second lies in the central and southern parts of a large central state.\n"
+         "A third lies in the southern plateau, in the region around three neighbouring districts of "
+         "one southern state.\n"
+         "A fourth lies along the western coast.\n\n"
+         "The ore from these belts is of different grades. Ore with a very high iron content is "
+         "exported, while ore of lower grade is used within the country. The country also has "
+         "large reserves of manganese, which is used in making steel, in bleaching powder and in "
+         "the manufacture of some insecticides.",
+         [
+             {"prompt": "The ore described in the passage is",
+              "options": ["A ferrous mineral, because it contains iron",
+                          "A non-ferrous mineral, because it is metallic",
+                          "A non-metallic mineral, because it is mined",
+                          "An energy mineral, because it is used in industry"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "Ferrous minerals contain iron. Iron ore and manganese, the two named "
+                             "in the passage, are both ferrous; non-ferrous minerals such as copper "
+                             "and bauxite do not contain iron."},
+
+             {"prompt": "Manganese is used in all of the following except",
+              "options": ["Generating electricity as a fuel",
+                          "Manufacturing steel",
+                          "Making bleaching powder",
+                          "Manufacturing insecticides"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "Manganese is a mineral used as an input in other products. It is not "
+                             "a fuel and is not burned to generate power; that description belongs "
+                             "to coal, petroleum or natural gas."},
+
+             {"prompt": "The pattern of exporting high grade ore while using lower grade ore at home shows",
+              "options": ["A decision to earn foreign exchange from the ore that fetches the best price abroad",
+                          "That the country has more high grade ore than it can use",
+                          "That lower grade ore cannot be used in industry",
+                          "That steel is not produced in the country at all"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "High grade ore has a ready market abroad and earns more per tonne "
+                             "shipped. Lower grade ore still works for domestic steel making, so "
+                             "the two grades are put to different uses."},
+
+             {"prompt": "Minerals of this kind are described as exhaustible because",
+              "options": ["They take millions of years to form, so the stock available is finite",
+                          "They cannot be transported over long distances",
+                          "They can only be mined in four places",
+                          "They lose their quality when stored"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "The rate at which these minerals form is far slower than the rate at "
+                             "which they are extracted, so once used up a deposit is not replaced "
+                             "within any timescale that matters to us."},
+
+             {"prompt": "The fact that the belts are in specific and different parts of the country means",
+              "options": ["Ore has to be transported from where it is mined to where the steel is made",
+                          "Every part of the country can produce its own steel",
+                          "Mining is unnecessary in the regions without a belt",
+                          "Iron ore is not used outside the belt regions"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "Minerals occur only where the geology put them, while industries are "
+                             "often located elsewhere. The gap between the two is why transport, "
+                             "such as railways laid for ore, becomes an industrial cost."},
+         ]),
+
+    case("ss-eco-sectors", "ss-eco-sectors.tertiary",
+         "In a large developing country, the share of the three sectors in total output changed "
+         "over several decades, and so did the share of people employed in each.\n\n"
+         "The first sector's share of output fell steadily and is now well under a fifth, while the "
+         "share of people working in it has remained close to half. The second sector's share of "
+         "output rose for a period and then settled at around a quarter. The third sector's share "
+         "of output rose to well over half and is now the largest of the three.\n\n"
+         "Employment in the third sector has grown, but much of the new work is in small "
+         "establishments where a person is paid by the day and has no written contract.",
+         [
+             {"prompt": "The figures show a country in which",
+              "options": ["Output has shifted towards services while a large share of workers remain in agriculture",
+                          "Agriculture has disappeared from the economy",
+                          "Manufacturing is now the largest sector by output",
+                          "The number of people working has fallen"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "The two measures move differently: output has moved to the service "
+                             "sector, while half the workforce still works in the primary sector. "
+                             "Reading either figure alone would give a misleading picture."},
+
+             {"prompt": "The gap between agriculture's share of output and its share of employment indicates",
+              "options": ["A large number of people producing a relatively small share of total output, so productivity per worker is low",
+                          "That agriculture is no longer important to the economy",
+                          "That the country does not grow enough food",
+                          "That farmers are paid very well for their produce"],
+              "answer": 0, "difficulty": "hard",
+              "explanation": "When half the workers produce under a fifth of the output, each worker "
+                             "is adding little value. This is what makes disguised unemployment in "
+                             "agriculture a problem and why moving people into other sectors raises "
+                             "their earnings."},
+
+             {"prompt": "Many of the new jobs in the service sector being daily-paid and without a written contract means",
+              "options": ["Growth in output has not always come with secure employment",
+                          "The service sector is smaller than it appears",
+                          "Workers in this sector are well protected by labour law",
+                          "These jobs are part of the organised sector"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "Work without a contract, at a daily wage, is the definition of the "
+                             "unorganised sector. Its growth alongside the service sector is why "
+                             "the sector's expansion has not automatically improved working "
+                             "conditions."},
+
+             {"prompt": "The sector that has become the largest contributor to output is",
+              "options": ["The tertiary sector", "The primary sector",
+                          "The secondary sector", "All three contribute equally"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "Well over half of output places the third sector clearly ahead of the "
+                             "other two, which stand under a fifth and around a quarter."},
+
+             {"prompt": "A policy conclusion that follows from these figures is that",
+              "options": ["Creating productive employment outside agriculture matters as much as raising total output",
+                          "Output growth should be slowed until employment catches up",
+                          "The share of agriculture in output should be raised back to half",
+                          "Nothing needs to change, since the service sector is growing"],
+              "answer": 0, "difficulty": "hard",
+              "explanation": "Output is growing while a very large number of people remain in "
+                             "low-productivity work. Rising output alone does not move them, so the "
+                             "figures point to the kind of employment created, not just to its "
+                             "quantity."},
+         ]),
+
+    case("ss-eco-money", "ss-eco-money.credit",
+         "Two farmers in the same district each need money to buy seed and fertiliser before the "
+         "sowing season. Neither has savings to cover the cost.\n\n"
+         "The first farmer goes to a bank in the nearest town. The bank asks for proof of land "
+         "ownership, takes several days to decide, and charges interest at about 12 per cent a "
+         "year. She receives the money before sowing and repays it after the harvest.\n\n"
+         "The second farmer goes to a moneylender in his own village. The money is available the "
+         "same day and no papers are asked for. He pays interest at about 5 per cent a month, and "
+         "the moneylender also takes a part of the standing crop as a condition of the loan.\n\n"
+         "In a year of poor rainfall, the first farmer's crop fails. The bank agrees to extend the "
+         "repayment period. The second farmer's crop also fails, and the moneylender demands "
+         "immediate repayment.",
+         [
+             {"prompt": "The difference between the two loans is best described as a difference in",
+              "options": ["The terms of credit, including the interest rate, the security required and the flexibility of repayment",
+                          "The amount of money borrowed",
+                          "The purpose for which the money is used",
+                          "The season in which the money is borrowed"],
+              "answer": 0, "difficulty": "easy",
+              "explanation": "Both farmers borrow before sowing to buy the same inputs. What "
+                             "separates them is everything about how the loan is made and repaid, "
+                             "which is what the terms of credit means."},
+
+             {"prompt": "The second farmer's interest is about 5 per cent a month. Over a year this is",
+              "options": ["Far higher than the bank's rate, which is 12 per cent a year",
+                          "About the same as the bank's rate",
+                          "Lower than the bank's rate, because the loan is shorter",
+                          "Not comparable, because no papers were signed"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "Five per cent a month is roughly 60 per cent a year if the loan runs "
+                             "for the full period. The two rates have to be put on the same footing "
+                             "before they can be compared, and doing so shows how much more the "
+                             "informal loan costs."},
+
+             {"prompt": "The moneylender's requirement of a part of the standing crop",
+              "options": ["Adds a further cost to the loan beyond the interest",
+                          "Replaces the need to repay the principal",
+                          "Protects the farmer if the crop fails",
+                          "Is a form of collateral that benefits the borrower"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "The farmer pays interest and also gives up a share of the harvest, so "
+                             "the effective cost is higher than the interest rate alone suggests. "
+                             "It does not shield him if the crop fails."},
+
+             {"prompt": "A bank's requirement of proof of land ownership before lending means that",
+              "options": ["A borrower with no land cannot obtain a bank loan on these terms",
+                          "Banks lend only to large landowners",
+                          "Land ownership is unrelated to a bank's decision",
+                          "The bank charges a lower rate to those without land"],
+              "answer": 0, "difficulty": "medium",
+              "explanation": "The land serves as security. A borrower who has none has nothing to "
+                             "offer, which is precisely why such a borrower turns to a lender who "
+                             "asks for no papers and charges accordingly."},
+
+             {"prompt": "The different treatment the two farmers received in the year of crop failure shows that",
+              "options": ["A formal lender is supervised and may reschedule a loan, while an informal lender is not supervised and need not",
+                          "Banks always lose money on agricultural loans",
+                          "Moneylenders are more efficient at recovering loans",
+                          "Crop failure affects only borrowers from banks"],
+              "answer": 0, "difficulty": "hard",
+              "explanation": "The key difference is supervision. A bank operates under rules that "
+                             "allow a repayment to be postponed in a bad year, while a private "
+                             "lender answers to nobody but himself, and the consequences for the "
+                             "borrower are correspondingly harsher."},
+         ]),
+]
+
+
+# ══════════════════════════════════════════════════════════════════════
+# Application and analytical items
+# ══════════════════════════════════════════════════════════════════════
+
+APPLICATION = [
+    app("ss-hist-nationalism-europe", "ss-hist-nationalism-europe.unification",
+        "Which of the following best explains why the German states were unified in 1871 and not in 1848?",
+        ["In 1848 the princes were able to put down the movement, while by 1871 the Prussian state had the army and the organisation to unite Germany on its own terms",
+         "The German people had lost interest in unification after 1848",
+         "The Austrian empire had joined the German states by 1871",
+         "Unification became possible only after Britain withdrew its opposition"],
+        0,
+        "In 1848 the Frankfurt Parliament offered a crown to the king of Prussia, who refused it because "
+        "it came from an assembly rather than from the princes. By 1871 Prussia had built up its army, "
+        "had won three wars in succession, and could unite the states under its own leadership - which "
+        "is why the empire was proclaimed at Versailles rather than voted into being.",
+        difficulty="hard"),
+
+    app("ss-hist-nationalism-europe", "ss-hist-nationalism-europe.events",
+        "The Treaty of Vienna of 1815 was intended to",
+        ["Restore the old order in Europe by undoing the changes brought by Napoleon",
+         "Divide Europe into nation states on linguistic lines",
+         "Grant independence to the German and Italian states",
+         "Establish a single European parliament"],
+        0,
+        "The powers that defeated Napoleon sought to restore the monarchies he had displaced and to "
+        "redraw borders so that France could not expand again. Conservative in purpose, it left many "
+        "nationalities under foreign rule, which is why nationalist movements continued through the "
+        "century.",
+        difficulty="medium"),
+
+    app("ss-hist-nationalism-india", "ss-hist-nationalism-india.pacts",
+        "The Gandhi-Irwin Pact of 1931 was significant because it",
+        ["Led to the release of political prisoners and allowed Gandhiji to attend the Second Round Table Conference",
+         "Granted India complete independence",
+         "Ended the Non-Cooperation Movement",
+         "Created separate electorates for the depressed classes"],
+        0,
+        "The Pact followed the Civil Disobedience Movement and settled on the Congress calling off the "
+        "movement in return for the release of prisoners and the government conceding some demands. "
+        "The Congress attended the Second Round Table Conference, but the talks did not produce a "
+        "settlement. Separate electorates came from the Communal Award and were addressed by the Poona "
+        "Pact.",
+        difficulty="hard"),
+
+    app("ss-hist-global-world", "ss-hist-global-world.silk-route",
+        "The silk routes are cited as evidence that",
+        ["Long-distance trade and cultural exchange existed well before modern globalisation",
+         "Trade between Asia and Europe began only after the Industrial Revolution",
+         "Silk was the only commodity exchanged along these routes",
+         "These routes were controlled by a single empire throughout their history"],
+        0,
+        "The routes carried goods, ideas, religions and technologies across Asia, Africa and Europe for "
+        "centuries before the modern period. They carried many commodities besides silk, and no single "
+        "power controlled the whole of what was a network of routes rather than one road.",
+        difficulty="medium"),
+
+    app("ss-hist-industrialisation", "ss-hist-industrialisation.before-factories",
+        "Proto-industrialisation refers to",
+        ["Large-scale production for an international market carried on in the countryside, before factories were set up",
+         "The first stage of building railway lines",
+         "Production carried on entirely inside craft guilds in towns",
+         "The use of steam power in agriculture"],
+        0,
+        "It names the stage in which merchants sent work out to peasant households for a distant "
+        "market, without concentrating the workers in one place. The guild-based production it displaced "
+        "was town-centred and small in volume, and steam power belongs to the factory period.",
+        difficulty="medium"),
+
+    app("ss-hist-print-culture", "ss-hist-print-culture.gutenberg",
+        "The printing press was important to the Reformation in Europe because it",
+        ["Allowed dissenting views to circulate quickly in large numbers, beyond the control of any single authority",
+         "Made the Bible unavailable to ordinary readers",
+         "Was invented by the Church itself",
+         "Replaced the need for books with spoken preaching"],
+        0,
+        "Printing made it possible to reproduce and distribute a text faster than any authority could "
+        "suppress it. Luther's writings covered Europe in a few years, and printed editions of the "
+        "Bible in vernacular languages let readers interpret scripture without a priest.",
+        difficulty="hard"),
+
+    app("ss-geo-resources", "ss-geo-resources.types",
+        "Which of the following is a non-renewable resource?",
+        ["Coal", "Solar energy", "Wind energy", "Groundwater"],
+        0,
+        "Coal took millions of years to form and will not be replaced within any timescale that "
+        "matters, so it is non-renewable. Solar and wind energy flow continuously, and groundwater is "
+        "recharged by rainfall, though it can be depleted if it is drawn faster than it is replenished.",
+        difficulty="easy"),
+
+    app("ss-geo-forest", "ss-geo-forest.categories",
+        "A species found only in a few isolated pockets and nowhere else is best described as",
+        ["Endemic", "Extinct", "Vulnerable", "Rare"],
+        0,
+        "Endemic describes a species whose distribution is restricted to a particular area. Extinct "
+        "means it is gone everywhere. Vulnerable and rare describe the size and trend of a "
+        "population, not its geographical restriction.",
+        difficulty="medium"),
+
+    app("ss-geo-water", "ss-geo-water.dams",
+        "The Narmada Bachao Andolan was a movement that",
+        ["Opposed the displacement and environmental consequences of large dams on the Narmada",
+         "Demanded the construction of more canals in the Narmada basin",
+         "Wanted the Narmada to be declared a national waterway",
+         "Opposed rainwater harvesting in the Narmada valley"],
+        0,
+        "The movement questioned whether the urban and industrial benefits of the dams justified the "
+        "displacement of large numbers of tribal people and the submergence of forest land. It also "
+        "raised the issue of equitable distribution of the water, especially to those whose land was "
+        "lost.",
+        difficulty="medium"),
+
+    app("ss-geo-agriculture", "ss-geo-agriculture.crops",
+        "Cotton, jute, sugarcane and tea are described as commercial crops because",
+        ["They are grown for sale rather than for consumption by the farmer's own household",
+         "They can be grown only on large estates",
+         "They require no irrigation",
+         "They are always exported to other countries"],
+        0,
+        "What makes a crop commercial is the purpose for which it is grown. They are grown mainly as "
+        "raw material for industry or for sale, including within the country; jute and tea are also "
+        "exported, but export is not what defines the category.",
+        difficulty="easy"),
+
+    app("ss-geo-minerals", "ss-geo-minerals.energy",
+        "Which of the following is a non-conventional source of energy?",
+        ["Geothermal energy", "Coal", "Petroleum", "Natural gas"],
+        0,
+        "Coal, petroleum and natural gas are fossil fuels that have been in use for over a century. "
+        "Geothermal energy draws on heat in the earth's interior, and is grouped with solar, wind, "
+        "tidal and biogas as non-conventional.",
+        difficulty="easy"),
+
+    app("ss-geo-industries", "ss-geo-industries.importance",
+        "Manufacturing is considered the backbone of development because",
+        ["It creates jobs in secondary and tertiary activities and reduces dependence on agricultural income",
+         "It employs more people than agriculture does in India",
+         "It requires no raw materials",
+         "It is the largest sector by share of output in India"],
+        0,
+        "Manufacturing absorbs workers who leave agriculture and creates demand for transport, trade "
+        "and services. Agriculture still employs more people, and services - not manufacturing - are "
+        "the largest sector by output, so the reason has to be stated carefully.",
+        difficulty="medium"),
+
+    app("ss-geo-lifelines", "ss-geo-lifelines.transport",
+        "The Golden Quadrilateral project was significant because it",
+        ["Linked four major metropolitan cities by high-speed highway to reduce travel time between them",
+         "Connected India's ports with those of neighbouring countries",
+         "Replaced all national highways with expressways",
+         "Was built entirely for the movement of railway freight"],
+        0,
+        "The highway network joins Delhi, Mumbai, Chennai and Kolkata in a quadrilateral, with "
+        "connected corridors, to reduce the time taken between the four cities. It supplemented "
+        "rather than replaced the existing road network.",
+        difficulty="medium"),
+
+    app("ss-civ-power-sharing", "ss-civ-power-sharing.why",
+        "Which of the following is the moral reason for power sharing rather than the prudential one?",
+        ["Power is legitimate only when it is shared with those who are affected by its exercise",
+         "Power sharing reduces the risk of conflict between social groups",
+         "Power sharing gives minorities a share in government",
+         "Power sharing reduces the chance of a majority oppressing a minority"],
+        0,
+        "The prudential reason rests on consequences, such as reducing conflict or the risk of "
+        "oppression. The moral reason does not rest on consequences at all: it holds that sharing is "
+        "what makes power legitimate, and that a majority cannot decide for others simply because it "
+        "commands more votes.",
+        difficulty="hard"),
+
+    app("ss-civ-federalism", "ss-civ-federalism.india",
+        "Which of the following is a feature of the Indian federation that gives the union special powers?",
+        ["Residuary powers rest with the union government",
+         "Each state has its own elected legislature",
+         "Powers are divided between the union and the states",
+         "The courts can interpret the constitution"],
+        0,
+        "The other three options are features of federation in general. What makes the Indian case "
+        "unusual is that subjects not named in any list go to the union, whereas in most federations "
+        "they would go to the constituent units.",
+        difficulty="hard"),
+
+    app("ss-civ-gender", "ss-civ-gender.religion",
+        "Which of the following describes communalism rather than secularism?",
+        ["Believing that people of one religion share the same political interests and that these are opposed to those of other religions",
+         "Prohibiting discrimination on grounds of religion",
+         "Allowing the state to intervene in religious matters to ensure equality",
+         "Treating all religions as equally deserving of respect"],
+        0,
+        "Communalism treats a religion as a single political bloc with interests opposed to other "
+         "blocs. The other three describe how the Indian Constitution handles religion, including the "
+        "power of the state to step in where a religious practice denies equality.",
+        difficulty="medium"),
+
+    app("ss-civ-parties", "ss-civ-parties.types",
+        "A country has a two-party system. Which of the following is a consequence?",
+        ["Voters choose between two broad sets of policies, and a change of government is decisive",
+         "Every viewpoint in the country is represented in the legislature",
+         "Governments are always formed by coalitions of several parties",
+         "The same party remains in power indefinitely"],
+        0,
+        "A two-party system usually produces a clear majority and a sharp alternation in office. What "
+        "it may not do is represent every shade of opinion, since there are only two broad groupings "
+        "on offer, which is the trade-off against a multi-party system.",
+        difficulty="hard"),
+
+    app("ss-civ-outcomes", "ss-civ-outcomes.assessment",
+        "Which of the following would be the strongest evidence that a democracy is working well despite complaints?",
+        ["Citizens criticise their government and then vote to change it",
+         "No citizen ever criticises the government",
+         "The government takes decisions very quickly",
+         "Elections are announced but not held"],
+        0,
+        "Complaints are not a sign of failure; they show that citizens expect their rulers to answer "
+        "to them. Criticism combined with the ability to change a government at the next election is "
+        "the mechanism actually doing its work. Decisions that are quick are characteristic of "
+        "non-democratic government, and elections not being held is the opposite of democracy.",
+        difficulty="hard"),
+
+    app("ss-eco-development", "ss-eco-development.indicators",
+        "Two countries have the same per capita income, but in one of them a large share of the "
+        "population has no access to schooling or to clean water. What does this tell us?",
+        ["Per capita income is an average and hides how the income is distributed as well as non-income aspects of living",
+         "The second country's income figures must be wrong",
+         "Per capita income is the best single measure of development",
+         "Development cannot be compared between countries at all"],
+        0,
+        "The average is the same while the distribution and the non-income conditions differ, so the "
+        "average is not telling the whole story. This is the reason measures such as the Human "
+        "Development Index combine income with health and education.",
+        difficulty="hard"),
+
+    app("ss-eco-sectors", "ss-eco-sectors.organised",
+        "A worker is employed in a small workshop, is paid in cash at the end of each day, has no "
+        "written contract, and has no provision for paid leave or medical care. This worker is in",
+        ["The unorganised sector", "The organised sector",
+         "The public sector as a permanent employee", "The primary sector"],
+        0,
+        "Regular, assured employment with a contract and benefits such as leave and provident fund "
+        "are what distinguish the organised sector. None of those is present here, which is what "
+        "makes this employment unorganised and insecure.",
+        difficulty="easy"),
+
+    app("ss-eco-money", "ss-eco-money.shg",
+        "A self-help group of fifteen women in a village saves a small amount each month. After a "
+        "year of regular saving, the group is able to obtain a loan from a bank. The reason the bank "
+        "lends to the group and not to each woman separately is that",
+        ["The group's record of regular saving stands in place of the security an individual borrower would have to provide",
+         "The bank is legally required to lend to all groups",
+         "The group's members are all landowners",
+         "The group charges the bank interest on the loan"],
+        0,
+        "A woman with no property has no collateral to offer. The group's record of saving and "
+        "repaying demonstrates responsibility, and its members' mutual accountability substitutes "
+        "for that collateral, which is how the group unlocks credit for everyone in it.",
+        difficulty="hard"),
+
+    app("ss-eco-globalisation", "ss-eco-globalisation.production",
+        "A multinational company designs a product in one country, makes components in three others, "
+        "and assembles it in a fourth. This arrangement illustrates",
+        ["Interlinked production across countries, which lowers costs and links distant economies",
+         "A country exporting more than it imports",
+         "An increase in the tariffs charged on imported goods",
+         "A government policy of protecting domestic industry"],
+        0,
+        "Spreading the stages of production across several countries is what globalisation of "
+        "production means. Components and finished goods move between those countries, so each of "
+        "them becomes part of the same chain rather than producing the whole thing alone.",
+        difficulty="medium"),
+
+    app("ss-eco-globalisation", "ss-eco-globalisation.wto",
+        "The World Trade Organization is described as a body that",
+        ["Sets the rules by which international trade is conducted and hears disputes between member countries",
+         "Lends money to developing countries for infrastructure",
+         "Fixes the value of each country's currency",
+         "Regulates the wages paid by multinational companies"],
+        0,
+        "The WTO makes and enforces the rules of trade. Lending for development is the work of the "
+        "International Bank for Reconstruction and Development, and exchange rates and wage "
+        "regulation are outside the WTO's mandate.",
+        difficulty="medium"),
+
+    app("ss-eco-consumer", "ss-eco-consumer.rights",
+        "A shop refuses to replace a defective appliance that is still under warranty and says the "
+        "buyer must deal with the manufacturer. The right of the buyer that is being denied is",
+        ["The right to seek redressal against unfair trade practices",
+         "The right to safety",
+         "The right to be informed",
+         "The right to represent in a consumer court"],
+        0,
+        "The refusal to replace a defective product is itself the unfair practice, and the right to "
+        "redressal is the right to seek compensation against it. Safety concerns the product's "
+        "hazardousness, information concerns the particulars disclosed, and representing is about "
+        "putting one's own case before a forum.",
+        difficulty="medium"),
+
+    app("ss-eco-consumer", "ss-eco-consumer.redressal",
+        "A consumer has a claim of two lakh rupees against a seller. The forum that will hear the "
+        "case in the first instance is most likely the",
+        ["District-level forum, with appeal to the state and then the national commission",
+         "National commission directly, since the amount is large",
+         "State commission directly, with no lower forum",
+         "Civil court, since consumer forums cannot hear such claims"],
+        0,
+        "The three-tier consumer machinery begins at the district level, and the commission that "
+        "hears a case in the first instance depends on the value of the claim. Appeals then move "
+        "upward from the district to the state and then to the national commission.",
+        difficulty="hard"),
+
+    app("ss-hist-global-world", "ss-hist-global-world.great-depression",
+        "During the Great Depression, several countries raised tariffs on imported goods in order to",
+        ["Protect their own producers, which then reduced world trade further",
+         "Increase the volume of international trade",
+         "Help their trading partners sell more abroad",
+         "Reduce the price of food for their own citizens"],
+        0,
+        "Raising a tariff protects domestic producers from foreign competition, but when many "
+        "countries do it at once the volume of world trade contracts sharply. This is why the period "
+        "is remembered as an example of a response that made the downturn worse.",
+        difficulty="hard"),
+
+    app("ss-hist-industrialisation", "ss-hist-industrialisation.india-textiles",
+        "Which of the following best explains why the first cotton mill in India was set up in "
+        "Bombay rather than in Bengal?",
+        ["Bombay was close to the cotton growing areas of western India and had a port for the export trade",
+         "Bengal had no port at that time",
+         "Raw cotton could not be grown in eastern India",
+         "Jute and cotton mills could not be built in the same region"],
+        0,
+        "The proximity of raw cotton and access to a port for shipping cloth were the decisive "
+        "advantages. Calcutta had a port and eastern India grew jute, which is why the first jute "
+        "mill came up in Bengal instead - the two industries followed their own raw materials.",
+        difficulty="hard"),
+
+    app("ss-civ-parties", "ss-civ-parties.national",
+        "A party is recognised as a national party when it",
+        ["Secures a required share of votes in elections across at least four states and wins a minimum number of seats",
+         "Wins a majority of seats in the Lok Sabha",
+         "Is registered under the Representation of the People Act",
+         "Contests elections in every state"],
+        0,
+        "Registration is what makes a party recognised by the Election Commission at all, and the "
+        "national or state status follows from its performance in elections - a share of the votes "
+        "across several states together with a minimum number of seats won.",
+        difficulty="hard"),
+]
+
+
+def main() -> int:
+    items = ASSERTION_REASON + CASE_STUDIES + APPLICATION
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+    OUT.write_text(
+        json.dumps(
+            {
+                "chapter": ASSERTION_REASON[0]["chapter"],
+                "kind": "competency",
+                "source_ref": SOURCE_REF,
+                "generator_note": (
+                    "Hand-authored competency and source-based items. Assertion-reason items carry "
+                    "a verdict and the generator supplies CBSE's fixed four-option scaffold; each "
+                    "passage is carried into every linked sub-question. Items name their own chapter "
+                    "and topic."
+                ),
+                "items": items,
+            },
+            indent=1,
+            ensure_ascii=False,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+
+    subs = sum(len(i["questions"]) for i in CASE_STUDIES)
+    print(
+        f"{OUT.relative_to(BACKEND)}: {len(items)} items -> "
+        f"{len(ASSERTION_REASON)} assertion-reason, "
+        f"{len(CASE_STUDIES)} passages with {subs} sub-questions, "
+        f"{len(APPLICATION)} application items = "
+        f"{len(ASSERTION_REASON) + subs + len(APPLICATION)} questions"
+    )
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

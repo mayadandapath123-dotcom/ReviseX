@@ -1,0 +1,209 @@
+{
+  "chapter": "sci-chem-ch1",
+  "topic": "sci-chem-ch1.reaction-types",
+  "kind": "reaction",
+  "source_ref": "Class 10 Chemical Reactions and Equations - reaction facts and types. Original wording.",
+  "items": [
+    {
+      "name": "Burning of magnesium ribbon",
+      "reactants": ["Mg", "O2"],
+      "products": ["MgO"],
+      "type": "combination",
+      "observation": "Dazzling white flame; white powder of magnesium oxide is formed",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Heating of lead nitrate",
+      "reactants": ["Pb(NO3)2"],
+      "products": ["PbO", "NO2", "O2"],
+      "type": "decomposition",
+      "observation": "Brown fumes of nitrogen dioxide are given off; yellow residue of lead oxide is left",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Heating of ferrous sulphate crystals",
+      "reactants": ["FeSO4"],
+      "products": ["Fe2O3", "SO2", "SO3"],
+      "type": "decomposition",
+      "observation": "Green crystals turn white, then brown; smell of burning sulphur",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Thermal decomposition of calcium carbonate",
+      "reactants": ["CaCO3"],
+      "products": ["CaO", "CO2"],
+      "type": "decomposition",
+      "observation": "Limestone breaks down on strong heating to give quick lime and carbon dioxide",
+      "difficulty": "easy",
+      "use": "Manufacture of cement and quick lime"
+    },
+    {
+      "name": "Decomposition of silver chloride in sunlight",
+      "reactants": ["AgCl"],
+      "products": ["Ag", "Cl2"],
+      "type": "photodecomposition",
+      "observation": "White silver chloride turns grey in sunlight",
+      "difficulty": "medium",
+      "use": "Black and white photography"
+    },
+    {
+      "name": "Electrolysis of water",
+      "reactants": ["H2O"],
+      "products": ["H2", "O2"],
+      "type": "electrolytic_decomposition",
+      "observation": "Hydrogen collects at the cathode in twice the volume of oxygen at the anode",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Decomposition of hydrogen peroxide",
+      "reactants": ["H2O2"],
+      "products": ["H2O", "O2"],
+      "type": "decomposition",
+      "observation": "Rapid bubbling of oxygen gas",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Iron nails in copper sulphate solution",
+      "reactants": ["Fe", "CuSO4"],
+      "products": ["FeSO4", "Cu"],
+      "type": "displacement",
+      "observation": "Blue colour of the solution fades to light green; brown coating of copper on the nail",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Zinc in copper sulphate solution",
+      "reactants": ["Zn", "CuSO4"],
+      "products": ["ZnSO4", "Cu"],
+      "type": "displacement",
+      "observation": "Blue colour fades; reddish-brown copper is deposited",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Copper in silver nitrate solution",
+      "reactants": ["Cu", "AgNO3"],
+      "products": ["Cu(NO3)2", "Ag"],
+      "type": "displacement",
+      "observation": "Solution slowly turns blue; shiny silver deposits on the copper",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Sodium sulphate with barium chloride",
+      "reactants": ["Na2SO4", "BaCl2"],
+      "products": ["BaSO4", "NaCl"],
+      "type": "double_displacement",
+      "observation": "White precipitate of barium sulphate is formed",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Lead nitrate with potassium iodide",
+      "reactants": ["Pb(NO3)2", "KI"],
+      "products": ["PbI2", "KNO3"],
+      "type": "double_displacement",
+      "observation": "Yellow precipitate of lead iodide is formed",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Silver nitrate with sodium chloride",
+      "reactants": ["AgNO3", "NaCl"],
+      "products": ["AgCl", "NaNO3"],
+      "type": "double_displacement",
+      "observation": "White curdy precipitate of silver chloride",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Burning of natural gas (methane)",
+      "reactants": ["CH4", "O2"],
+      "products": ["CO2", "H2O"],
+      "type": "combustion",
+      "observation": "Blue flame; heat and light are released",
+      "difficulty": "easy",
+      "heat": "exothermic"
+    },
+    {
+      "name": "Quick lime with water",
+      "reactants": ["CaO", "H2O"],
+      "products": ["Ca(OH)2"],
+      "type": "combination",
+      "observation": "Vigorous reaction, hissing sound, and a large amount of heat",
+      "difficulty": "easy",
+      "heat": "exothermic"
+    },
+    {
+      "name": "Respiration",
+      "reactants": ["C6H12O6", "O2"],
+      "products": ["CO2", "H2O"],
+      "type": "combustion",
+      "observation": "Slow oxidation of glucose releases energy in cells",
+      "difficulty": "easy",
+      "heat": "exothermic"
+    },
+    {
+      "name": "Reaction of sodium with chlorine",
+      "reactants": ["Na", "Cl2"],
+      "products": ["NaCl"],
+      "type": "combination",
+      "observation": "Vigorous combination forming an ionic salt",
+      "difficulty": "medium",
+      "heat": "exothermic"
+    },
+    {
+      "name": "Decomposition of calcium carbonate by heat (endothermic)",
+      "reactants": ["CaCO3"],
+      "products": ["CaO", "CO2"],
+      "type": "decomposition",
+      "observation": "Absorbs heat continuously while decomposing",
+      "difficulty": "medium",
+      "heat": "endothermic"
+    },
+    {
+      "name": "Photosynthesis",
+      "reactants": ["CO2", "H2O"],
+      "products": ["C6H12O6", "O2"],
+      "type": "combination",
+      "observation": "Occurs only in the presence of sunlight and chlorophyll",
+      "difficulty": "easy",
+      "heat": "endothermic"
+    },
+    {
+      "name": "Rusting of iron",
+      "reactants": ["Fe", "O2", "H2O"],
+      "products": ["Fe2O3"],
+      "type": "oxidation",
+      "observation": "Brown flaky coating of hydrated iron(III) oxide forms on iron exposed to moist air",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Rancidity of fats and oils",
+      "reactants": ["fats and oils", "O2"],
+      "products": ["oxidised fats"],
+      "type": "oxidation",
+      "observation": "Change in smell and taste of oily food; prevented by nitrogen flushing and antioxidants",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Reaction of zinc with dilute sulphuric acid",
+      "reactants": ["Zn", "H2SO4"],
+      "products": ["ZnSO4", "H2"],
+      "type": "displacement",
+      "observation": "Zinc dissolves with brisk effervescence of hydrogen gas",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Reaction of calcium carbonate with hydrochloric acid",
+      "reactants": ["CaCO3", "HCl"],
+      "products": ["CaCl2", "H2O", "CO2"],
+      "type": "double_displacement",
+      "observation": "Brisk effervescence due to carbon dioxide",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Neutralisation of sodium hydroxide with hydrochloric acid",
+      "reactants": ["NaOH", "HCl"],
+      "products": ["NaCl", "H2O"],
+      "type": "double_displacement",
+      "observation": "Acid and base cancel each other; salt and water are formed with heat evolution",
+      "difficulty": "easy",
+      "heat": "exothermic"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#0B0B0F" />
+    <meta name="description" content="Class 10 rapid revision — revise 20 important things in 60 seconds." />
+    <title>ReviseX — Class 10 Rapid Revision</title>
+    <script>
+      /*
+       * Set the theme before the first paint.
+       *
+       * The React store rehydrates from localStorage asynchronously, so without
+       * this the page renders one frame of the default palette and then swaps —
+       * a white flash on every cold load for anyone using a light theme. This
+       * runs synchronously in <head>, so the very first paint is already correct.
+       *
+       * Kept in step with src/shared/lib/theme.ts by hand. It has to be inline
+       * and dependency-free to run this early, so it cannot import from there.
+       */
+      (function () {
+        var COLORS = {
+          midnight: ['#0b0b0f', 1], nebula: ['#0c0a18', 1], carbon: ['#0e1114', 1],
+          forest: ['#08120f', 1], paper: ['#faf6ee', 0], daylight: ['#f6f7f9', 0]
+        }
+        var id = 'midnight'
+        try {
+          var raw = localStorage.getItem('leap.prefs')
+          if (raw) {
+            var saved = JSON.parse(raw)
+            var want = saved && saved.state && saved.state.theme
+            // Anything unrecognised falls back, so a stale value cannot leave
+            // the page unstyled.
+            if (want && COLORS[want]) id = want
+          }
+        } catch (e) { /* private mode, corrupt value: use the default */ }
+
+        var entry = COLORS[id]
+        document.documentElement.setAttribute('data-theme', id)
+        document.documentElement.style.colorScheme = entry[1] ? 'dark' : 'light'
+        var meta = document.querySelector('meta[name="theme-color"]')
+        if (meta) meta.setAttribute('content', entry[0])
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

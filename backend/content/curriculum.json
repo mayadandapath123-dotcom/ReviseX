@@ -1,0 +1,1465 @@
+{
+  "$schema_note": "Curriculum is DATA. Adding Maths/SST/English/Hindi means editing this file plus adding fact files - no code changes.",
+  "exam_board": "cbse",
+  "grade": "class-10",
+  "syllabus_session": "2025-26",
+  "syllabus_status_policy": {
+    "core": "In the current board syllabus. Included in all default tests.",
+    "foundation": "Prerequisite recall (Class 9 carry-forward) needed to attempt Class 10 items. Included by default, labelled as fundamentals.",
+    "optional": "Stored for completeness but NOT in the current exam syllabus. Only reachable from explicitly-labelled Advanced/Off-syllabus modes.",
+    "removed": "Deleted from the syllabus. Kept in DB, excluded from selection unless ALLOW_OFF_SYLLABUS=true."
+  },
+  "subjects": [
+    {
+      "id": "science",
+      "name": "Science",
+      "icon": "flask",
+      "display_order": 1,
+      "is_active": true,
+      "branches": [
+        {
+          "id": "sci-chem",
+          "name": "Chemistry",
+          "icon": "beaker",
+          "display_order": 1,
+          "chapters": [
+            {
+              "id": "sci-chem-ch1",
+              "code": "1",
+              "name": "Chemical Reactions and Equations",
+              "display_order": 1,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-chem-ch1.equations",
+                  "name": "Chemical Equations",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-chem-ch1.balancing",
+                  "name": "Balancing Equations",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-chem-ch1.reaction-types",
+                  "name": "Types of Reactions",
+                  "display_order": 3
+                },
+                {
+                  "id": "sci-chem-ch1.observations",
+                  "name": "Observations & Indicators of Reaction",
+                  "display_order": 4
+                },
+                {
+                  "id": "sci-chem-ch1.redox",
+                  "name": "Oxidation & Reduction",
+                  "display_order": 5
+                },
+                {
+                  "id": "sci-chem-ch1.effects",
+                  "name": "Corrosion & Rancidity",
+                  "display_order": 6
+                }
+              ]
+            },
+            {
+              "id": "sci-chem-ch2",
+              "code": "2",
+              "name": "Acids, Bases and Salts",
+              "display_order": 2,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-chem-ch2.indicators",
+                  "name": "Indicators",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-chem-ch2.ph",
+                  "name": "pH Scale",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-chem-ch2.acids",
+                  "name": "Properties of Acids",
+                  "display_order": 3
+                },
+                {
+                  "id": "sci-chem-ch2.bases",
+                  "name": "Properties of Bases",
+                  "display_order": 4
+                },
+                {
+                  "id": "sci-chem-ch2.neutralisation",
+                  "name": "Neutralisation & Salts",
+                  "display_order": 5
+                },
+                {
+                  "id": "sci-chem-ch2.compounds",
+                  "name": "Common Compounds & Uses",
+                  "display_order": 6
+                }
+              ]
+            },
+            {
+              "id": "sci-chem-ch3",
+              "code": "3",
+              "name": "Metals and Non-metals",
+              "display_order": 3,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-chem-ch3.properties",
+                  "name": "Physical Properties",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-chem-ch3.reactivity",
+                  "name": "Reactivity Series",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-chem-ch3.displacement",
+                  "name": "Displacement Reactions",
+                  "display_order": 3
+                },
+                {
+                  "id": "sci-chem-ch3.extraction",
+                  "name": "Extraction of Metals",
+                  "display_order": 4
+                },
+                {
+                  "id": "sci-chem-ch3.ionic",
+                  "name": "Ionic Bonding & Properties",
+                  "display_order": 5
+                },
+                {
+                  "id": "sci-chem-ch3.alloys",
+                  "name": "Alloys & Corrosion",
+                  "display_order": 6
+                }
+              ]
+            },
+            {
+              "id": "sci-chem-ch4",
+              "code": "4",
+              "name": "Carbon and its Compounds",
+              "display_order": 4,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-chem-ch4.bonding",
+                  "name": "Covalent Bonding",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-chem-ch4.functional-groups",
+                  "name": "Functional Groups",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-chem-ch4.homologous",
+                  "name": "Homologous Series",
+                  "display_order": 3
+                },
+                {
+                  "id": "sci-chem-ch4.nomenclature",
+                  "name": "Nomenclature",
+                  "display_order": 4
+                },
+                {
+                  "id": "sci-chem-ch4.properties",
+                  "name": "Chemical Properties",
+                  "display_order": 5
+                },
+                {
+                  "id": "sci-chem-ch4.soaps",
+                  "name": "Soaps & Detergents",
+                  "display_order": 6
+                }
+              ]
+            },
+            {
+              "id": "sci-chem-fund",
+              "code": "F",
+              "name": "Element & Formula Fundamentals",
+              "display_order": 5,
+              "syllabus_status": "foundation",
+              "topics": [
+                {
+                  "id": "sci-chem-fund.symbols",
+                  "name": "Element Symbols",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-chem-fund.valency",
+                  "name": "Valency",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-chem-fund.atomic-number",
+                  "name": "Atomic Number",
+                  "display_order": 3
+                },
+                {
+                  "id": "sci-chem-fund.configuration",
+                  "name": "Electronic Configuration",
+                  "display_order": 4
+                },
+                {
+                  "id": "sci-chem-fund.formulas",
+                  "name": "Chemical Formulae",
+                  "display_order": 5
+                },
+                {
+                  "id": "sci-chem-fund.metals-nonmetals",
+                  "name": "Metals & Non-metals",
+                  "display_order": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sci-bio",
+          "name": "Biology",
+          "icon": "dna",
+          "display_order": 2,
+          "chapters": [
+            {
+              "id": "sci-bio-life",
+              "code": "5",
+              "name": "Life Processes",
+              "display_order": 1,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-bio-life.nutrition",
+                  "name": "Nutrition",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-bio-life.respiration",
+                  "name": "Respiration",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-bio-life.transport",
+                  "name": "Transportation",
+                  "display_order": 3
+                },
+                {
+                  "id": "sci-bio-life.excretion",
+                  "name": "Excretion",
+                  "display_order": 4
+                }
+              ]
+            },
+            {
+              "id": "sci-bio-control",
+              "code": "6",
+              "name": "Control and Coordination",
+              "display_order": 2,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-bio-control.nervous",
+                  "name": "Nervous System",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-bio-control.reflex",
+                  "name": "Reflex Actions",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-bio-control.hormones",
+                  "name": "Hormones & Endocrine Glands",
+                  "display_order": 3
+                },
+                {
+                  "id": "sci-bio-control.plants",
+                  "name": "Coordination in Plants",
+                  "display_order": 4
+                }
+              ]
+            },
+            {
+              "id": "sci-bio-repro",
+              "code": "7",
+              "name": "How Do Organisms Reproduce?",
+              "display_order": 3,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-bio-repro.asexual",
+                  "name": "Asexual Reproduction",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-bio-repro.sexual-plants",
+                  "name": "Sexual Reproduction in Plants",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-bio-repro.sexual-humans",
+                  "name": "Sexual Reproduction in Humans",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "sci-bio-heredity",
+              "code": "8",
+              "name": "Heredity",
+              "display_order": 4,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-bio-heredity.mendel",
+                  "name": "Mendel's Experiments",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-bio-heredity.terms",
+                  "name": "Genetic Terminology",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-bio-heredity.sex",
+                  "name": "Sex Determination",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "sci-bio-env",
+              "code": "13",
+              "name": "Our Environment",
+              "display_order": 5,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-bio-env.ecosystem",
+                  "name": "Ecosystem & Food Chains",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-bio-env.energy-flow",
+                  "name": "Energy Flow",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-bio-env.waste",
+                  "name": "Waste & Ozone",
+                  "display_order": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sci-phy",
+          "name": "Physics",
+          "icon": "atom",
+          "display_order": 3,
+          "chapters": [
+            {
+              "id": "sci-phy-light",
+              "code": "9",
+              "name": "Light - Reflection and Refraction",
+              "display_order": 1,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-phy-light.mirrors",
+                  "name": "Spherical Mirrors",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-phy-light.refraction",
+                  "name": "Refraction & Lenses",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-phy-light.formulas",
+                  "name": "Mirror/Lens Formulae & Numericals",
+                  "display_order": 3
+                },
+                {
+                  "id": "sci-phy-light.images",
+                  "name": "Image Formation",
+                  "display_order": 4
+                }
+              ]
+            },
+            {
+              "id": "sci-phy-eye",
+              "code": "10",
+              "name": "The Human Eye and the Colourful World",
+              "display_order": 2,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-phy-eye.parts",
+                  "name": "Parts of the Eye",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-phy-eye.defects",
+                  "name": "Defects of Vision",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-phy-eye.phenomena",
+                  "name": "Refraction Phenomena",
+                  "display_order": 3
+                },
+                {
+                  "id": "sci-phy-eye.dispersion",
+                  "name": "Dispersion & Spectrum",
+                  "display_order": 4
+                }
+              ]
+            },
+            {
+              "id": "sci-phy-electricity",
+              "code": "11",
+              "name": "Electricity",
+              "display_order": 3,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-phy-electricity.current",
+                  "name": "Current & Potential Difference",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-phy-electricity.ohms-law",
+                  "name": "Ohm's Law & Resistance",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-phy-electricity.combinations",
+                  "name": "Series & Parallel Combinations",
+                  "display_order": 3
+                },
+                {
+                  "id": "sci-phy-electricity.power",
+                  "name": "Power & Energy",
+                  "display_order": 4
+                },
+                {
+                  "id": "sci-phy-electricity.units",
+                  "name": "SI Units",
+                  "display_order": 5
+                }
+              ]
+            },
+            {
+              "id": "sci-phy-magnetic",
+              "code": "12",
+              "name": "Magnetic Effects of Electric Current",
+              "display_order": 4,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "sci-phy-magnetic.field",
+                  "name": "Magnetic Field & Field Lines",
+                  "display_order": 1
+                },
+                {
+                  "id": "sci-phy-magnetic.rules",
+                  "name": "Hand Rules",
+                  "display_order": 2
+                },
+                {
+                  "id": "sci-phy-magnetic.motor",
+                  "name": "Motor & Generator",
+                  "display_order": 3
+                },
+                {
+                  "id": "sci-phy-magnetic.domestic",
+                  "name": "Domestic Circuits",
+                  "display_order": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths",
+      "name": "Mathematics",
+      "icon": "sigma",
+      "display_order": 2,
+      "is_active": true,
+      "note": "Phase 7. Registered now to prove the curriculum layer is subject-agnostic.",
+      "branches": [
+        {
+          "id": "maths-all",
+          "name": "Mathematics",
+          "icon": "sigma",
+          "display_order": 1,
+          "is_active": true,
+          "chapters": [
+            {
+              "id": "m-real",
+              "code": "1",
+              "name": "Real Numbers",
+              "display_order": 1,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-real.fta",
+                  "name": "Fundamental Theorem of Arithmetic",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-real.hcf-lcm",
+                  "name": "HCF and LCM",
+                  "display_order": 2
+                },
+                {
+                  "id": "m-real.irrational",
+                  "name": "Irrational Numbers",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "m-poly",
+              "code": "2",
+              "name": "Polynomials",
+              "display_order": 2,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-poly.zeroes",
+                  "name": "Zeroes of a Polynomial",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-poly.coefficients",
+                  "name": "Zeroes and Coefficients",
+                  "display_order": 2
+                }
+              ]
+            },
+            {
+              "id": "m-linear",
+              "code": "3",
+              "name": "Pair of Linear Equations in Two Variables",
+              "display_order": 3,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-linear.graphical",
+                  "name": "Graphical Method",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-linear.substitution",
+                  "name": "Substitution Method",
+                  "display_order": 2
+                },
+                {
+                  "id": "m-linear.elimination",
+                  "name": "Elimination Method",
+                  "display_order": 3
+                },
+                {
+                  "id": "m-linear.consistency",
+                  "name": "Consistency of a Pair",
+                  "display_order": 4
+                }
+              ]
+            },
+            {
+              "id": "m-quad",
+              "code": "4",
+              "name": "Quadratic Equations",
+              "display_order": 4,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-quad.factorisation",
+                  "name": "Solution by Factorisation",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-quad.formula",
+                  "name": "Quadratic Formula",
+                  "display_order": 2
+                },
+                {
+                  "id": "m-quad.discriminant",
+                  "name": "Discriminant and Nature of Roots",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "m-ap",
+              "code": "5",
+              "name": "Arithmetic Progressions",
+              "display_order": 5,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-ap.nth-term",
+                  "name": "nth Term of an AP",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-ap.sum",
+                  "name": "Sum of First n Terms",
+                  "display_order": 2
+                }
+              ]
+            },
+            {
+              "id": "m-tri",
+              "code": "6",
+              "name": "Triangles",
+              "display_order": 6,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-tri.bpt",
+                  "name": "Basic Proportionality Theorem",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-tri.similarity",
+                  "name": "Criteria for Similarity",
+                  "display_order": 2
+                }
+              ]
+            },
+            {
+              "id": "m-coord",
+              "code": "7",
+              "name": "Coordinate Geometry",
+              "display_order": 7,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-coord.distance",
+                  "name": "Distance Formula",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-coord.section",
+                  "name": "Section Formula",
+                  "display_order": 2
+                }
+              ]
+            },
+            {
+              "id": "m-trig",
+              "code": "8",
+              "name": "Introduction to Trigonometry",
+              "display_order": 8,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-trig.ratios",
+                  "name": "Trigonometric Ratios",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-trig.table",
+                  "name": "Values at Standard Angles",
+                  "display_order": 2
+                },
+                {
+                  "id": "m-trig.identities",
+                  "name": "Trigonometric Identities",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "m-heights",
+              "code": "9",
+              "name": "Some Applications of Trigonometry",
+              "display_order": 9,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-heights.elevation",
+                  "name": "Angle of Elevation",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-heights.depression",
+                  "name": "Angle of Depression",
+                  "display_order": 2
+                }
+              ]
+            },
+            {
+              "id": "m-circles",
+              "code": "10",
+              "name": "Circles",
+              "display_order": 10,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-circles.tangent",
+                  "name": "Tangent to a Circle",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-circles.tangent-count",
+                  "name": "Number of Tangents",
+                  "display_order": 2
+                }
+              ]
+            },
+            {
+              "id": "m-areas-circle",
+              "code": "11",
+              "name": "Areas Related to Circles",
+              "display_order": 11,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-areas-circle.sector",
+                  "name": "Area of a Sector",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-areas-circle.segment",
+                  "name": "Area of a Segment",
+                  "display_order": 2
+                },
+                {
+                  "id": "m-areas-circle.arc",
+                  "name": "Length of an Arc",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "m-sav",
+              "code": "12",
+              "name": "Surface Areas and Volumes",
+              "display_order": 12,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-sav.cylinder",
+                  "name": "Cylinder",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-sav.cone",
+                  "name": "Cone",
+                  "display_order": 2
+                },
+                {
+                  "id": "m-sav.sphere",
+                  "name": "Sphere",
+                  "display_order": 3
+                },
+                {
+                  "id": "m-sav.hemisphere",
+                  "name": "Hemisphere",
+                  "display_order": 4
+                },
+                {
+                  "id": "m-sav.combined",
+                  "name": "Combination of Solids",
+                  "display_order": 5
+                }
+              ]
+            },
+            {
+              "id": "m-stats",
+              "code": "13",
+              "name": "Statistics",
+              "display_order": 13,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-stats.mean",
+                  "name": "Mean of Grouped/Ungrouped Data",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-stats.median",
+                  "name": "Median",
+                  "display_order": 2
+                },
+                {
+                  "id": "m-stats.mode",
+                  "name": "Mode",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "m-prob",
+              "code": "14",
+              "name": "Probability",
+              "display_order": 14,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "m-prob.basic",
+                  "name": "Basic Probability",
+                  "display_order": 1
+                },
+                {
+                  "id": "m-prob.dice-coins",
+                  "name": "Dice and Coins",
+                  "display_order": 2
+                },
+                {
+                  "id": "m-prob.cards",
+                  "name": "Cards",
+                  "display_order": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sst",
+      "name": "Social Science",
+      "icon": "globe",
+      "display_order": 3,
+      "is_active": true,
+      "note": "Phase 7.",
+      "branches": [
+        {
+          "id": "sst-history",
+          "name": "History",
+          "icon": "scroll",
+          "display_order": 1,
+          "is_active": true,
+          "chapters": [
+            {
+              "id": "ss-hist-nationalism-europe",
+              "code": "1",
+              "name": "The Rise of Nationalism in Europe",
+              "display_order": 1,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-hist-nationalism-europe.french-rev",
+                  "name": "The French Revolution and Napoleon",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-hist-nationalism-europe.liberalism",
+                  "name": "Liberalism and the Middle Class",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-hist-nationalism-europe.unification",
+                  "name": "Unification of Germany and Italy",
+                  "display_order": 3
+                },
+                {
+                  "id": "ss-hist-nationalism-europe.romanticism",
+                  "name": "Nationalism and Culture",
+                  "display_order": 4
+                },
+                {
+                  "id": "ss-hist-nationalism-europe.events",
+                  "name": "Key Events and Dates",
+                  "display_order": 5
+                }
+              ]
+            },
+            {
+              "id": "ss-hist-nationalism-india",
+              "code": "2",
+              "name": "Nationalism in India",
+              "display_order": 2,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-hist-nationalism-india.non-cooperation",
+                  "name": "Non-Cooperation Movement",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-hist-nationalism-india.civil-disobedience",
+                  "name": "Civil Disobedience Movement",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-hist-nationalism-india.salt-march",
+                  "name": "Dandi March and Salt Satyagraha",
+                  "display_order": 3
+                },
+                {
+                  "id": "ss-hist-nationalism-india.participants",
+                  "name": "Participants and Movements",
+                  "display_order": 4
+                },
+                {
+                  "id": "ss-hist-nationalism-india.pacts",
+                  "name": "Pacts and Agreements",
+                  "display_order": 5
+                }
+              ]
+            },
+            {
+              "id": "ss-hist-global-world",
+              "code": "3",
+              "name": "The Making of a Global World",
+              "display_order": 3,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-hist-global-world.silk-route",
+                  "name": "Pre-Modern Global Links",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-hist-global-world.colonialism",
+                  "name": "Colonialism and Trade",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-hist-global-world.great-depression",
+                  "name": "The Great Depression",
+                  "display_order": 3
+                },
+                {
+                  "id": "ss-hist-global-world.bretton-woods",
+                  "name": "Bretton Woods System",
+                  "display_order": 4
+                }
+              ]
+            },
+            {
+              "id": "ss-hist-industrialisation",
+              "code": "4",
+              "name": "The Age of Industrialisation",
+              "display_order": 4,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-hist-industrialisation.before-factories",
+                  "name": "Before the Industrial Revolution",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-hist-industrialisation.factories",
+                  "name": "Factories and Workers",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-hist-industrialisation.india-textiles",
+                  "name": "Industrialisation in India",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "ss-hist-print-culture",
+              "code": "5",
+              "name": "Print Culture and the Modern World",
+              "display_order": 5,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-hist-print-culture.manuscripts",
+                  "name": "Manuscripts before Print",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-hist-print-culture.gutenberg",
+                  "name": "Gutenberg and the Printing Press",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-hist-print-culture.print-india",
+                  "name": "Print Comes to India",
+                  "display_order": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sst-geography",
+          "name": "Geography",
+          "icon": "globe",
+          "display_order": 2,
+          "is_active": true,
+          "chapters": [
+            {
+              "id": "ss-geo-resources",
+              "code": "1",
+              "name": "Resources and Development",
+              "display_order": 1,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-geo-resources.types",
+                  "name": "Types of Resources",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-geo-resources.soil",
+                  "name": "Soil Types and Erosion",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-geo-resources.planning",
+                  "name": "Resource Planning",
+                  "display_order": 3
+                },
+                {
+                  "id": "ss-geo-resources.land-use",
+                  "name": "Land Use Patterns",
+                  "display_order": 4
+                }
+              ]
+            },
+            {
+              "id": "ss-geo-forest",
+              "code": "2",
+              "name": "Forest and Wildlife Resources",
+              "display_order": 2,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-geo-forest.categories",
+                  "name": "IUCN Categories",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-geo-forest.conservation",
+                  "name": "Conservation Measures",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-geo-forest.movements",
+                  "name": "Forest Movements",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "ss-geo-water",
+              "code": "3",
+              "name": "Water Resources",
+              "display_order": 3,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-geo-water.scarcity",
+                  "name": "Water Scarcity",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-geo-water.dams",
+                  "name": "Multi-Purpose Projects",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-geo-water.harvesting",
+                  "name": "Rainwater Harvesting",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "ss-geo-agriculture",
+              "code": "4",
+              "name": "Agriculture",
+              "display_order": 4,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-geo-agriculture.cropping",
+                  "name": "Cropping Seasons",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-geo-agriculture.crops",
+                  "name": "Major Crops",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-geo-agriculture.reforms",
+                  "name": "Institutional and Technical Reforms",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "ss-geo-minerals",
+              "code": "5",
+              "name": "Minerals and Energy Resources",
+              "display_order": 5,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-geo-minerals.minerals",
+                  "name": "Minerals and Their Occurrence",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-geo-minerals.ferrous",
+                  "name": "Ferrous and Non-Ferrous Minerals",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-geo-minerals.energy",
+                  "name": "Conventional and Non-Conventional Energy",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "ss-geo-industries",
+              "code": "6",
+              "name": "Manufacturing Industries",
+              "display_order": 6,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-geo-industries.importance",
+                  "name": "Importance of Manufacturing",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-geo-industries.agro-based",
+                  "name": "Agro-Based Industries",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-geo-industries.pollution",
+                  "name": "Industrial Pollution",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "ss-geo-lifelines",
+              "code": "7",
+              "name": "Lifelines of National Economy",
+              "display_order": 7,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-geo-lifelines.transport",
+                  "name": "Modes of Transport",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-geo-lifelines.trade",
+                  "name": "Trade and Commerce",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-geo-lifelines.pipelines",
+                  "name": "Pipelines and Waterways",
+                  "display_order": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sst-civics",
+          "name": "Political Science",
+          "icon": "scales",
+          "display_order": 3,
+          "is_active": true,
+          "chapters": [
+            {
+              "id": "ss-civ-power-sharing",
+              "code": "1",
+              "name": "Power Sharing",
+              "display_order": 1,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-civ-power-sharing.belgium-srilanka",
+                  "name": "Belgium and Sri Lanka",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-civ-power-sharing.forms",
+                  "name": "Forms of Power Sharing",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-civ-power-sharing.why",
+                  "name": "Why Power Sharing",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "ss-civ-federalism",
+              "code": "2",
+              "name": "Federalism",
+              "display_order": 2,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-civ-federalism.features",
+                  "name": "Key Features of Federalism",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-civ-federalism.india",
+                  "name": "Federalism in India",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-civ-federalism.decentralisation",
+                  "name": "Decentralisation in India",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "ss-civ-gender",
+              "code": "3",
+              "name": "Gender, Religion and Caste",
+              "display_order": 3,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-civ-gender.gender",
+                  "name": "Gender Divisions",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-civ-gender.religion",
+                  "name": "Religion and Politics",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-civ-gender.caste",
+                  "name": "Caste and Politics",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "ss-civ-parties",
+              "code": "4",
+              "name": "Political Parties",
+              "display_order": 4,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-civ-parties.functions",
+                  "name": "Functions of Parties",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-civ-parties.types",
+                  "name": "Types of Party Systems",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-civ-parties.national",
+                  "name": "National and State Parties",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "ss-civ-outcomes",
+              "code": "5",
+              "name": "Outcomes of Democracy",
+              "display_order": 5,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-civ-outcomes.accountable",
+                  "name": "Accountable Government",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-civ-outcomes.equality",
+                  "name": "Equality and Dignity",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-civ-outcomes.assessment",
+                  "name": "Assessing Democracy",
+                  "display_order": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sst-economics",
+          "name": "Economics",
+          "icon": "rupee",
+          "display_order": 4,
+          "is_active": true,
+          "chapters": [
+            {
+              "id": "ss-eco-development",
+              "code": "1",
+              "name": "Development",
+              "display_order": 1,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-eco-development.goals",
+                  "name": "Different Development Goals",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-eco-development.income",
+                  "name": "Income and Other Goals",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-eco-development.indicators",
+                  "name": "Indicators of Development",
+                  "display_order": 3
+                }
+              ]
+            },
+            {
+              "id": "ss-eco-sectors",
+              "code": "2",
+              "name": "Sectors of the Indian Economy",
+              "display_order": 2,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-eco-sectors.primary",
+                  "name": "Primary Sector",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-eco-sectors.secondary",
+                  "name": "Secondary Sector",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-eco-sectors.tertiary",
+                  "name": "Tertiary Sector",
+                  "display_order": 3
+                },
+                {
+                  "id": "ss-eco-sectors.organised",
+                  "name": "Organised and Unorganised",
+                  "display_order": 4
+                }
+              ]
+            },
+            {
+              "id": "ss-eco-money",
+              "code": "3",
+              "name": "Money and Credit",
+              "display_order": 3,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-eco-money.money",
+                  "name": "Money as Medium of Exchange",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-eco-money.banks",
+                  "name": "Role of Banks",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-eco-money.credit",
+                  "name": "Formal and Informal Credit",
+                  "display_order": 3
+                },
+                {
+                  "id": "ss-eco-money.shg",
+                  "name": "Self-Help Groups",
+                  "display_order": 4
+                }
+              ]
+            },
+            {
+              "id": "ss-eco-globalisation",
+              "code": "4",
+              "name": "Globalisation and the Indian Economy",
+              "display_order": 4,
+              "syllabus_status": "core",
+              "topics": [
+                {
+                  "id": "ss-eco-globalisation.production",
+                  "name": "Interlinked Production",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-eco-globalisation.trade",
+                  "name": "Foreign Trade",
+                  "display_order": 2
+                },
+                {
+                  "id": "ss-eco-globalisation.factors",
+                  "name": "Factors Enabling Globalisation",
+                  "display_order": 3
+                },
+                {
+                  "id": "ss-eco-globalisation.wto",
+                  "name": "WTO and Its Impact",
+                  "display_order": 4
+                }
+              ]
+            },
+            {
+              "id": "ss-eco-consumer",
+              "code": "5",
+              "name": "Consumer Rights",
+              "display_order": 5,
+              "syllabus_status": "optional",
+              "topics": [
+                {
+                  "id": "ss-eco-consumer.rights",
+                  "name": "Consumer Rights",
+                  "display_order": 1
+                },
+                {
+                  "id": "ss-eco-consumer.redressal",
+                  "name": "Redressal Mechanisms",
+                  "display_order": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "icon": "book",
+      "display_order": 4,
+      "is_active": false,
+      "note": "Phase 7.",
+      "branches": []
+    },
+    {
+      "id": "hindi",
+      "name": "Hindi",
+      "icon": "pen",
+      "display_order": 5,
+      "is_active": false,
+      "note": "Phase 7. Unicode-safe end to end.",
+      "branches": []
+    }
+  ]
+}

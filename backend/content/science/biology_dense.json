@@ -1,0 +1,2177 @@
+{
+ "chapter": "sci-bio-life",
+ "kind": "fact",
+ "source_ref": "CBSE/NCERT Class 10 Science (2025-26) syllabus facts and one-line definitions, restated in original wording. Questions are composed from these facts by the generators; no textbook passage is reproduced.",
+ "generator_note": "Mixed fact and definition clusters. Facts are grouped by shared attribute so the reverse and negative-recall forms unlock; definitions carry their own term and meaning.",
+ "items": [
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Stomata",
+   "attribute": "function of",
+   "value": "Exchange of gases and loss of water as vapour",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Guard cells",
+   "attribute": "function of",
+   "value": "Opening and closing of the stomatal pore",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Chlorophyll",
+   "attribute": "function of",
+   "value": "Absorbing light energy during photosynthesis",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Root hairs",
+   "attribute": "function of",
+   "value": "Absorbing water and minerals from the soil",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Salivary amylase",
+   "attribute": "function of",
+   "value": "Breaking starch down into simpler sugars in the mouth",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Pepsin",
+   "attribute": "function of",
+   "value": "Digesting proteins in an acidic medium",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Trypsin",
+   "attribute": "function of",
+   "value": "Digesting proteins in the alkaline medium of the small intestine",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Lipase",
+   "attribute": "function of",
+   "value": "Digesting fats",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Bile juice",
+   "attribute": "function of",
+   "value": "Emulsifying large fat globules into smaller ones",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Villi of the small intestine",
+   "attribute": "function of",
+   "value": "Increasing the surface area for absorption of digested food",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Mucus lining the stomach",
+   "attribute": "function of",
+   "value": "Protecting the inner wall from hydrochloric acid",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Photosynthesis",
+   "attribute": "occurs in",
+   "value": "Chloroplasts of green plant cells",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Glycolysis, the first step of glucose breakdown",
+   "attribute": "occurs in",
+   "value": "The cytoplasm of the cell",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Complete oxidation of pyruvate",
+   "attribute": "occurs in",
+   "value": "The mitochondria",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Fermentation producing ethanol and carbon dioxide",
+   "attribute": "occurs in",
+   "value": "Yeast cells, in the absence of oxygen",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Formation of lactic acid",
+   "attribute": "occurs in",
+   "value": "Muscle cells during a shortage of oxygen",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Digestion of fats",
+   "attribute": "occurs in",
+   "value": "The small intestine, aided by bile and lipase",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Absorption of digested food",
+   "attribute": "occurs in",
+   "value": "The villi of the small intestine",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Absorption of water from undigested food",
+   "attribute": "occurs in",
+   "value": "The large intestine",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Holozoic nutrition",
+   "attribute": "example of",
+   "value": "Human beings and amoeba",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Autotrophic nutrition",
+   "attribute": "example of",
+   "value": "Green plants",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Saprophytic nutrition",
+   "attribute": "example of",
+   "value": "Fungi, yeast and many bacteria",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "Parasitic nutrition",
+   "attribute": "example of",
+   "value": "Cuscuta, ticks, leeches and tapeworms",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "subject": "A holozoic feeder taking in solid food",
+   "attribute": "example of",
+   "value": "An amoeba engulfing food with pseudopodia",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.respiration",
+   "subject": "Aerobic respiration of one glucose molecule",
+   "attribute": "product of",
+   "value": "Carbon dioxide, water and 38 ATP molecules",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.respiration",
+   "subject": "Anaerobic respiration in yeast",
+   "attribute": "product of",
+   "value": "Ethanol, carbon dioxide and only 2 ATP molecules",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.respiration",
+   "subject": "Anaerobic respiration in human muscle",
+   "attribute": "product of",
+   "value": "Lactic acid and a small amount of energy",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.respiration",
+   "subject": "Breakdown of glucose in the cytoplasm",
+   "attribute": "product of",
+   "value": "Pyruvate, a three-carbon compound",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.respiration",
+   "subject": "Exchange of gases in the alveoli",
+   "attribute": "product of",
+   "value": "Oxygen entering blood and carbon dioxide leaving it",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.respiration",
+   "subject": "The energy currency of the cell",
+   "attribute": "term for",
+   "value": "ATP",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.respiration",
+   "subject": "The respiratory pigment in humans",
+   "attribute": "term for",
+   "value": "Haemoglobin",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.respiration",
+   "subject": "The balloon-like sacs where gases are exchanged",
+   "attribute": "term for",
+   "value": "Alveoli",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.respiration",
+   "subject": "The muscle that changes thoracic cavity volume",
+   "attribute": "term for",
+   "value": "Diaphragm",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.respiration",
+   "subject": "Breathing rate in aquatic animals",
+   "attribute": "term for",
+   "value": "Much faster than in terrestrial animals",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "Xylem tissue",
+   "attribute": "function of",
+   "value": "Water and minerals absorbed by the roots",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "Phloem tissue",
+   "attribute": "function of",
+   "value": "Food synthesised in the leaves, to all other parts",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "Arteries",
+   "attribute": "function of",
+   "value": "Blood away from the heart, under high pressure",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "Veins",
+   "attribute": "function of",
+   "value": "Blood towards the heart, through valves that prevent backflow",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "Capillaries",
+   "attribute": "function of",
+   "value": "Exchange of materials between blood and surrounding cells",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "Platelets",
+   "attribute": "function of",
+   "value": "Clotting of blood at the site of an injury",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "Lymph",
+   "attribute": "function of",
+   "value": "Digested and absorbed fat, and drained excess fluid from tissues",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "Red blood cells",
+   "attribute": "function of",
+   "value": "Oxygen, carried by haemoglobin",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "White blood cells",
+   "attribute": "function of",
+   "value": "Defence against infection",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "The right atrium",
+   "attribute": "function of",
+   "value": "Deoxygenated blood returning from the body",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "The right ventricle",
+   "attribute": "function of",
+   "value": "Deoxygenated blood from the right atrium",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "The left atrium",
+   "attribute": "function of",
+   "value": "Oxygenated blood from the lungs",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "The left ventricle",
+   "attribute": "function of",
+   "value": "Oxygenated blood, which it pumps to the whole body",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "The lungs",
+   "attribute": "function of",
+   "value": "Deoxygenated blood for release of carbon dioxide",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "A single circulatory passage through the heart",
+   "attribute": "found in",
+   "value": "Fish",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "An incompletely divided three-chambered heart",
+   "attribute": "found in",
+   "value": "Amphibians and reptiles",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "A four-chambered heart with complete separation",
+   "attribute": "found in",
+   "value": "Birds and mammals",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "Double circulation",
+   "attribute": "found in",
+   "value": "Human beings, where blood passes through the heart twice in one cycle",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "subject": "The thickest muscular wall",
+   "attribute": "found in",
+   "value": "The left ventricle",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.excretion",
+   "subject": "Removal of nitrogenous waste from blood",
+   "attribute": "performed by",
+   "value": "The kidneys",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.excretion",
+   "subject": "Filtration of blood under pressure",
+   "attribute": "performed by",
+   "value": "The glomerulus",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.excretion",
+   "subject": "Collection of the filtrate",
+   "attribute": "performed by",
+   "value": "Bowman's capsule",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.excretion",
+   "subject": "Selective reabsorption of glucose and water",
+   "attribute": "performed by",
+   "value": "The tubular part of the nephron",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.excretion",
+   "subject": "Removal of waste in unicellular organisms",
+   "attribute": "performed by",
+   "value": "Diffusion through the cell membrane",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.excretion",
+   "subject": "Excretion in plants",
+   "attribute": "performed by",
+   "value": "Falling leaves, resin and gum, and storage in vacuoles",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.excretion",
+   "subject": "The functional unit of the kidney",
+   "attribute": "term for",
+   "value": "Nephron",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.excretion",
+   "subject": "The cup-shaped end of a nephron",
+   "attribute": "term for",
+   "value": "Bowman's capsule",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.excretion",
+   "subject": "The ball of capillaries inside Bowman's capsule",
+   "attribute": "term for",
+   "value": "Glomerulus",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.excretion",
+   "subject": "Artificial removal of waste from blood",
+   "attribute": "term for",
+   "value": "Haemodialysis",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.excretion",
+   "subject": "The main nitrogenous waste in humans",
+   "attribute": "term for",
+   "value": "Urea",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The cerebrum",
+   "attribute": "function of",
+   "value": "Thinking, memory, voluntary actions and sensory perception",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The cerebellum",
+   "attribute": "function of",
+   "value": "Posture, balance and the precision of voluntary movement",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The medulla",
+   "attribute": "function of",
+   "value": "Involuntary actions such as blood pressure, salivation and vomiting",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The hypothalamus",
+   "attribute": "function of",
+   "value": "Hunger, thirst, sleep and body temperature",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The spinal cord",
+   "attribute": "function of",
+   "value": "Reflex actions, and carrying signals between brain and body",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The pons",
+   "attribute": "function of",
+   "value": "Regulation of respiration",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The basic unit of the nervous system",
+   "attribute": "term for",
+   "value": "Neuron",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The gap between two neurons",
+   "attribute": "term for",
+   "value": "Synapse",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The part of a neuron that receives information",
+   "attribute": "term for",
+   "value": "Dendrite",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The part of a neuron that conducts an impulse away from the cell body",
+   "attribute": "term for",
+   "value": "Axon",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The path taken by a reflex action",
+   "attribute": "term for",
+   "value": "Reflex arc",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "Nerves arising from the brain",
+   "attribute": "term for",
+   "value": "Cranial nerves, of which there are 12 pairs",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "Nerves arising from the spinal cord",
+   "attribute": "term for",
+   "value": "Spinal nerves, of which there are 31 pairs",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The part of the nervous system controlling internal organs involuntarily",
+   "attribute": "term for",
+   "value": "Autonomic nervous system",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "subject": "The brain and spinal cord together",
+   "attribute": "term for",
+   "value": "Central nervous system",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.reflex",
+   "subject": "A reflex action",
+   "attribute": "example of",
+   "value": "Pulling a hand away from a hot object before feeling pain",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.reflex",
+   "subject": "A voluntary action",
+   "attribute": "example of",
+   "value": "Deciding to write or to chew food",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.reflex",
+   "subject": "An involuntary action",
+   "attribute": "example of",
+   "value": "Salivation, vomiting and the movement of food in the alimentary canal",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.reflex",
+   "subject": "A reflex centred in the spinal cord",
+   "attribute": "example of",
+   "value": "Knee-jerk response",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.reflex",
+   "subject": "The protective value of a reflex",
+   "attribute": "example of",
+   "value": "Responding to danger faster than thought allows",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.hormones",
+   "subject": "Insulin",
+   "attribute": "function of",
+   "value": "Regulating the level of sugar in the blood",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.hormones",
+   "subject": "Thyroxine",
+   "attribute": "function of",
+   "value": "Regulating the metabolism of carbohydrates, proteins and fats",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.hormones",
+   "subject": "Adrenaline",
+   "attribute": "function of",
+   "value": "Preparing the body for stress by raising heart rate and breathing",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.hormones",
+   "subject": "Growth hormone",
+   "attribute": "function of",
+   "value": "Growth and development of the body",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.hormones",
+   "subject": "Testosterone",
+   "attribute": "function of",
+   "value": "Development of male secondary sexual characters",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.hormones",
+   "subject": "Oestrogen",
+   "attribute": "function of",
+   "value": "Development of female secondary sexual characters",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.hormones",
+   "subject": "Goitre",
+   "attribute": "caused by",
+   "value": "A deficiency of iodine in the diet",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.hormones",
+   "subject": "Diabetes",
+   "attribute": "caused by",
+   "value": "Insufficient secretion of insulin",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.hormones",
+   "subject": "Dwarfism",
+   "attribute": "caused by",
+   "value": "Insufficient secretion of growth hormone in childhood",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.hormones",
+   "subject": "Gigantism",
+   "attribute": "caused by",
+   "value": "Excess secretion of growth hormone in childhood",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.hormones",
+   "subject": "Cretinism",
+   "attribute": "caused by",
+   "value": "Deficiency of thyroxine in children, causing stunted growth and low intelligence",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.hormones",
+   "subject": "Increased heart rate and blood supply to muscles",
+   "attribute": "caused by",
+   "value": "Release of adrenaline in a frightening situation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Auxin",
+   "attribute": "function of",
+   "value": "Cell elongation and growth of the shoot towards light",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Gibberellin",
+   "attribute": "function of",
+   "value": "Stem elongation and helping seeds to germinate",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Cytokinin",
+   "attribute": "function of",
+   "value": "Cell division and delaying the ageing of leaves",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Abscisic acid",
+   "attribute": "function of",
+   "value": "Inhibiting growth, causing wilting and promoting seed dormancy",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Ethylene",
+   "attribute": "function of",
+   "value": "Ripening of fruits",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Growth of a shoot towards light",
+   "attribute": "term for",
+   "value": "Phototropism",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Growth of a root towards gravity",
+   "attribute": "term for",
+   "value": "Positive geotropism",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Growth of a pollen tube towards the ovule",
+   "attribute": "term for",
+   "value": "Chemotropism",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Growth of a root towards water",
+   "attribute": "term for",
+   "value": "Hydrotropism",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Movement of a tendril around a support",
+   "attribute": "term for",
+   "value": "Thigmotropism",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Rapid non-directional folding of Mimosa pudica leaves on touch",
+   "attribute": "term for",
+   "value": "A nastic movement",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Chemicals used by plants for coordination",
+   "attribute": "term for",
+   "value": "Phytohormones",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Coordination in plants without a nervous system",
+   "attribute": "explained by",
+   "value": "Chemical signalling by hormones and electrical signals via ion movement",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Bending of a shoot towards light",
+   "attribute": "explained by",
+   "value": "Auxin accumulating on the shaded side and elongating those cells",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Slower response in plants than in animals",
+   "attribute": "explained by",
+   "value": "Plant responses are growth-based rather than muscle-based",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.plants",
+   "subject": "Non-directional response to touch",
+   "attribute": "explained by",
+   "value": "Change in the amount of water in cells, as in Mimosa",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "The plant Mendel worked on",
+   "attribute": "used by",
+   "value": "The garden pea, Pisum sativum",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "A contrasting pair of characters Mendel studied",
+   "attribute": "used by",
+   "value": "Tall stem and dwarf stem",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Another contrasting pair Mendel studied",
+   "attribute": "used by",
+   "value": "Round seeds and wrinkled seeds",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "A seed colour pair Mendel studied",
+   "attribute": "used by",
+   "value": "Yellow and green",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "A flower colour pair Mendel studied",
+   "attribute": "used by",
+   "value": "Violet and white",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "The scientist called the father of genetics",
+   "attribute": "used by",
+   "value": "Gregor Johann Mendel",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "The number of pairs of contrasting characters Mendel studied",
+   "attribute": "used by",
+   "value": "Seven",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Phenotypes in the F2 generation of a monohybrid cross",
+   "attribute": "ratio of",
+   "value": "3 : 1",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Genotypes in the F2 generation of a monohybrid cross",
+   "attribute": "ratio of",
+   "value": "1 : 2 : 1",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Phenotypes in the F2 generation of a dihybrid cross",
+   "attribute": "ratio of",
+   "value": "9 : 3 : 3 : 1",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Traits visible in the F1 generation",
+   "attribute": "ratio of",
+   "value": "Only the dominant trait",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Traits reappearing in the F2 generation",
+   "attribute": "ratio of",
+   "value": "The recessive trait, in one quarter",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Characters in the F1 generation",
+   "attribute": "conclusion of",
+   "value": "One form dominated over the other",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Characters disappearing in F1",
+   "attribute": "conclusion of",
+   "value": "Were present but not expressed, and reappeared in F2",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Each parent's contribution",
+   "attribute": "conclusion of",
+   "value": "Two copies of a factor, of which only one passes to a gamete",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "Inheritance of two characters together",
+   "attribute": "conclusion of",
+   "value": "Occurred independently of each other",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.mendel",
+   "subject": "The basis of a trait",
+   "attribute": "conclusion of",
+   "value": "A factor, now called a gene",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Heredity",
+   "attribute": "meaning of",
+   "value": "The transmission of characters from parents to offspring",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Variation",
+   "attribute": "meaning of",
+   "value": "Differences in characters among individuals of a species",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Gene",
+   "attribute": "meaning of",
+   "value": "A unit of inheritance, a segment of DNA on a chromosome",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Allele",
+   "attribute": "meaning of",
+   "value": "One of the alternative forms of a gene",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Dominant trait",
+   "attribute": "meaning of",
+   "value": "The trait expressed in the F1 generation",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Recessive trait",
+   "attribute": "meaning of",
+   "value": "The trait suppressed in F1 and reappearing in F2",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Genotype",
+   "attribute": "meaning of",
+   "value": "The genetic constitution of an individual",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Phenotype",
+   "attribute": "meaning of",
+   "value": "The observable characteristics of an individual",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Homozygous",
+   "attribute": "meaning of",
+   "value": "Having two identical alleles, such as TT or tt",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Heterozygous",
+   "attribute": "meaning of",
+   "value": "Having two different alleles, such as Tt",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Acquired trait",
+   "attribute": "meaning of",
+   "value": "A trait developed during a lifetime and not passed on to offspring",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "An acquired trait",
+   "attribute": "example of",
+   "value": "Weight gained through diet, or muscle built by exercise",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "An inherited trait",
+   "attribute": "example of",
+   "value": "Colour of eyes, or the ability to roll the tongue",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Homologous organs",
+   "attribute": "example of",
+   "value": "The forelimbs of a frog, a lizard, a bird and a human",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Analogous organs",
+   "attribute": "example of",
+   "value": "The wings of a bird and the wings of an insect",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Evidence of evolution from preserved traces",
+   "attribute": "example of",
+   "value": "Fossils",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "A homozygous tall genotype",
+   "attribute": "written as",
+   "value": "TT",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "A heterozygous tall genotype",
+   "attribute": "written as",
+   "value": "Tt",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "A homozygous dwarf genotype",
+   "attribute": "written as",
+   "value": "tt",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "A homozygous round-seed genotype",
+   "attribute": "written as",
+   "value": "RR",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "A heterozygous round-seed genotype",
+   "attribute": "written as",
+   "value": "Rr",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "A homozygous wrinkled-seed genotype",
+   "attribute": "written as",
+   "value": "rr",
+   "difficulty": "medium",
+   "case_sensitive": true
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "The theory of evolution by natural selection",
+   "attribute": "proposed by",
+   "value": "Charles Darwin, in On the Origin of Species",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Tracing relationships from differences in DNA sequences",
+   "attribute": "proposed by",
+   "value": "Molecular phylogeny",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Homologous organs as evidence",
+   "attribute": "proposed by",
+   "value": "Common ancestry despite different functions",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "subject": "Analogous organs as evidence",
+   "attribute": "proposed by",
+   "value": "Convergence, not common ancestry",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Sex in human beings",
+   "attribute": "determined by",
+   "value": "The sex chromosome inherited from the father",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "A male's sex chromosomes",
+   "attribute": "determined by",
+   "value": "XY",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "A female's sex chromosomes",
+   "attribute": "determined by",
+   "value": "XX",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "An egg cell's sex chromosome",
+   "attribute": "determined by",
+   "value": "Always X",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "A sperm cell's sex chromosome",
+   "attribute": "determined by",
+   "value": "Either X or Y",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "The total number of chromosomes in a human body cell",
+   "attribute": "determined by",
+   "value": "46, in 23 pairs",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "The number of autosomes in a human body cell",
+   "attribute": "determined by",
+   "value": "22 pairs",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "The number of chromosomes in a human gamete",
+   "attribute": "determined by",
+   "value": "23",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "The number of chromosomes in a human zygote",
+   "attribute": "determined by",
+   "value": "46",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Every child having a 50 per cent chance of being a boy",
+   "attribute": "explained by",
+   "value": "Half the sperm carry Y and half carry X",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Parents not being responsible for the sex of a child",
+   "attribute": "explained by",
+   "value": "The sperm, not the egg, decides it",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Halving of chromosomes in gametes",
+   "attribute": "explained by",
+   "value": "So the zygote restores the species number",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Variation being important for survival",
+   "attribute": "explained by",
+   "value": "It allows a species to adapt to a changing environment",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.sex",
+   "subject": "Asexual reproduction producing little variation",
+   "attribute": "explained by",
+   "value": "Only one parent contributes DNA",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "A producer",
+   "attribute": "role of",
+   "value": "Green plants that make their own food by photosynthesis",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "A consumer",
+   "attribute": "role of",
+   "value": "An organism that depends on producers, directly or indirectly",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "A decomposer",
+   "attribute": "role of",
+   "value": "Bacteria and fungi that break down dead organic matter",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "A herbivore",
+   "attribute": "role of",
+   "value": "An animal that feeds on plants",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "A carnivore",
+   "attribute": "role of",
+   "value": "An animal that feeds on the flesh of other animals",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "An omnivore",
+   "attribute": "role of",
+   "value": "An animal that eats both plants and animals",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "Scavengers",
+   "attribute": "role of",
+   "value": "Animals that feed on dead bodies, such as vultures and crows",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "Abiotic components",
+   "attribute": "role of",
+   "value": "Sunlight, temperature, water, soil and air",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "A self-sustaining system of living and non-living components",
+   "attribute": "term for",
+   "value": "Ecosystem",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "A series of organisms feeding on one another",
+   "attribute": "term for",
+   "value": "Food chain",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "A network of interconnected food chains",
+   "attribute": "term for",
+   "value": "Food web",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "The position of an organism in a food chain",
+   "attribute": "term for",
+   "value": "Trophic level",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "The flow of energy in an ecosystem",
+   "attribute": "term for",
+   "value": "Unidirectional, from producers to higher levels",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "subject": "The ultimate source of energy for an ecosystem",
+   "attribute": "term for",
+   "value": "The Sun",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "The ten per cent law",
+   "attribute": "stated by",
+   "value": "Only about ten per cent of energy passes to the next trophic level",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "The scientist who proposed the ten per cent law",
+   "attribute": "stated by",
+   "value": "Lindeman",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "The fate of the remaining ninety per cent",
+   "attribute": "stated by",
+   "value": "Lost as heat, or used in the organism's own life processes",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "The usual maximum number of trophic levels",
+   "attribute": "stated by",
+   "value": "Three or four, because so little energy remains",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "Energy entering producers",
+   "attribute": "stated by",
+   "value": "About one per cent of the sunlight falling on them",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "The direction of energy flow",
+   "attribute": "stated by",
+   "value": "One way, from the Sun through producers to consumers",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "Fewer organisms at higher trophic levels",
+   "attribute": "explained by",
+   "value": "Progressive loss of energy between levels",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "Why food chains are short",
+   "attribute": "explained by",
+   "value": "Energy available becomes too small to support more levels",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "Why harmful chemicals concentrate at the top",
+   "attribute": "explained by",
+   "value": "Biological magnification along the food chain",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.energy-flow",
+   "subject": "Why the flow of energy is one-way",
+   "attribute": "explained by",
+   "value": "Energy lost as heat cannot be reused by producers",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Paper, vegetable peel and fruit waste",
+   "attribute": "classified as",
+   "value": "Biodegradable, broken down by microorganisms",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Plastic, glass and metals",
+   "attribute": "classified as",
+   "value": "Non-biodegradable, persisting in the environment",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "DDT and BHC pesticides",
+   "attribute": "classified as",
+   "value": "Non-biodegradable, and magnified along food chains",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Cotton cloth and wood",
+   "attribute": "classified as",
+   "value": "Biodegradable and suitable for composting",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Polythene bags and aluminium foil",
+   "attribute": "classified as",
+   "value": "Non-biodegradable, best avoided at source",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Sewage and animal dung",
+   "attribute": "classified as",
+   "value": "Biodegradable, and usable in a biogas plant",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Ozone in the upper atmosphere",
+   "attribute": "caused by",
+   "value": "Protection of living organisms from ultraviolet radiation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Depletion of the ozone layer",
+   "attribute": "caused by",
+   "value": "Chlorofluorocarbons used in refrigeration and aerosols",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "The location of the ozone layer",
+   "attribute": "caused by",
+   "value": "The stratosphere",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "The chemical formula of ozone",
+   "attribute": "caused by",
+   "value": "O3",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Biological magnification",
+   "attribute": "caused by",
+   "value": "Accumulation of non-biodegradable chemicals at higher trophic levels",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Landfill problems",
+   "attribute": "caused by",
+   "value": "Leachate contaminating groundwater and generating methane",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Kitchen and garden waste",
+   "attribute": "managed by",
+   "value": "Composting, or biogas plants",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Plastic and metal waste",
+   "attribute": "managed by",
+   "value": "Recycling",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Mixed municipal waste",
+   "attribute": "managed by",
+   "value": "Segregation at source into biodegradable and non-biodegradable",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Hospital and laboratory waste",
+   "attribute": "managed by",
+   "value": "Incineration under controlled conditions",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "Reducing waste volume",
+   "attribute": "managed by",
+   "value": "The three R's: reduce, reuse and recycle",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.waste",
+   "subject": "World Environment Day",
+   "attribute": "managed by",
+   "value": "Celebrated on 5 June every year",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "term": "Digestion",
+   "definition": "The breakdown of complex food substances into simpler, absorbable forms.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "term": "Emulsification",
+   "definition": "The breaking of large fat globules into smaller droplets so that enzymes can act on them.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "term": "Peristalsis",
+   "definition": "The rhythmic contraction and relaxation of the alimentary canal that pushes food forward.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "term": "Life processes",
+   "definition": "The basic functions an organism must perform to stay alive: nutrition, respiration, transport and excretion.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.nutrition",
+   "term": "Breathing",
+   "definition": "The physical exchange of gases between an organism and its surroundings.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "term": "Double circulation",
+   "definition": "The passage of blood through the heart twice in one complete cycle, once to the lungs and once to the body.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "term": "Blood pressure",
+   "definition": "The force exerted by flowing blood on the walls of blood vessels.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "term": "Systolic pressure",
+   "definition": "The pressure in the arteries when the ventricles contract.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "term": "Diastolic pressure",
+   "definition": "The pressure in the arteries when the ventricles relax.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-life",
+   "topic": "sci-bio-life.transport",
+   "term": "Osmoregulation",
+   "definition": "The control of the amount of water and salts in the body.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "term": "Stimulus",
+   "definition": "A change in the environment detected by a receptor.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "term": "Receptor",
+   "definition": "A specialised structure that detects a stimulus and starts a nerve impulse.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "term": "Effector",
+   "definition": "A muscle or gland that responds to a nerve impulse.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "term": "Nerve impulse",
+   "definition": "An electrochemical signal travelling along a neuron.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "term": "Reflex action",
+   "definition": "A sudden, involuntary response to a stimulus that does not involve the thinking part of the brain.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "term": "Neurotransmitter",
+   "definition": "A chemical that carries a signal across the synapse to the next neuron.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "term": "Coordination",
+   "definition": "The working together of different parts of the body to produce an organised response.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "term": "Endocrine gland",
+   "definition": "A ductless gland that secretes hormones directly into the blood.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-control",
+   "topic": "sci-bio-control.nervous",
+   "term": "Feedback mechanism",
+   "definition": "A process by which the secretion of a hormone is regulated by its own effect.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "term": "Evolution",
+   "definition": "The gradual change in the inherited characteristics of a population over generations.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "term": "Speciation",
+   "definition": "The formation of a new species from an existing one.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "term": "Natural selection",
+   "definition": "The survival and reproduction of individuals better suited to their environment.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "term": "Fossil",
+   "definition": "The preserved trace or remains of a living organism from a past geological age.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "term": "DNA",
+   "definition": "Deoxyribonucleic acid, the molecule in a cell that carries hereditary information.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "term": "Sex chromosome",
+   "definition": "A chromosome that determines the sex of an individual; X or Y in human beings.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-heredity",
+   "topic": "sci-bio-heredity.terms",
+   "term": "Autosome",
+   "definition": "Any chromosome that is not a sex chromosome.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "term": "Environment",
+   "definition": "Everything surrounding an organism, including both living and non-living components.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "term": "Biotic component",
+   "definition": "The living parts of an ecosystem: producers, consumers and decomposers.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "term": "Abiotic component",
+   "definition": "The non-living parts of an ecosystem: sunlight, temperature, water, soil and air.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "term": "Biodegradable substance",
+   "definition": "A substance that can be broken down into simple harmless substances by microorganisms.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "term": "Non-biodegradable substance",
+   "definition": "A substance that cannot be broken down by biological processes and persists in the environment.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "term": "Compost",
+   "definition": "Organic matter decomposed by microorganisms and used to enrich soil.",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "definition",
+   "chapter": "sci-bio-env",
+   "topic": "sci-bio-env.ecosystem",
+   "term": "Incineration",
+   "definition": "The burning of waste at high temperature to reduce its volume.",
+   "difficulty": "easy"
+  }
+ ]
+}

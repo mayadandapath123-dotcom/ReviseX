@@ -1,0 +1,2106 @@
+{
+ "chapter": "ss-eco-development",
+ "kind": "fact",
+ "generator": "fact_attribute",
+ "source_ref": "CBSE/NCERT Class 10 Social Science (2025-26) syllabus facts, restated in original wording. Questions are composed from these facts by the fact-attribute generator; no text is reproduced from any textbook.",
+ "generator_note": "Dense attribute clusters. Each item carries its own chapter and topic, so one file can span a whole branch. Clusters of four or more items sharing an attribute unlock the reverse and negative-recall question forms, which is what makes these worth three questions each rather than one.",
+ "items": [
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "A person's developmental goals",
+   "attribute": "depends on",
+   "value": "Their life situation and what they consider important",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "What may be development for one person",
+   "attribute": "depends on",
+   "value": "Something destructive for another",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "Conflicting developmental goals",
+   "attribute": "depends on",
+   "value": "The need for a collective decision about the future",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "Different persons' goals",
+   "attribute": "depends on",
+   "value": "Being different, and sometimes in conflict",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "A common goal for all",
+   "attribute": "depends on",
+   "value": "One that a large number of people agree is important",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "Development of a country",
+   "attribute": "depends on",
+   "value": "The mix of goals its people collectively pursue",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "A developmental goal other than income",
+   "attribute": "example of",
+   "value": "Equal treatment, freedom, security and respect",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "A goal of a landless rural labourer",
+   "attribute": "example of",
+   "value": "More days of work and better wages",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "A goal of a prosperous farmer",
+   "attribute": "example of",
+   "value": "Cheap labour and higher prices for produce",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "A goal of a girl child",
+   "attribute": "example of",
+   "value": "Freedom equal to her brother's, and time for study",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "A goal of an industrialist",
+   "attribute": "example of",
+   "value": "Cheaper electricity and higher dams",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "A goal of an Adivasi displaced by a dam",
+   "attribute": "example of",
+   "value": "Restoration of forest rights and livelihood",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.income",
+   "subject": "Total income of a country",
+   "attribute": "measured by",
+   "value": "The sum of incomes of all its residents",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.income",
+   "subject": "Per capita income",
+   "attribute": "measured by",
+   "value": "National income divided by total population",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.income",
+   "subject": "Average income",
+   "attribute": "measured by",
+   "value": "Another name for per capita income",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.income",
+   "subject": "The World Bank's classification",
+   "attribute": "measured by",
+   "value": "Per capita income of countries, published in the World Development Report",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.income",
+   "subject": "A limitation of average income",
+   "attribute": "measured by",
+   "value": "It hides how unequal the distribution is",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.income",
+   "subject": "Body Mass Index",
+   "attribute": "measured by",
+   "value": "Weight in kilograms divided by the square of height in metres",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.income",
+   "subject": "A rich or high-income country in 2019",
+   "attribute": "classified as",
+   "value": "Per capita income of US$ 12,056 per annum and above",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.income",
+   "subject": "A low-income country in 2019",
+   "attribute": "classified as",
+   "value": "Per capita income of US$ 1,036 per annum or less",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.income",
+   "subject": "A low-middle income country in 2019",
+   "attribute": "classified as",
+   "value": "Per capita income between US$ 1,036 and US$ 4,045",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.income",
+   "subject": "India's income group in 2019",
+   "attribute": "classified as",
+   "value": "Low-middle income",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "Infant Mortality Rate",
+   "attribute": "measured by",
+   "value": "Children who die before the age of one year per 1,000 live births",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "Literacy Rate",
+   "attribute": "measured by",
+   "value": "The proportion of the population aged seven and above who can read and write",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "Net Attendance Ratio",
+   "attribute": "measured by",
+   "value": "Children aged six to ten attending school as a percentage of all children in that age group",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "Human Development Index",
+   "attribute": "measured by",
+   "value": "Health, education and income taken together",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "Health status of a population",
+   "attribute": "measured by",
+   "value": "Life expectancy, infant mortality and nutrition levels",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "Educational attainment",
+   "attribute": "measured by",
+   "value": "Literacy rate, gross enrolment and years of schooling",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "The Human Development Index",
+   "attribute": "published by",
+   "value": "The United Nations Development Programme",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "The World Development Report",
+   "attribute": "published by",
+   "value": "The World Bank, published annually",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "Per capita income comparisons",
+   "attribute": "published by",
+   "value": "The World Bank",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "Life expectancy data",
+   "attribute": "published by",
+   "value": "Health statistics compiled internationally",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "Kerala's low Infant Mortality Rate",
+   "attribute": "explained by",
+   "value": "Adequate provision of basic health and educational services",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "Better human development despite lower income",
+   "attribute": "explained by",
+   "value": "Public provision of health, education and food",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "Underweight children in India",
+   "attribute": "explained by",
+   "value": "Inadequate nutrition and unequal access to services",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.indicators",
+   "subject": "The importance of public facilities",
+   "attribute": "explained by",
+   "value": "Individual income cannot buy everything a person needs",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "Over-irrigation in Punjab, Haryana and western Uttar Pradesh",
+   "attribute": "sustained by",
+   "value": "A falling groundwater table",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "Districts in India with water levels below four metres",
+   "attribute": "sustained by",
+   "value": "About 300, as reported in groundwater surveys",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "Crude oil reserves at present extraction rates",
+   "attribute": "sustained by",
+   "value": "Estimated to last about 50 more years",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "Unsustainable use of resources",
+   "attribute": "sustained by",
+   "value": "Development becoming a threat to the future",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "Sustainable development",
+   "attribute": "sustained by",
+   "value": "Meeting present needs without compromising future generations",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-development",
+   "topic": "ss-eco-development.goals",
+   "subject": "Groundwater depletion",
+   "attribute": "sustained by",
+   "value": "Over-use for water-intensive crops",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.primary",
+   "subject": "The primary sector",
+   "attribute": "consists of",
+   "value": "Activities that use natural resources directly",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.primary",
+   "subject": "Agriculture",
+   "attribute": "consists of",
+   "value": "The largest activity within the primary sector",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.primary",
+   "subject": "Dairy and fishing",
+   "attribute": "consists of",
+   "value": "Primary sector activities dependent on natural produce",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.primary",
+   "subject": "Forestry and mining",
+   "attribute": "consists of",
+   "value": "Extraction of natural resources",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.primary",
+   "subject": "The primary sector's other name",
+   "attribute": "consists of",
+   "value": "The agriculture and related sector",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.secondary",
+   "subject": "The secondary sector",
+   "attribute": "consists of",
+   "value": "Activities that transform natural products into other forms",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.secondary",
+   "subject": "Manufacturing",
+   "attribute": "consists of",
+   "value": "The main activity of the secondary sector",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.secondary",
+   "subject": "Construction",
+   "attribute": "consists of",
+   "value": "Building activity counted in the secondary sector",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.secondary",
+   "subject": "The secondary sector's other name",
+   "attribute": "consists of",
+   "value": "The industrial sector",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.secondary",
+   "subject": "A sugar mill",
+   "attribute": "consists of",
+   "value": "A secondary sector unit converting sugarcane into sugar",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "The tertiary sector",
+   "attribute": "consists of",
+   "value": "Activities that support the primary and secondary sectors",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "The tertiary sector's other name",
+   "attribute": "consists of",
+   "value": "The service sector",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "Transport and communication",
+   "attribute": "consists of",
+   "value": "Tertiary services that move goods and information",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "Banking, trade and insurance",
+   "attribute": "consists of",
+   "value": "Tertiary services that handle money and exchange",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "Education, health and information technology",
+   "attribute": "consists of",
+   "value": "Tertiary services that develop people and process information",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "A soft drink bottling unit",
+   "attribute": "consists of",
+   "value": "Sometimes counted as manufacturing, sometimes as service",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "Rising incomes",
+   "attribute": "reason for the growth of",
+   "value": "Greater demand for services beyond basic needs",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "Development of agriculture and industry",
+   "attribute": "reason for the growth of",
+   "value": "A need for transport, trade and finance",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "New services based on technology",
+   "attribute": "reason for the growth of",
+   "value": "Information technology, call centres and software",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "Globalisation",
+   "attribute": "reason for the growth of",
+   "value": "Export of services such as IT and business process outsourcing",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "Basic services",
+   "attribute": "reason for the growth of",
+   "value": "Public demand for health, education and banking",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "Gross Domestic Product",
+   "attribute": "measured by",
+   "value": "The total value of all final goods and services produced in a year",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "A final good",
+   "attribute": "measured by",
+   "value": "One sold to the ultimate consumer, with intermediate goods counted once",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "Value added",
+   "attribute": "measured by",
+   "value": "The difference between the value of output and the value of inputs used",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "An intermediate good",
+   "attribute": "measured by",
+   "value": "One used up in producing another good",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "The sectoral share of GDP",
+   "attribute": "measured by",
+   "value": "Each sector's contribution to the total",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "Developed countries",
+   "attribute": "shift of",
+   "value": "From the primary to the secondary and then to the tertiary sector",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "India over the last few decades",
+   "attribute": "shift of",
+   "value": "The tertiary sector becoming the largest producer",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "India's employment pattern",
+   "attribute": "shift of",
+   "value": "Most workers still in the primary sector despite its smaller share of output",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.tertiary",
+   "subject": "Production versus employment",
+   "attribute": "shift of",
+   "value": "They do not shift together at the same pace",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "The organised sector",
+   "attribute": "meaning of",
+   "value": "Enterprises registered with the government and following its rules",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "The unorganised sector",
+   "attribute": "meaning of",
+   "value": "Small scattered units largely outside government control",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "A worker in the organised sector",
+   "attribute": "meaning of",
+   "value": "Having security of employment and paid leave",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "A worker in the unorganised sector",
+   "attribute": "meaning of",
+   "value": "Having no job security and no paid leave or holidays",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "The public sector",
+   "attribute": "meaning of",
+   "value": "Enterprises owned and run by the government",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "The private sector",
+   "attribute": "meaning of",
+   "value": "Enterprises owned and run by individuals or companies",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "The Factories Act",
+   "attribute": "protected by",
+   "value": "Rules on working conditions in factories",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "The Minimum Wages Act",
+   "attribute": "protected by",
+   "value": "A floor wage for workers",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "The Payment of Gratuity Act",
+   "attribute": "protected by",
+   "value": "A lump sum on retirement or leaving service",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "The Shops and Establishments Act",
+   "attribute": "protected by",
+   "value": "Rules for shops and commercial establishments",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "Provident fund and health benefits",
+   "attribute": "protected by",
+   "value": "Statutory benefits in the organised sector",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "A fixed working day and overtime pay",
+   "attribute": "protected by",
+   "value": "Norms in the organised sector",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "Disguised unemployment",
+   "attribute": "suffers from",
+   "value": "More people working than are actually needed, mainly on family farms",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "Underemployment",
+   "attribute": "suffers from",
+   "value": "People working less than they are able and willing to",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "Casual labour in cities",
+   "attribute": "suffers from",
+   "value": "Irregular work in construction, cart-pushing and petty vending",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "Small-scale and casual workers",
+   "attribute": "suffers from",
+   "value": "Low wages and no security",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "Seasonal work in agriculture",
+   "attribute": "suffers from",
+   "value": "Employment for only part of the year",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "The Mahatma Gandhi National Rural Employment Guarantee Act",
+   "attribute": "addressed by",
+   "value": "Passed in 2005, implemented in 2006",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "The right to work under MGNREGA",
+   "attribute": "addressed by",
+   "value": "100 days of guaranteed wage employment in a financial year",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "Eligibility under MGNREGA",
+   "attribute": "addressed by",
+   "value": "Every rural household whose adult members volunteer for unskilled manual work",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "Reservation for women under MGNREGA",
+   "attribute": "addressed by",
+   "value": "One-third of the work",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "If work is not provided within 15 days",
+   "attribute": "addressed by",
+   "value": "An unemployment allowance becomes payable",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-sectors",
+   "topic": "ss-eco-sectors.organised",
+   "subject": "Initial implementation of MGNREGA",
+   "attribute": "addressed by",
+   "value": "200 districts",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.money",
+   "subject": "The double coincidence of wants",
+   "attribute": "solved by",
+   "value": "Money acting as a medium of exchange",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.money",
+   "subject": "Difficulty in barter",
+   "attribute": "solved by",
+   "value": "The need for both parties to want what the other offers",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.money",
+   "subject": "Divisibility of goods",
+   "attribute": "solved by",
+   "value": "Money being divisible into any amount",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.money",
+   "subject": "Storage of value",
+   "attribute": "solved by",
+   "value": "Money being easy to carry and hold",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.money",
+   "subject": "Exchange between strangers",
+   "attribute": "solved by",
+   "value": "Money being accepted by everyone",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.money",
+   "subject": "Currency in India",
+   "attribute": "consists of",
+   "value": "Paper notes and coins issued by the Reserve Bank of India",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.money",
+   "subject": "Modern forms of money",
+   "attribute": "consists of",
+   "value": "Currency and deposits with banks",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.money",
+   "subject": "Demand deposits",
+   "attribute": "consists of",
+   "value": "Deposits that can be withdrawn on demand and used by cheque",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.money",
+   "subject": "A cheque",
+   "attribute": "consists of",
+   "value": "A paper instructing a bank to pay a specific amount from the drawer's account",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.money",
+   "subject": "Legal tender",
+   "attribute": "consists of",
+   "value": "Currency that no one in India can refuse in settlement of a payment",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.money",
+   "subject": "Rupee notes",
+   "attribute": "consists of",
+   "value": "Issued by the Reserve Bank on behalf of the central government",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.banks",
+   "subject": "Accepting deposits",
+   "attribute": "function of",
+   "value": "Paying depositors interest on them",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.banks",
+   "subject": "Lending money",
+   "attribute": "function of",
+   "value": "Charging a higher interest rate than it pays on deposits",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.banks",
+   "subject": "Keeping a small proportion as cash",
+   "attribute": "function of",
+   "value": "To pay depositors who come to withdraw",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.banks",
+   "subject": "Earning from the spread",
+   "attribute": "function of",
+   "value": "The difference between what is charged from borrowers and paid to depositors",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.banks",
+   "subject": "Mediating between depositors and borrowers",
+   "attribute": "function of",
+   "value": "The key function of banks",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.banks",
+   "subject": "Supervision by the Reserve Bank of India",
+   "attribute": "function of",
+   "value": "Ensuring banks maintain cash balance and lend to small borrowers",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.banks",
+   "subject": "The Reserve Bank of India",
+   "attribute": "supervised by",
+   "value": "Monitoring banks' cash balance and lending patterns",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.banks",
+   "subject": "RBI's requirement on banks",
+   "attribute": "supervised by",
+   "value": "Lending to small borrowers, not just to big business",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.banks",
+   "subject": "RBI's requirement on reporting",
+   "attribute": "supervised by",
+   "value": "Banks submitting information on how much they lend and to whom",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.banks",
+   "subject": "Currency issue in India",
+   "attribute": "supervised by",
+   "value": "The Reserve Bank of India on behalf of the central government",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.credit",
+   "subject": "Formal sector credit",
+   "attribute": "divided into",
+   "value": "Loans from banks and cooperatives, supervised by the RBI",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.credit",
+   "subject": "Informal sector credit",
+   "attribute": "divided into",
+   "value": "Loans from moneylenders, traders, employers, relatives and friends",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.credit",
+   "subject": "Informal credit's main problem",
+   "attribute": "divided into",
+   "value": "Very high interest rates and no supervision",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.credit",
+   "subject": "A debt trap",
+   "attribute": "divided into",
+   "value": "Credit increasing earnings in one period but forcing distress in the next",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.credit",
+   "subject": "Terms of credit",
+   "attribute": "divided into",
+   "value": "Interest rate, collateral, documentation and mode of repayment",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.credit",
+   "subject": "Collateral",
+   "attribute": "divided into",
+   "value": "An asset the borrower owns and offers as security until the loan is repaid",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.credit",
+   "subject": "Small farmers and small producers",
+   "attribute": "needed by",
+   "value": "Working capital and inputs before the harvest",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.credit",
+   "subject": "Festival and marriage expenses in rural India",
+   "attribute": "needed by",
+   "value": "Often met through informal credit at high rates",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.credit",
+   "subject": "Urban self-employed households",
+   "attribute": "needed by",
+   "value": "Credit for equipment and stock",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.credit",
+   "subject": "The poor lacking collateral",
+   "attribute": "needed by",
+   "value": "Informal moneylenders, because banks require documents",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.credit",
+   "subject": "Expansion of formal credit",
+   "attribute": "needed by",
+   "value": "Reducing dependence on informal sources",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.shg",
+   "subject": "Membership of a Self-Help Group",
+   "attribute": "organised as",
+   "value": "Typically 15 to 20 members, usually women, from one neighbourhood",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.shg",
+   "subject": "Regular savings per member",
+   "attribute": "organised as",
+   "value": "Rs 25 to Rs 100 or more, depending on ability",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.shg",
+   "subject": "Internal lending",
+   "attribute": "organised as",
+   "value": "Members borrowing from the group's own savings",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.shg",
+   "subject": "Interest charged by the group",
+   "attribute": "organised as",
+   "value": "Lower than what a moneylender charges",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.shg",
+   "subject": "Eligibility for a bank loan",
+   "attribute": "organised as",
+   "value": "After one or two years of regular savings",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.shg",
+   "subject": "Collateral for the group's bank loan",
+   "attribute": "organised as",
+   "value": "None required from individual members",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.shg",
+   "subject": "Repayment responsibility",
+   "attribute": "organised as",
+   "value": "The group, not the individual member",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.shg",
+   "subject": "A social purpose of SHGs",
+   "attribute": "organised as",
+   "value": "A forum for discussing health, nutrition and domestic violence",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-money",
+   "topic": "ss-eco-money.shg",
+   "subject": "Women's empowerment through SHGs",
+   "attribute": "organised as",
+   "value": "Financial independence and a voice in the household",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.production",
+   "subject": "A Multinational Corporation",
+   "attribute": "meaning of",
+   "value": "A company that owns or controls production in more than one country",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.production",
+   "subject": "Where an MNC sets up production",
+   "attribute": "meaning of",
+   "value": "Close to markets, with cheap labour and available raw materials",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.production",
+   "subject": "Interlinking of production across countries",
+   "attribute": "meaning of",
+   "value": "Components made in different countries and assembled in one",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.production",
+   "subject": "Ford Motors in India",
+   "attribute": "meaning of",
+   "value": "A plant near Chennai set up in 1995",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.production",
+   "subject": "MNCs' role in globalisation",
+   "attribute": "meaning of",
+   "value": "The most powerful force spreading production across borders",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.production",
+   "subject": "Joint ventures with local companies",
+   "attribute": "meaning of",
+   "value": "One way MNCs enter a new market",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.production",
+   "subject": "Cheap and skilled labour",
+   "attribute": "benefits from",
+   "value": "Lower production cost in the host country",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.production",
+   "subject": "Proximity to markets",
+   "attribute": "benefits from",
+   "value": "Lower transport cost and faster delivery",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.production",
+   "subject": "Favourable government policies",
+   "attribute": "benefits from",
+   "value": "Tax incentives and flexible labour rules",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.production",
+   "subject": "Available raw materials",
+   "attribute": "benefits from",
+   "value": "Reduced input cost",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.production",
+   "subject": "Good infrastructure",
+   "attribute": "benefits from",
+   "value": "Reliable power, transport and communication",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.production",
+   "subject": "Acquisition of a local company",
+   "attribute": "benefits from",
+   "value": "Immediate access to an existing market",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.trade",
+   "subject": "Foreign trade",
+   "attribute": "results in",
+   "value": "Integration of markets of different countries",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.trade",
+   "subject": "Competition from imports",
+   "attribute": "results in",
+   "value": "Improved quality and lower prices for consumers",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.trade",
+   "subject": "More choice for consumers",
+   "attribute": "results in",
+   "value": "A wider range of goods available",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.trade",
+   "subject": "Producers competing across borders",
+   "attribute": "results in",
+   "value": "Even prices of similar goods tending to become equal",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.trade",
+   "subject": "Movement of goods, services, technology and capital",
+   "attribute": "results in",
+   "value": "The main channels of globalisation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.trade",
+   "subject": "Movement of people",
+   "attribute": "results in",
+   "value": "Migration seeking better income, though far more restricted",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Improvement in technology",
+   "attribute": "enabled by",
+   "value": "Especially in transport and communication",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Containerisation",
+   "attribute": "enabled by",
+   "value": "Faster and cheaper movement of goods by sea",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Information technology",
+   "attribute": "enabled by",
+   "value": "Instant communication and outsourcing of services",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Liberalisation",
+   "attribute": "enabled by",
+   "value": "Removal of barriers and restrictions set by the government",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "India's liberalisation",
+   "attribute": "enabled by",
+   "value": "Started in 1991",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Foreign trade barriers removed",
+   "attribute": "enabled by",
+   "value": "Quantitative restrictions and high import duties",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.wto",
+   "subject": "The World Trade Organisation",
+   "attribute": "role of",
+   "value": "Setting rules for international trade",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.wto",
+   "subject": "The WTO's founding",
+   "attribute": "role of",
+   "value": "Started in 1995",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.wto",
+   "subject": "The WTO's membership",
+   "attribute": "role of",
+   "value": "More than 160 countries",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.wto",
+   "subject": "The WTO's aim",
+   "attribute": "role of",
+   "value": "Liberalising foreign trade and investment",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.wto",
+   "subject": "Criticism of the WTO",
+   "attribute": "role of",
+   "value": "Rules often favour developed countries and force unfair conditions",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.wto",
+   "subject": "Developing countries' response",
+   "attribute": "role of",
+   "value": "Demanding fairer rules and resisting pressure",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.trade",
+   "subject": "Consumers in India",
+   "attribute": "affected by",
+   "value": "More choice, better quality and lower prices",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.trade",
+   "subject": "Top Indian companies",
+   "attribute": "affected by",
+   "value": "Benefited from investment, newer technology and export markets",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.trade",
+   "subject": "Small producers",
+   "attribute": "affected by",
+   "value": "Hit by competition from cheap imports",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.trade",
+   "subject": "Workers",
+   "attribute": "affected by",
+   "value": "More flexible employment with less job security",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.trade",
+   "subject": "India's service exports",
+   "attribute": "affected by",
+   "value": "IT, software and business process services grew sharply",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.trade",
+   "subject": "Rural and informal workers",
+   "attribute": "affected by",
+   "value": "Largely left out of globalisation's benefits",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Government support to small producers",
+   "attribute": "made fairer by",
+   "value": "Helping them improve production until they can compete",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Enforcing labour laws properly",
+   "attribute": "made fairer by",
+   "value": "Protecting workers' rights",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Negotiating at the WTO",
+   "attribute": "made fairer by",
+   "value": "Demanding fairer rules for developing countries",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Alliances among developing countries",
+   "attribute": "made fairer by",
+   "value": "Joint resistance to unfair trade pressure",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Protecting certain industries temporarily",
+   "attribute": "made fairer by",
+   "value": "Allowing domestic firms to grow",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The right to be informed",
+   "attribute": "guarantees",
+   "value": "Full information about the goods and services purchased",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The right to choose",
+   "attribute": "guarantees",
+   "value": "Selection from a range of goods and services at competitive prices",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The right to seek redressal",
+   "attribute": "guarantees",
+   "value": "Compensation against unfair trade practices and exploitation",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The right to representation",
+   "attribute": "guarantees",
+   "value": "Being heard in consumer forums",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The right to safety",
+   "attribute": "guarantees",
+   "value": "Protection against goods that are hazardous to health or life",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The right to basic needs",
+   "attribute": "guarantees",
+   "value": "Access to essential goods and services at reasonable prices",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "Checking the Maximum Retail Price",
+   "attribute": "exercised through",
+   "value": "Preventing overcharging above the printed price",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "Asking for a bill or cash memo",
+   "attribute": "exercised through",
+   "value": "Proof of purchase, needed for a complaint",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "Looking for certification marks",
+   "attribute": "exercised through",
+   "value": "Agmark, ISI and Hallmark",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "Checking the expiry and manufacturing date",
+   "attribute": "exercised through",
+   "value": "Avoiding unsafe food and medicine",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The Right to Information Act of 2005",
+   "attribute": "exercised through",
+   "value": "Knowing how government departments function",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "Consumer awareness campaigns",
+   "attribute": "exercised through",
+   "value": "Jago Grahak Jago",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "Agmark",
+   "attribute": "certified by",
+   "value": "Agricultural and livestock products",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The ISI mark",
+   "attribute": "certified by",
+   "value": "Industrial and electrical products",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "Hallmark",
+   "attribute": "certified by",
+   "value": "The purity of gold and silver jewellery",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The Legal Metrology Act of 2009",
+   "attribute": "certified by",
+   "value": "Standard weights and measures",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "FSSAI standards",
+   "attribute": "certified by",
+   "value": "Packaged food and beverages",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "The Consumer Protection Act of 1986",
+   "attribute": "established by",
+   "value": "COPRA, which created the redressal machinery",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "The Consumer Protection Act of 2019",
+   "attribute": "established by",
+   "value": "Replacing COPRA and adding product liability and e-commerce",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "A District Consumer Disputes Redressal Commission",
+   "attribute": "established by",
+   "value": "Cases up to Rs 1 crore",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "A State Consumer Disputes Redressal Commission",
+   "attribute": "established by",
+   "value": "Cases between Rs 1 crore and Rs 10 crore",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "The National Consumer Disputes Redressal Commission",
+   "attribute": "established by",
+   "value": "Cases above Rs 10 crore",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "Appeal from a District Commission",
+   "attribute": "established by",
+   "value": "To the State Commission within the prescribed period",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "Consumer courts' purpose",
+   "attribute": "established by",
+   "value": "A simple, quick and inexpensive remedy",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "Slow progress of consumer cases",
+   "attribute": "hindered by",
+   "value": "Long delays in hearings and judgements",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "Weak enforcement of labour and market laws",
+   "attribute": "hindered by",
+   "value": "Exploitation continuing in practice",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "Low consumer awareness in rural India",
+   "attribute": "hindered by",
+   "value": "Few people knowing their rights",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "Small claims",
+   "attribute": "hindered by",
+   "value": "The cost and effort of a case exceeding the loss",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "Scattered consumer groups",
+   "attribute": "hindered by",
+   "value": "About 700 groups working without coordination",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "Lack of effective implementation",
+   "attribute": "hindered by",
+   "value": "Laws existing but not being enforced",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "Adulteration",
+   "attribute": "exploited through",
+   "value": "Adding inferior substances to food and other goods",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "Underweight goods",
+   "attribute": "exploited through",
+   "value": "Selling less than the quantity paid for",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "False claims and misleading advertisements",
+   "attribute": "exploited through",
+   "value": "Overstating quality or benefit",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "No expiry date or label",
+   "attribute": "exploited through",
+   "value": "Concealing information about the product",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "Overcharging above MRP",
+   "attribute": "exploited through",
+   "value": "Charging more than the printed price",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "Absence of a complaint mechanism",
+   "attribute": "exploited through",
+   "value": "Leaving the consumer without remedy",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The right to be protected against goods and services that are hazardous",
+   "attribute": "term for",
+   "value": "Right to safety",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The right to know the full particulars of what is being bought",
+   "attribute": "term for",
+   "value": "Right to be informed",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The right to choose from a range of goods at competitive prices",
+   "attribute": "term for",
+   "value": "Right to choose",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The right to seek compensation against unfair trade practices",
+   "attribute": "term for",
+   "value": "Right to seek redressal",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.rights",
+   "subject": "The right to put one's case before a consumer court",
+   "attribute": "term for",
+   "value": "Right to represent",
+   "difficulty": "easy"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "Consumer protection at the national level in India",
+   "attribute": "provided by",
+   "value": "The National Consumer Disputes Redressal Commission",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "Consumer protection at the state level in India",
+   "attribute": "provided by",
+   "value": "The State Consumer Disputes Redressal Commission",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "Consumer protection at the district level in India",
+   "attribute": "provided by",
+   "value": "The District Consumer Disputes Redressal Forum",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "The legal basis for consumer claims in India",
+   "attribute": "provided by",
+   "value": "The Consumer Protection Act",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-consumer",
+   "topic": "ss-eco-consumer.redressal",
+   "subject": "Independent evidence that goods meet declared standards",
+   "attribute": "provided by",
+   "value": "Certification marks such as ISI, Agmark and Hallmark",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Producers placing different stages of production in different countries",
+   "attribute": "enabled by",
+   "value": "Improvement in transportation and communication technology",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Goods and services moving more freely between countries",
+   "attribute": "enabled by",
+   "value": "Removal of barriers to foreign trade and foreign investment",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Capital moving quickly across national borders",
+   "attribute": "enabled by",
+   "value": "Liberalisation of the rules governing financial flows",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Multinational corporations driving production across countries",
+   "attribute": "enabled by",
+   "value": "Access to cheap labour and to markets in host countries",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.factors",
+   "subject": "Markets of different countries becoming more integrated",
+   "attribute": "enabled by",
+   "value": "Foreign trade linking producers with buyers abroad",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.wto",
+   "subject": "The organisation that sets the rules for international trade",
+   "attribute": "term for",
+   "value": "The World Trade Organization",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.wto",
+   "subject": "The process of removing government barriers between economies",
+   "attribute": "term for",
+   "value": "Liberalisation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.wto",
+   "subject": "A company that owns and manages production in several countries",
+   "attribute": "term for",
+   "value": "A multinational corporation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.wto",
+   "subject": "The integration of markets and production across countries",
+   "attribute": "term for",
+   "value": "Globalisation",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-eco-globalisation",
+   "topic": "ss-eco-globalisation.wto",
+   "subject": "Production of a single good spread across several countries",
+   "attribute": "term for",
+   "value": "Interlinked production",
+   "difficulty": "medium"
+  }
+ ]
+}

@@ -1,0 +1,548 @@
+{
+  "chapter": "ss-hist-nationalism-europe",
+  "kind": "fact",
+  "source_ref": "NCERT Class 10 - India and the Contemporary World II",
+  "generator_note": "Attribute-dense fact clusters. Grouping by attribute is deliberate: the fact generator only emits its reverse and negative-recall forms when at least four items share an attribute, so dense clusters triple the questions produced per item.",
+  "items": [
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.french-rev",
+      "subject": "Storming of the Bastille",
+      "attribute": "year",
+      "value": "1789",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.french-rev",
+      "subject": "French Revolution begins",
+      "attribute": "year",
+      "value": "1789",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.liberalism",
+      "subject": "Napoleonic Code (Civil Code) introduced",
+      "attribute": "year",
+      "value": "1804",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.liberalism",
+      "subject": "Treaty of Vienna",
+      "attribute": "year",
+      "value": "1815",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.romanticism",
+      "subject": "Greek War of Independence begins",
+      "attribute": "year",
+      "value": "1821",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.events",
+      "subject": "Frankfurt Parliament convened",
+      "attribute": "year",
+      "value": "1848",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.unification",
+      "subject": "German Empire proclaimed at Versailles",
+      "attribute": "year",
+      "value": "1871",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.unification",
+      "subject": "Kingdom of Italy proclaimed",
+      "attribute": "year",
+      "value": "1861",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.non-cooperation",
+      "subject": "Gandhi returns to India from South Africa",
+      "attribute": "year",
+      "value": "1915",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.non-cooperation",
+      "subject": "Champaran Satyagraha",
+      "attribute": "year",
+      "value": "1917",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.non-cooperation",
+      "subject": "Kheda Satyagraha",
+      "attribute": "year",
+      "value": "1918",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.non-cooperation",
+      "subject": "Rowlatt Act passed",
+      "attribute": "year",
+      "value": "1919",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.non-cooperation",
+      "subject": "Jallianwala Bagh massacre",
+      "attribute": "year",
+      "value": "1919",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.non-cooperation",
+      "subject": "Non-Cooperation Movement launched",
+      "attribute": "year",
+      "value": "1920",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.civil-disobedience",
+      "subject": "Simon Commission arrives in India",
+      "attribute": "year",
+      "value": "1928",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.civil-disobedience",
+      "subject": "Lahore Congress demands Purna Swaraj",
+      "attribute": "year",
+      "value": "1929",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.salt-march",
+      "subject": "Dandi March (Salt Satyagraha)",
+      "attribute": "year",
+      "value": "1930",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.civil-disobedience",
+      "subject": "Civil Disobedience Movement begins",
+      "attribute": "year",
+      "value": "1930",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.pacts",
+      "subject": "Gandhi-Irwin Pact signed",
+      "attribute": "year",
+      "value": "1931",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.civil-disobedience",
+      "subject": "Quit India Movement launched",
+      "attribute": "year",
+      "value": "1942",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.pacts",
+      "subject": "Indian Independence Act passed",
+      "attribute": "year",
+      "value": "1947",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-global-world",
+      "topic": "ss-hist-global-world.great-depression",
+      "subject": "Wall Street Crash / Great Depression begins",
+      "attribute": "year",
+      "value": "1929",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-global-world",
+      "topic": "ss-hist-global-world.bretton-woods",
+      "subject": "Bretton Woods Conference held",
+      "attribute": "year",
+      "value": "1944",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-global-world",
+      "topic": "ss-hist-global-world.colonialism",
+      "subject": "First World War begins",
+      "attribute": "year",
+      "value": "1914",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-global-world",
+      "topic": "ss-hist-global-world.colonialism",
+      "subject": "Second World War begins",
+      "attribute": "year",
+      "value": "1939",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-global-world",
+      "topic": "ss-hist-global-world.silk-route",
+      "subject": "Treaty of Versailles signed",
+      "attribute": "year",
+      "value": "1919",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-print-culture",
+      "topic": "ss-hist-print-culture.gutenberg",
+      "subject": "Gutenberg's first printed Bible completed",
+      "attribute": "year",
+      "value": "1455",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-print-culture",
+      "topic": "ss-hist-print-culture.print-india",
+      "subject": "Printing press reaches Goa",
+      "attribute": "year",
+      "value": "1556",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-print-culture",
+      "topic": "ss-hist-print-culture.print-india",
+      "subject": "Bengal Gazette (first English newspaper in India) started",
+      "attribute": "year",
+      "value": "1780",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-print-culture",
+      "topic": "ss-hist-print-culture.print-india",
+      "subject": "Hind Swaraj published",
+      "attribute": "year",
+      "value": "1909",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-industrialisation",
+      "topic": "ss-hist-industrialisation.factories",
+      "subject": "Spinning jenny invented",
+      "attribute": "year",
+      "value": "1764",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-industrialisation",
+      "topic": "ss-hist-industrialisation.factories",
+      "subject": "Steam engine improved by Watt",
+      "attribute": "year",
+      "value": "1769",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-industrialisation",
+      "topic": "ss-hist-industrialisation.factories",
+      "subject": "Cotton mill established by Richard Arkwright",
+      "attribute": "year",
+      "value": "1771",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-industrialisation",
+      "topic": "ss-hist-industrialisation.india-textiles",
+      "subject": "East India Company gets Diwani rights of Bengal",
+      "attribute": "year",
+      "value": "1765",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.unification",
+      "subject": "Unification of Germany",
+      "attribute": "associated with",
+      "value": "Otto von Bismarck",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.unification",
+      "subject": "Unification of Italy",
+      "attribute": "associated with",
+      "value": "Giuseppe Mazzini",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.unification",
+      "subject": "Military expedition of the Red Shirts",
+      "attribute": "associated with",
+      "value": "Giuseppe Garibaldi",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.unification",
+      "subject": "King of Sardinia-Piedmont who became first king of Italy",
+      "attribute": "associated with",
+      "value": "Victor Emmanuel II",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.romanticism",
+      "subject": "Greek War of Independence poet-supporter",
+      "attribute": "associated with",
+      "value": "Lord Byron",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.liberalism",
+      "subject": "French Emperor who spread the Civil Code",
+      "attribute": "associated with",
+      "value": "Napoleon Bonaparte",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.non-cooperation",
+      "subject": "Leader of the Awadh peasants during Non-Cooperation",
+      "attribute": "associated with",
+      "value": "Baba Ramchandra",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.participants",
+      "subject": "Founder of the Swaraj Party",
+      "attribute": "associated with",
+      "value": "C. R. Das",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.participants",
+      "subject": "Organiser of the Alluri Sitarama Raju tribal movement region",
+      "attribute": "associated with",
+      "value": "Alluri Sitarama Raju",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.salt-march",
+      "subject": "Viceroy of India at the time of the Dandi March",
+      "attribute": "associated with",
+      "value": "Lord Irwin",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.civil-disobedience",
+      "subject": "Chairman of the Simon Commission",
+      "attribute": "associated with",
+      "value": "Sir John Simon",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-global-world",
+      "topic": "ss-hist-global-world.bretton-woods",
+      "subject": "Bretton Woods system's key architect institution founder conference host country",
+      "attribute": "associated with",
+      "value": "United States",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-print-culture",
+      "topic": "ss-hist-print-culture.gutenberg",
+      "subject": "Inventor of the printing press in Europe",
+      "attribute": "associated with",
+      "value": "Johannes Gutenberg",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-print-culture",
+      "topic": "ss-hist-print-culture.print-india",
+      "subject": "Editor of the Bengali weekly Sambad Kaumudi",
+      "attribute": "associated with",
+      "value": "Raja Rammohun Roy",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-industrialisation",
+      "topic": "ss-hist-industrialisation.factories",
+      "subject": "Inventor of the steam engine's separate condenser",
+      "attribute": "associated with",
+      "value": "James Watt",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-industrialisation",
+      "topic": "ss-hist-industrialisation.india-textiles",
+      "subject": "Author of Hind Swaraj",
+      "attribute": "associated with",
+      "value": "Mahatma Gandhi",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.salt-march",
+      "subject": "Salt March starting point",
+      "attribute": "place",
+      "value": "Sabarmati",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.salt-march",
+      "subject": "Salt March destination",
+      "attribute": "place",
+      "value": "Dandi",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.non-cooperation",
+      "subject": "Jallianwala Bagh is located in",
+      "attribute": "place",
+      "value": "Amritsar",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.non-cooperation",
+      "subject": "Champaran Satyagraha took place in",
+      "attribute": "place",
+      "value": "Bihar",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-india",
+      "topic": "ss-hist-nationalism-india.civil-disobedience",
+      "subject": "Lahore Congress session (1929) held at",
+      "attribute": "place",
+      "value": "Lahore",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.unification",
+      "subject": "German Empire proclaimed at",
+      "attribute": "place",
+      "value": "Versailles",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-nationalism-europe",
+      "topic": "ss-hist-nationalism-europe.events",
+      "subject": "Frankfurt Parliament met in the church of",
+      "attribute": "place",
+      "value": "St Paul's Church",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-print-culture",
+      "topic": "ss-hist-print-culture.print-india",
+      "subject": "First printing press in India was set up at",
+      "attribute": "place",
+      "value": "Goa",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-global-world",
+      "topic": "ss-hist-global-world.bretton-woods",
+      "subject": "Bretton Woods Conference was held in",
+      "attribute": "place",
+      "value": "New Hampshire, USA",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-hist-industrialisation",
+      "topic": "ss-hist-industrialisation.india-textiles",
+      "subject": "First cotton mill in India was set up at",
+      "attribute": "place",
+      "value": "Bombay",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "chapter": "ss-eco-development",
+  "kind": "definition",
+  "source_ref": "Class 10 Economics (Understanding Economic Development, CBSE 2025-26) - original one-line definitions and facts.",
+  "items": [
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.goals",
+      "term": "Development",
+      "definition": "A process of growth and improvement in which people aspire for better income, equal treatment, freedom and security.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.income",
+      "term": "Per capita income",
+      "definition": "National income divided by the total population, also called average income.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.income",
+      "term": "National income",
+      "definition": "The total income earned by all the residents of a country in a year.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.indicators",
+      "term": "Human Development Index",
+      "definition": "An index published by the UNDP that ranks countries on education, health and income together.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.indicators",
+      "term": "Infant Mortality Rate",
+      "definition": "The number of children who die before completing one year of age per thousand live births.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.indicators",
+      "term": "Literacy rate",
+      "definition": "The proportion of the population aged seven years and above who can read and write with understanding.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-development",
+      "topic": "ss-eco-development.indicators",
+      "term": "Body Mass Index",
+      "definition": "A measure comparing a person's weight in kilograms with the square of their height in metres to detect under or over nutrition.",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.primary",
+      "term": "Primary sector",
+      "definition": "The sector that produces goods by exploiting natural resources, such as agriculture, dairy, fishing and mining.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.secondary",
+      "term": "Secondary sector",
+      "definition": "The sector that converts natural products into other goods through manufacturing, such as sugar from sugarcane.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.tertiary",
+      "term": "Tertiary sector",
+      "definition": "The sector that provides services supporting production and trade, such as transport, banking, education and health.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.tertiary",
+      "term": "Gross Domestic Product",
+      "definition": "The total market value of all final goods and services produced within a country in a particular year.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.organised",
+      "term": "Organised sector",
+      "definition": "Enterprises where terms of employment are regular, with assured work, fixed hours and registered compliance with labour law.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.organised",
+      "term": "Unorganised sector",
+      "definition": "Small scattered units largely outside government control, with low, irregular pay and no job security.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.organised",
+      "term": "MGNREGA",
+      "definition": "The Mahatma Gandhi National Rural Employment Guarantee Act of 2005, guaranteeing one hundred days of wage employment in a year to rural households.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.money",
+      "term": "Medium of exchange",
+      "definition": "The function of money that allows it to act as an intermediary in exchange, removing the need for double coincidence of wants.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.money",
+      "term": "Double coincidence of wants",
+      "definition": "The condition in barter where both parties must want what the other offers, which money eliminates.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.banks",
+      "term": "Reserve Bank of India",
+      "definition": "The central bank that issues currency notes on behalf of the central government and supervises the functioning of formal sources of loans.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.banks",
+      "term": "Credit",
+      "definition": "An agreement in which the lender supplies the borrower with money, goods or services in return for a promise of future payment.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.credit",
+      "term": "Collateral",
+      "definition": "An asset that the borrower owns and uses as a guarantee to a lender until the loan is repaid.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.credit",
+      "term": "Formal sector credit",
+      "definition": "Loans from banks and cooperatives, supervised by the RBI, charging lower and regulated interest rates.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.credit",
+      "term": "Informal sector credit",
+      "definition": "Loans from moneylenders, traders, employers, relatives and friends, with no supervision and high, unregulated interest rates.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.shg",
+      "term": "Self-Help Group",
+      "definition": "A small group of usually fifteen to twenty members, mostly women, who pool savings and lend to each other at reasonable interest.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.production",
+      "term": "Multinational corporation",
+      "definition": "A large company that owns or controls production in more than one country.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.factors",
+      "term": "Liberalisation",
+      "definition": "The removal of barriers or restrictions set by a government on trade and foreign investment, adopted by India in 1991.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.factors",
+      "term": "Foreign Direct Investment",
+      "definition": "Investment made by a company or individual of one country in the business assets of another country.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.factors",
+      "term": "Special Economic Zone",
+      "definition": "An industrial zone with special tax and infrastructure incentives set up to attract foreign investment.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.wto",
+      "term": "World Trade Organization",
+      "definition": "An international organisation founded in 1995 that administers rules governing trade between countries.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.rights",
+      "term": "Consumer",
+      "definition": "Any person who purchases goods or services for personal use.",
+      "difficulty": "easy"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.rights",
+      "term": "Right to be informed",
+      "definition": "The consumer's right to know about the quality, quantity, potency, purity, standard and price of goods.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.rights",
+      "term": "Right to seek redressal",
+      "definition": "The consumer's right to seek remedy against unfair trade practices and exploitation.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "definition",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.redressal",
+      "term": "COPRA",
+      "definition": "The Consumer Protection Act of 1986, later replaced by the Consumer Protection Act of 2019.",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.rights",
+      "subject": "ISI mark",
+      "attribute": "certifies",
+      "value": "the quality of many electrical goods and appliances",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.rights",
+      "subject": "Agmark",
+      "attribute": "certifies",
+      "value": "the quality of agricultural products such as oil and grains",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.rights",
+      "subject": "Hallmark",
+      "attribute": "certifies",
+      "value": "the purity of gold and silver jewellery",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.rights",
+      "subject": "FPO mark",
+      "attribute": "certifies",
+      "value": "processed fruit products such as jams and juices",
+      "difficulty": "medium"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.wto",
+      "subject": "World Trade Organization",
+      "attribute": "year",
+      "value": "1995",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.banks",
+      "subject": "Reserve Bank of India",
+      "attribute": "year",
+      "value": "1935",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.organised",
+      "subject": "MGNREGA enacted",
+      "attribute": "year",
+      "value": "2005",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.factors",
+      "subject": "Liberalisation in India",
+      "attribute": "year",
+      "value": "1991",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.redressal",
+      "subject": "Consumer Protection Act (COPRA)",
+      "attribute": "year",
+      "value": "1986",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "fact",
+      "chapter": "ss-eco-consumer",
+      "topic": "ss-eco-consumer.redressal",
+      "subject": "Consumer Protection Act replacing COPRA",
+      "attribute": "year",
+      "value": "2019",
+      "difficulty": "hard"
+    },
+    {
+      "kind": "sequence",
+      "chapter": "ss-eco-money",
+      "topic": "ss-eco-money.money",
+      "name": "the historical sequence in the evolution of money",
+      "sequence": [
+        "Barter system with double coin",
+        "Commodity money such as grain",
+        "Metallic coins of gold and sil",
+        "Paper currency",
+        "Digital and bank money"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "kind": "sequence",
+      "chapter": "ss-eco-globalisation",
+      "topic": "ss-eco-globalisation.factors",
+      "name": "the sequence of how globalisation reaches a country",
+      "sequence": [
+        "Liberalisation removes trade b",
+        "Foreign companies set up produ",
+        "Imports and exports of goods a",
+        "Markets of different countries"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "kind": "sequence",
+      "chapter": "ss-eco-sectors",
+      "topic": "ss-eco-sectors.primary",
+      "name": "the order of sectors from raw material to service",
+      "sequence": [
+        "Primary sector extracts natura",
+        "Secondary sector manufactures",
+        "Tertiary sector provides servi",
+        "Services support further produ"
+      ],
+      "difficulty": "medium"
+    }
+  ]
+}

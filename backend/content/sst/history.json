@@ -1,0 +1,589 @@
+{
+ "chapter": "ss-hist-nationalism-europe",
+ "kind": "fact",
+ "source_ref": "Class 10 History (India and the Contemporary World II, CBSE 2025-26) - original one-line facts, definitions and chronologies.",
+ "items": [
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.french-rev",
+   "subject": "The French Revolution",
+   "attribute": "year",
+   "value": "1789",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.french-rev",
+   "subject": "The Napoleonic Code (Civil Code)",
+   "attribute": "year",
+   "value": "1804",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.french-rev",
+   "subject": "Napoleon's defeat at Waterloo",
+   "attribute": "year",
+   "value": "1815",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.french-rev",
+   "subject": "The Treaty of Vienna",
+   "attribute": "year",
+   "value": "1815",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "Start of the Greek War of Independence",
+   "attribute": "year",
+   "value": "1821",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.liberalism",
+   "subject": "Formation of the Zollverein customs union",
+   "attribute": "year",
+   "value": "1834",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "Treaty of Constantinople recognising Greece",
+   "attribute": "year",
+   "value": "1832",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.liberalism",
+   "subject": "Revolutions across Europe",
+   "attribute": "year",
+   "value": "1848",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "Unification of Germany",
+   "attribute": "year",
+   "value": "1871",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "Unification of Italy",
+   "attribute": "year",
+   "value": "1870",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "subject": "Start of the Great Depression",
+   "attribute": "year",
+   "value": "1929",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "subject": "The Bretton Woods Conference",
+   "attribute": "year",
+   "value": "1944",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.romanticism",
+   "subject": "Frederic Sorrieu",
+   "attribute": "known for",
+   "value": "French artist who visualised a world of democratic and social republics",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "Giuseppe Mazzini",
+   "attribute": "known for",
+   "value": "Italian revolutionary who founded Young Italy and Young Europe",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "Count Cavour",
+   "attribute": "known for",
+   "value": "Chief minister of Sardinia-Piedmont who led Italian unification through diplomacy",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "Giuseppe Garibaldi",
+   "attribute": "known for",
+   "value": "Leader of the Red Shirts who marched into southern Italy",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "Otto von Bismarck",
+   "attribute": "known for",
+   "value": "Prussian chief minister who used the army and bureaucracy to unify Germany",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "subject": "Kaiser William I",
+   "attribute": "known for",
+   "value": "Proclaimed Emperor of Germany at Versailles in 1871",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.romanticism",
+   "subject": "Johann Gottfried Herder",
+   "attribute": "known for",
+   "value": "Thinker who argued that true German culture lay among the common people",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.liberalism",
+   "term": "Liberal nationalism",
+   "definition": "The idea of government by consent, an end to autocracy and clerical privileges, and a constitution with a representative parliament.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.liberalism",
+   "term": "Zollverein",
+   "definition": "A customs union formed in 1834 at Prussia's initiative that abolished tariff barriers and reduced currencies to fewer than the original thirty.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.french-rev",
+   "term": "The Napoleonic Code",
+   "definition": "A civil code of 1804 that abolished privileges based on birth, established equality before law and secured the right to property.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.romanticism",
+   "term": "Romanticism",
+   "definition": "A cultural movement that used art, poetry, music and folk tradition to create an emotional sense of shared national identity.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "term": "Treaty of Vienna (1815)",
+   "definition": "The settlement that restored the Bourbon dynasty to France and undid most changes of the Napoleonic wars.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "sequence",
+   "chapter": "ss-hist-nationalism-europe",
+   "topic": "ss-hist-nationalism-europe.unification",
+   "name": "chronological order of events in European nation-building",
+   "sequence": [
+    "French Revolution (1789)",
+    "Napoleonic Code (1804)",
+    "Treaty of Vienna (1815)",
+    "Zollverein formed (1834)",
+    "Revolutions in Europe (1848)"
+   ],
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The Rowlatt Act",
+   "attribute": "year",
+   "value": "1919",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The Jallianwala Bagh massacre",
+   "attribute": "year",
+   "value": "1919",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "Launch of the Non-Cooperation Movement",
+   "attribute": "year",
+   "value": "1920",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "The Chauri Chaura incident",
+   "attribute": "year",
+   "value": "1922",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "Arrival of the Simon Commission",
+   "attribute": "year",
+   "value": "1928",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "The Lahore Congress demand for Purna Swaraj",
+   "attribute": "year",
+   "value": "1929",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "subject": "The start of the Dandi March",
+   "attribute": "year",
+   "value": "1930",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Gandhi-Irwin Pact",
+   "attribute": "year",
+   "value": "1931",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Poona Pact",
+   "attribute": "year",
+   "value": "1932",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "The Quit India Movement",
+   "attribute": "year",
+   "value": "1942",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "Indian Independence",
+   "attribute": "year",
+   "value": "1947",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "subject": "Mahatma Gandhi",
+   "attribute": "known for",
+   "value": "Led the Dandi March with 78 trusted volunteers from Sabarmati to Dandi",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "Lala Lajpat Rai",
+   "attribute": "known for",
+   "value": "Leader who was fatally injured in the lathi charge during protests against the Simon Commission",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "subject": "Sardar Vallabhbhai Patel",
+   "attribute": "known for",
+   "value": "Organised the Bardoli Satyagraha and earned the title Sardar",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.participants",
+   "subject": "Alluri Sitaram Raju",
+   "attribute": "known for",
+   "value": "Led the Gudem tribal uprising in Andhra Pradesh",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.participants",
+   "subject": "Baba Ramchandra",
+   "attribute": "known for",
+   "value": "Led the Awadh peasants' movement against talukdars and landlords",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "subject": "Muhammad Ali and Shaukat Ali",
+   "attribute": "known for",
+   "value": "Brothers who formed the Khilafat Committee with Gandhi's support in 1919",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "subject": "Dr B. R. Ambedkar",
+   "attribute": "known for",
+   "value": "Organised the Depressed Classes Association and signed the Poona Pact with Gandhi",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "term": "Non-Cooperation Movement",
+   "definition": "A mass movement launched in 1920 urging Indians to refuse cooperation with British institutions, called off after the Chauri Chaura violence.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "term": "Civil Disobedience Movement",
+   "definition": "A movement begun in 1930 in which people were asked not only to refuse cooperation but also to break colonial laws deliberately.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.civil-disobedience",
+   "term": "Simon Commission",
+   "definition": "A statutory commission with no Indian members, sent in 1928 to suggest constitutional reform and greeted with 'Go back Simon'.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "term": "Poona Pact (1932)",
+   "definition": "An agreement between Gandhi and Dr B. R. Ambedkar giving the Depressed Classes reserved seats in provincial and central councils.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.pacts",
+   "term": "Gandhi-Irwin Pact (1931)",
+   "definition": "An agreement by which Gandhi called off the Civil Disobedience Movement and agreed to attend the Second Round Table Conference.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.non-cooperation",
+   "term": "Rowlatt Act (1919)",
+   "definition": "An act giving the government enormous powers to repress political activities and to detain prisoners for two years without trial.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "sequence",
+   "chapter": "ss-hist-nationalism-india",
+   "topic": "ss-hist-nationalism-india.salt-march",
+   "name": "chronological order of the Gandhian mass movements",
+   "sequence": [
+    "Rowlatt Satyagraha (1919)",
+    "Non-Cooperation Movement (1920",
+    "Called off after Chauri Chaura",
+    "Simon Commission protest (1928",
+    "Dandi March (1930)"
+   ],
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "subject": "The Diamond Sutra printed in Japan",
+   "attribute": "year",
+   "value": "868",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Gutenberg's first printing press",
+   "attribute": "year",
+   "value": "1440",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "subject": "Printing of the Gutenberg Bible",
+   "attribute": "year",
+   "value": "1455",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "First Tamil book printed in India",
+   "attribute": "year",
+   "value": "1579",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Publication of the Bengal Gazette",
+   "attribute": "year",
+   "value": "1780",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "The Vernacular Press Act",
+   "attribute": "year",
+   "value": "1878",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "fact",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "subject": "Tilak's newspapers Kesari and Mahratta",
+   "attribute": "year",
+   "value": "1881",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.great-depression",
+   "term": "The Great Depression",
+   "definition": "A worldwide economic collapse beginning in 1929, marked by falling output, mass unemployment and collapsing prices.",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.bretton-woods",
+   "term": "Bretton Woods system",
+   "definition": "The post-war arrangement of 1944 that created the IMF and the World Bank to sustain full employment and stable exchange rates.",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-global-world",
+   "topic": "ss-hist-global-world.colonialism",
+   "term": "Rinderpest",
+   "definition": "A devastating fast-spreading disease among cattle in Africa in the 1890s that destroyed local livelihoods.",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.factories",
+   "term": "Proto-industrialisation",
+   "definition": "Large-scale production for an international market carried out in the countryside before factories appeared.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-industrialisation",
+   "topic": "ss-hist-industrialisation.india-textiles",
+   "term": "Gomastha",
+   "definition": "A paid servant of the East India Company who supervised weavers, collected supplies and examined the quality of cloth.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.gutenberg",
+   "term": "Johann Gutenberg",
+   "definition": "Inventor of the first-known printing press in the 1430s, who adapted olive and wine press technology to print books.",
+   "difficulty": "medium"
+  },
+  {
+   "kind": "definition",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.manuscripts",
+   "term": "Vellum",
+   "definition": "A fine animal skin used as a writing surface for medieval manuscripts, expensive but durable.",
+   "difficulty": "hard"
+  },
+  {
+   "kind": "sequence",
+   "chapter": "ss-hist-print-culture",
+   "topic": "ss-hist-print-culture.print-india",
+   "name": "chronological order in the spread of print",
+   "sequence": [
+    "Diamond Sutra printed in Japan",
+    "Gutenberg's printing press (14",
+    "Gutenberg Bible printed (1455)",
+    "First Tamil book printed in In",
+    "Bengal Gazette published (1780"
+   ],
+   "difficulty": "hard"
+  }
+ ]
+}
